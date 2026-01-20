@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "01/20/2026, 01:05:15 PM",
-  "lastUpdateISO": "2026-01-20T21:05:15.747Z",
+  "lastUpdate": "01/20/2026, 01:09:28 PM",
+  "lastUpdateISO": "2026-01-20T21:09:28.667Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
   "streamCount": 9,
@@ -11,8 +11,8 @@
       "channel": "",
       "href": "https://ppv.to/live/golazo",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9CenVsQUJxSUVyYkVPVERLTmFBQ3l5VGxZY2tQVFpUUy8xNzY4OTMyMDAwLzE3Njg5NTkwMDAvdWNsX2dvbGF6by9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9CenVsQUJxSUVyYkVPVERLTmFBQ3l5VGxZY2tQVFpUUy8xNzY4OTMyMDAwLzE3Njg5NTkwMDAvdWNsX2dvbGF6by9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9UTExzdldWckJJWWllY0VFZlVOc0F5UXJBY2hZRFVuaS8xNzY4OTMyMDAwLzE3Njg5NTkwMDAvdWNsX2dvbGF6by9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9UTExzdldWckJJWWllY0VFZlVOc0F5UXJBY2hZRFVuaS8xNzY4OTMyMDAwLzE3Njg5NTkwMDAvdWNsX2dvbGF6by9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
       ]
     },
     {
@@ -21,8 +21,8 @@
       "channel": "",
       "href": "https://ppv.to/live/tnt-goals-show",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9oZE9LcHF5a2JzemxzckV6ZUZDS2N3VWRrSmp1aG1xQy8xNzY4OTMyMDAwLzE3Njg5NTcyMDAvdWNsX2dvYWxzeHRyYS9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9oZE9LcHF5a2JzemxzckV6ZUZDS2N3VWRrSmp1aG1xQy8xNzY4OTMyMDAwLzE3Njg5NTcyMDAvdWNsX2dvYWxzeHRyYS9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9rT2dOb3VySGxQWXRPcVJIQUxacHdpb1Zad2hLT0ZvWS8xNzY4OTMyMDAwLzE3Njg5NTcyMDAvdWNsX2dvYWxzeHRyYS9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9rT2dOb3VySGxQWXRPcVJIQUxacHdpb1Zad2hLT0ZvWS8xNzY4OTMyMDAwLzE3Njg5NTcyMDAvdWNsX2dvYWxzeHRyYS9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
       ]
     },
     {
@@ -31,8 +31,8 @@
       "channel": "",
       "href": "https://ppv.to/live/ucl/2026-01-20/rma-mon",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9DallpZWlLV3l2YUJlU2NGR3FEQlBEaEREb1VTZmNKRC8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3JtYS9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9DallpZWlLV3l2YUJlU2NGR3FEQlBEaEREb1VTZmNKRC8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3JtYS9jaGluZXNlLXdlZGRpbmctc2VydmljZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9KWUpQZ3hXTXdBYXVuQUVTblBGZUlVQVduZ3NJWWtiQi8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3JtYS9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9KWUpQZ3hXTXdBYXVuQUVTblBGZUlVQVduZ3NJWWtiQi8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3JtYS9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
       ]
     },
     {
@@ -41,8 +41,8 @@
       "channel": "",
       "href": "https://ppv.to/live/ucl/2026-01-20/int-ars",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS92ZGhpYnpxc0hKYmFKcXBxekRNRExSUHhHVVRFRFZFYi8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX2ludC9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS92ZGhpYnpxc0hKYmFKcXBxekRNRExSUHhHVVRFRFZFYi8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX2ludC9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS93dEpnUEFiZFloU0JSVXFZRXdhV0t3ZnhlQWhrQW1WZi8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX2ludC9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS93dEpnUEFiZFloU0JSVXFZRXdhV0t3ZnhlQWhrQW1WZi8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX2ludC9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
       ]
     },
     {
@@ -51,8 +51,8 @@
       "channel": "",
       "href": "https://ppv.to/live/ucl/2026-01-20/vil-ajx",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS91dk1aSGZTS21jZlZVRUJDd1VXRW1zemFCRXZ6cUl1Wi8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3ZpbC9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS91dk1aSGZTS21jZlZVRUJDd1VXRW1zemFCRXZ6cUl1Wi8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3ZpbC9jaGluZXNlLXdlZGRpbmctc2VydmljZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS92a2ZMc3VYQ016eUZhUlpPUkd6VUlsWkNaR0hyc3ZZUC8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3ZpbC9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS92a2ZMc3VYQ016eUZhUlpPUkd6VUlsWkNaR0hyc3ZZUC8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3ZpbC9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
       ]
     },
     {
@@ -61,8 +61,8 @@
       "channel": "",
       "href": "https://ppv.to/live/ucl/2026-01-20/tot-bvb",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9QUmRkakRuUHdjWGdCVWFmc1FiRXZGZW9nVWNic1pteC8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3RvdC9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9QUmRkakRuUHdjWGdCVWFmc1FiRXZGZW9nVWNic1pteC8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3RvdC9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9HelJnVGdRbG93WnVtVnV1akJIV25yWkNQUFZyU0ZvSi8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3RvdC9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9HelJnVGdRbG93WnVtVnV1akJIV25yWkNQUFZyU0ZvSi8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3RvdC9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
       ]
     },
     {
@@ -71,8 +71,8 @@
       "channel": "",
       "href": "https://ppv.to/live/ucl/2026-01-20/spo-psg",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS93RlZaSkxVeGNGcXNmS1RDVmpVeGRJbUxnTWJZZW5nUy8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3Nwby9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS93RlZaSkxVeGNGcXNmS1RDVmpVeGRJbUxnTWJZZW5nUy8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3Nwby9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9BZlZyRmthYlVWdVZicEJjRm5vWXZGaWNHYXBZcEdLdy8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3Nwby9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9BZlZyRmthYlVWdVZicEJjRm5vWXZGaWNHYXBZcEdLdy8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3Nwby9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
       ]
     },
     {
@@ -81,8 +81,8 @@
       "channel": "",
       "href": "https://ppv.to/live/ucl/2026-01-20/oly-lev",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9WbU5hbWdOckNBTXl6SkVWRFp4VXVuTlVBekpudFJ0Wi8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX29seS9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9WbU5hbWdOckNBTXl6SkVWRFp4VXVuTlVBekpudFJ0Wi8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX29seS9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9HcGFmQ1Z4cHZqRHRSWHV1R3B6b21XQXpxZ1ViaWpYdy8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX29seS9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9HcGFmQ1Z4cHZqRHRSWHV1R3B6b21XQXpxZ1ViaWpYdy8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX29seS9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
       ]
     },
     {
@@ -91,7 +91,7 @@
       "channel": "",
       "href": "https://ppv.to/live/ucl/2026-01-20/cph-nap",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9kT091c3FtRENTd2pQQmxoYmlBU1FqSnlQQ0tiTkdtcy8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX2NwaC9pbmRleC5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9ic0xUSEJScUhmY2JQdkJSY1BZcFVoWUtHVlJYRU5jVi8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX2NwaC9pbmRleC5tM3U4"
       ]
     }
   ]
