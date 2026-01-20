@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-20T15:47:11.875Z",
+  "lastUpdate": "2026-01-20T15:52:12.314Z",
   "proxyBaseUrl": "https://192.168.1.173:3001",
   "localIP": "192.168.1.173",
   "streamCount": 1,
@@ -10,8 +10,8 @@
       "channel": "",
       "href": "https://ppv.to/live/ucl/2026-01-20/kai-bru",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9qdnRMeEtWQnlMeE1uZ2dkaWRYaGJnbHJiaGpZeE5vUy8xNzY4OTE1ODAwLzE3Njg5Mzc0MDAvdWNsX2thaS9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9qdnRMeEtWQnlMeE1uZ2dkaWRYaGJnbHJiaGpZeE5vUy8xNzY4OTE1ODAwLzE3Njg5Mzc0MDAvdWNsX2thaS9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9SdGlGWkFPeU5PSVpkcGpLVEVSRWtWRXhCRnpFY0dRRy8xNzY4OTE1ODAwLzE3Njg5Mzc0MDAvdWNsX2thaS9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9SdGlGWkFPeU5PSVpkcGpLVEVSRWtWRXhCRnpFY0dRRy8xNzY4OTE1ODAwLzE3Njg5Mzc0MDAvdWNsX2thaS9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
       ]
     }
   ]
