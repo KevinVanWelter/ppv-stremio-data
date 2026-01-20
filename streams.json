@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-20T19:23:35.593Z",
+  "lastUpdate": "2026-01-20T19:28:35.974Z",
   "proxyBaseUrl": "https://192.168.1.173:3001",
   "localIP": "192.168.1.173",
   "streamCount": 2,
@@ -10,8 +10,8 @@
       "channel": "",
       "href": "https://ppv.to/live/wsod-rd2",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9ZdU1DU0J4Qk9ndmxZVXVmd25qTVpYSFVtRXlZWExpZi8xNzY4OTE3NjAwLzE3Njg5NDY0MDAvZGFydHMvaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9ZdU1DU0J4Qk9ndmxZVXVmd25qTVpYSFVtRXlZWExpZi8xNzY4OTE3NjAwLzE3Njg5NDY0MDAvZGFydHMvaW5kaWFuLWN5Y2xpbmctc3RvcmUuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9KWmV6TmFpVlZ4R3F2UVVBWExDZVlrTHZEUkNoeHZiQS8xNzY4OTE3NjAwLzE3Njg5NDY0MDAvZGFydHMvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9KWmV6TmFpVlZ4R3F2UVVBWExDZVlrTHZEUkNoeHZiQS8xNzY4OTE3NjAwLzE3Njg5NDY0MDAvZGFydHMvY2hpbmVzZS13ZWRkaW5nLXNlcnZpY2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
       ]
     },
     {
@@ -20,8 +20,8 @@
       "channel": "",
       "href": "https://ppv.to/live/ucl/2026-01-20/bod-mci",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9HQ0thdXhIdkNqeXVkTkxYSWl4VHRIU1p4cnpoYk9CSC8xNzY4OTIzOTAwLzE3Njg5NDU1MDAvdWNsX2JvZC9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9HQ0thdXhIdkNqeXVkTkxYSWl4VHRIU1p4cnpoYk9CSC8xNzY4OTIzOTAwLzE3Njg5NDU1MDAvdWNsX2JvZC9jaGluZXNlLXdlZGRpbmctc2VydmljZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9uSUNQQ0xMU2NnWlJMRU1UV2F6bndYSWd0VXZvUkZtSC8xNzY4OTIzOTAwLzE3Njg5NDU1MDAvdWNsX2JvZC9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9uSUNQQ0xMU2NnWlJMRU1UV2F6bndYSWd0VXZvUkZtSC8xNzY4OTIzOTAwLzE3Njg5NDU1MDAvdWNsX2JvZC9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
       ]
     }
   ]
