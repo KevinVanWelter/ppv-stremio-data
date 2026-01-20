@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-01-20T17:43:13.854Z",
+  "lastUpdate": "2026-01-20T17:48:34.759Z",
   "proxyBaseUrl": "https://192.168.1.173:3001",
   "localIP": "192.168.1.173",
-  "streamCount": 1,
+  "streamCount": 2,
   "streams": [
     {
       "id": "ppvto_0",
@@ -10,8 +10,18 @@
       "channel": "",
       "href": "https://ppv.to/live/wsod-rd2",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9tbU1EUndQSnphUWVycWdjR1pQSGlxVFNDcmdYUVFSRy8xNzY4OTE3NjAwLzE3Njg5NDY0MDAvZGFydHMvaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9tbU1EUndQSnphUWVycWdjR1pQSGlxVFNDcmdYUVFSRy8xNzY4OTE3NjAwLzE3Njg5NDY0MDAvZGFydHMvaW5kaWFuLWN5Y2xpbmctc3RvcmUuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9VVEh5bmJKcnhmbVVXcUR0SEdqaU9zcnd3VWlNeHJ0Vi8xNzY4OTE3NjAwLzE3Njg5NDY0MDAvZGFydHMvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9VVEh5bmJKcnhmbVVXcUR0SEdqaU9zcnd3VWlNeHJ0Vi8xNzY4OTE3NjAwLzE3Njg5NDY0MDAvZGFydHMvaW5kaWFuLWN5Y2xpbmctc3RvcmUuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_1",
+      "title": "Bodø/Glimt vs. Man City",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-20/bod-mci",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9nbHJzdkpRalRSa0didHdZQ3pqcGlSVGVMSGN4T2VNbS8xNzY4OTIzOTAwLzE3Njg5NDU1MDAvdWNsX2JvZC9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9nbHJzdkpRalRSa0didHdZQ3pqcGlSVGVMSGN4T2VNbS8xNzY4OTIzOTAwLzE3Njg5NDU1MDAvdWNsX2JvZC9jaGluZXNlLXdlZGRpbmctc2VydmljZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
       ]
     }
   ]
