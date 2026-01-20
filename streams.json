@@ -1,7 +1,18 @@
 {
-  "lastUpdate": "2026-01-20T07:41:40.158Z",
+  "lastUpdate": "2026-01-20T15:41:54.442Z",
   "proxyBaseUrl": "https://192.168.1.173:3001",
   "localIP": "192.168.1.173",
-  "streamCount": 0,
-  "streams": []
+  "streamCount": 1,
+  "streams": [
+    {
+      "id": "ppvto_0",
+      "title": "Kairat Almaty vs. Club Brugge",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-20/kai-bru",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9sbHNpVG50Vnh0SEtqY2hnWlRDUkZSaW50YUlKUFFaUC8xNzY4OTE1ODAwLzE3Njg5Mzc0MDAvdWNsX2thaS9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9sbHNpVG50Vnh0SEtqY2hnWlRDUkZSaW50YUlKUFFaUC8xNzY4OTE1ODAwLzE3Njg5Mzc0MDAvdWNsX2thaS9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+      ]
+    }
+  ]
 }
