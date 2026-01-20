@@ -1,17 +1,27 @@
 {
-  "lastUpdate": "2026-01-20T15:57:11.886Z",
+  "lastUpdate": "2026-01-20T16:03:34.612Z",
   "proxyBaseUrl": "https://192.168.1.173:3001",
   "localIP": "192.168.1.173",
-  "streamCount": 1,
+  "streamCount": 2,
   "streams": [
     {
       "id": "ppvto_0",
+      "title": "World Series of Darts: Saudi Arabia",
+      "channel": "",
+      "href": "https://ppv.to/live/wsod-rd2",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9NT3FvUHZDWVVPcXFzUnZhSFNHdG54c1dvQ2dEQXpHTC8xNzY4OTE3NjAwLzE3Njg5NDY0MDAvZGFydHMvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9NT3FvUHZDWVVPcXFzUnZhSFNHdG54c1dvQ2dEQXpHTC8xNzY4OTE3NjAwLzE3Njg5NDY0MDAvZGFydHMvaW5kaWFuLWN5Y2xpbmctc3RvcmUuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_1",
       "title": "Kairat Almaty vs. Club Brugge",
       "channel": "",
       "href": "https://ppv.to/live/ucl/2026-01-20/kai-bru",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9RZkJBRkVrSEZ3aVNPQUdvbGpteFNBc0tkZ0hWSFdxdi8xNzY4OTE1ODAwLzE3Njg5Mzc0MDAvdWNsX2thaS9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9RZkJBRkVrSEZ3aVNPQUdvbGpteFNBc0tkZ0hWSFdxdi8xNzY4OTE1ODAwLzE3Njg5Mzc0MDAvdWNsX2thaS9jaGluZXNlLXdlZGRpbmctc2VydmljZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9NTUdQanFlbUdsT3lFcUZWRUVaSVNYclBxUnFqZmFuQy8xNzY4OTE1ODAwLzE3Njg5Mzc0MDAvdWNsX2thaS9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9NTUdQanFlbUdsT3lFcUZWRUVaSVNYclBxUnFqZmFuQy8xNzY4OTE1ODAwLzE3Njg5Mzc0MDAvdWNsX2thaS9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
       ]
     }
   ]
