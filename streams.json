@@ -1,17 +1,96 @@
 {
-  "lastUpdate": "2026-01-20T19:58:14.013Z",
+  "lastUpdate": "2026-01-20T20:06:02.245Z",
   "proxyBaseUrl": "https://192.168.1.173:3001",
   "localIP": "192.168.1.173",
-  "streamCount": 1,
+  "streamCount": 9,
   "streams": [
     {
       "id": "ppvto_0",
-      "title": "World Series of Darts: Saudi Arabia",
+      "title": "CBS Sports Golazo Show",
       "channel": "",
-      "href": "https://ppv.to/live/wsod-rd2",
+      "href": "https://ppv.to/live/golazo",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9oakJMVHFoRGRiVVBLa2hUUVVUVVF0dW5mZ3FkQ3J4WC8xNzY4OTE3NjAwLzE3Njg5NDY0MDAvZGFydHMvaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9oakJMVHFoRGRiVVBLa2hUUVVUVVF0dW5mZ3FkQ3J4WC8xNzY4OTE3NjAwLzE3Njg5NDY0MDAvZGFydHMvY2hpbmVzZS13ZWRkaW5nLXNlcnZpY2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9LTEFqTnlvZkRwYkRVcW5WeHBLdUVWUHd6YXlHSGhHUS8xNzY4OTMyMDAwLzE3Njg5NTkwMDAvdWNsX2dvbGF6by9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9LTEFqTnlvZkRwYkRVcW5WeHBLdUVWUHd6YXlHSGhHUS8xNzY4OTMyMDAwLzE3Njg5NTkwMDAvdWNsX2dvbGF6by9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_1",
+      "title": "TNT Sports Goals Show",
+      "channel": "",
+      "href": "https://ppv.to/live/tnt-goals-show",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9TZ0JDdnBSWUJvenVoT3VKUmN3VkVNUnRLUm1RSXFxRS8xNzY4OTMyMDAwLzE3Njg5NTcyMDAvdWNsX2dvYWxzeHRyYS9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9TZ0JDdnBSWUJvenVoT3VKUmN3VkVNUnRLUm1RSXFxRS8xNzY4OTMyMDAwLzE3Njg5NTcyMDAvdWNsX2dvYWxzeHRyYS9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+      ]
+    },
+    {
+      "id": "ppvto_2",
+      "title": "Real Madrid vs. Monaco",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-20/rma-mon",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9TWWZCaWdYYlVrWGNKbWhSVUtYbmNCUXhlU01GcUJxVi8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3JtYS9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9TWWZCaWdYYlVrWGNKbWhSVUtYbmNCUXhlU01GcUJxVi8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3JtYS9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+      ]
+    },
+    {
+      "id": "ppvto_3",
+      "title": "Inter vs. Arsenal",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-20/int-ars",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9KT1h2T0ZNZnRFUWxFWVVlSFVMS3JPQVFzclpickR3QS8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX2ludC9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9KT1h2T0ZNZnRFUWxFWVVlSFVMS3JPQVFzclpickR3QS8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX2ludC9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_4",
+      "title": "Villarreal vs. Ajax",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-20/vil-ajx",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS90eGVrRUx4Z2ZOdGJMdGJVWW1wQUVWTFR4ZGhURHBmTS8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3ZpbC9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS90eGVrRUx4Z2ZOdGJMdGJVWW1wQUVWTFR4ZGhURHBmTS8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3ZpbC9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_5",
+      "title": "Tottenham vs. B. Dortmund",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-20/tot-bvb",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9lcnlwVUNoUG9CSlJlVnljWU5KWk9UaXhyYUdvSFlFTy8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3RvdC9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9lcnlwVUNoUG9CSlJlVnljWU5KWk9UaXhyYUdvSFlFTy8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3RvdC9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_6",
+      "title": "Sporting CP vs. Paris",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-20/spo-psg",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9NeWh1RXhLSUZQSmpSS2Z3SlJyUWp4a0ZEUWVZbGRDcS8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3Nwby9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9NeWh1RXhLSUZQSmpSS2Z3SlJyUWp4a0ZEUWVZbGRDcS8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX3Nwby9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_7",
+      "title": "Olympiacos vs. Leverkusen",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-20/oly-lev",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9nTXRMS0hodWdUS0dOdmNKaGJxVE5nd1hjWEFvTXVrby8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX29seS9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9nTXRMS0hodWdUS0dOdmNKaGJxVE5nd1hjWEFvTXVrby8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX29seS9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_8",
+      "title": "Copenhagen vs. Napoli",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-20/cph-nap",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS91ZnFGRUZTZWxvVGxQT2xRZFlwa2RYSmNNVmNRbFNicy8xNzY4OTMyMDAwLzE3Njg5NTM2MDAvdWNsX2NwaC9pbmRleC5tM3U4"
       ]
     }
   ]
