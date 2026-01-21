@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/20/2026, 07:17:27 PM",
-  "lastUpdateISO": "2026-01-21T03:17:27.782Z",
+  "lastUpdate": "01/20/2026, 07:33:02 PM",
+  "lastUpdateISO": "2026-01-21T03:33:02.277Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 12,
+  "streamCount": 11,
   "streams": [
     {
       "id": "ppvto_0",
@@ -11,8 +11,8 @@
       "channel": "",
       "href": "https://ppv.to/live/nba/2026-01-20/lac-chi",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS95RXJqQWdVcmlUeHdQd1VSUnNJSmNQdUpYZkpPdnF2WC8xNzY4OTUwMDAwLzE3Njg5NzQ0ODAvY2hpY2Fnb2J1bGxzL2luZGV4Lm0zdTg=",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS95RXJqQWdVcmlUeHdQd1VSUnNJSmNQdUpYZkpPdnF2WC8xNzY4OTUwMDAwLzE3Njg5NzQ0ODAvY2hpY2Fnb2J1bGxzL2JpYmxlLXZlcnNlcy5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9LY3paaUthTGVOUXNSYXJrTnVLWnFkUWxJcmN3Q0l3VS8xNzY4OTUwMDAwLzE3Njg5NzQ0ODAvY2hpY2Fnb2J1bGxzL2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9LY3paaUthTGVOUXNSYXJrTnVLWnFkUWxJcmN3Q0l3VS8xNzY4OTUwMDAwLzE3Njg5NzQ0ODAvY2hpY2Fnb2J1bGxzL2luZGlhbi1jeWNsaW5nLXN0b3JlLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
       ]
     },
     {
@@ -21,8 +21,8 @@
       "channel": "",
       "href": "https://ppv.to/live/nba/2026-01-20/sa-hou",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS94UWlkekdNdnhSS0RZTGxhQllvVmJhUHVsdUh2Z3hMSS8xNzY4OTUwMDAwLzE3Njg5NzQ0ODAvaG91c3RvbnJvY2tldHMvaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS94UWlkekdNdnhSS0RZTGxhQllvVmJhUHVsdUh2Z3hMSS8xNzY4OTUwMDAwLzE3Njg5NzQ0ODAvaG91c3RvbnJvY2tldHMvY2hpbmVzZS13ZWRkaW5nLXNlcnZpY2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9DdVR5d3ZkcFN3VGxmd0NZdHVEa1ZXWnhhVlhLWVR0Qy8xNzY4OTUwMDAwLzE3Njg5NzQ0ODAvaG91c3RvbnJvY2tldHMvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9DdVR5d3ZkcFN3VGxmd0NZdHVEa1ZXWnhhVlhLWVR0Qy8xNzY4OTUwMDAwLzE3Njg5NzQ0ODAvaG91c3RvbnJvY2tldHMvaW5kaWFuLWN5Y2xpbmctc3RvcmUuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
       ]
     },
     {
@@ -31,8 +31,8 @@
       "channel": "",
       "href": "https://ppv.to/live/nba/2026-01-20/min-utah",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9RWmV3VW9zT0x1ZUtTak1rWll0UXFjZktKVkZjRlpnbS8xNzY4OTUzNjAwLzE3Njg5NzgwODAvdXRhaGphenovaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9RWmV3VW9zT0x1ZUtTak1rWll0UXFjZktKVkZjRlpnbS8xNzY4OTUzNjAwLzE3Njg5NzgwODAvdXRhaGphenovYmlibGUtdmVyc2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9qeGF4Z3p3WXdYQnZOcFlrRGtvc3NtVGJSQVpNbndpeC8xNzY4OTUzNjAwLzE3Njg5NzgwODAvdXRhaGphenovaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9qeGF4Z3p3WXdYQnZOcFlrRGtvc3NtVGJSQVpNbndpeC8xNzY4OTUzNjAwLzE3Njg5NzgwODAvdXRhaGphenovY2hpbmVzZS13ZWRkaW5nLXNlcnZpY2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
       ]
     },
     {
@@ -41,8 +41,8 @@
       "channel": "",
       "href": "https://ppv.to/live/nba/2026-01-20/lal-den",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9hS1N1ZWZKU2VOUlV2bGlJWVRCeWxiZ0ZFemxTSkd3Ri8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvZGVudmVybnVnZ2V0cy9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9hS1N1ZWZKU2VOUlV2bGlJWVRCeWxiZ0ZFemxTSkd3Ri8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvZGVudmVybnVnZ2V0cy9jaGluZXNlLXdlZGRpbmctc2VydmljZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9kVUJqcUtBWHdhQ3RRWWloaWVYVkdQVERQTnllcnVoYS8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvZGVudmVybnVnZ2V0cy9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9kVUJqcUtBWHdhQ3RRWWloaWVYVkdQVERQTnllcnVoYS8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvZGVudmVybnVnZ2V0cy9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
       ]
     },
     {
@@ -51,8 +51,8 @@
       "channel": "",
       "href": "https://ppv.to/live/nba/2026-01-20/tor-gs",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9CY2R5aGxjVFFIcVRETkJmc0RFRndZZEtWTmRMdXpnUS8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvZ29sZGVuc3RhdGV3YXJyaW9ycy9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9CY2R5aGxjVFFIcVRETkJmc0RFRndZZEtWTmRMdXpnUS8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvZ29sZGVuc3RhdGV3YXJyaW9ycy9jaGluZXNlLXdlZGRpbmctc2VydmljZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9lTm9vV0FEV05hbklobVl3T2RJbHRLYkp6YnBHRWNUdi8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvZ29sZGVuc3RhdGV3YXJyaW9ycy9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9lTm9vV0FEV05hbklobVl3T2RJbHRLYkp6YnBHRWNUdi8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvZ29sZGVuc3RhdGV3YXJyaW9ycy9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
       ]
     },
     {
@@ -61,68 +61,58 @@
       "channel": "",
       "href": "https://ppv.to/live/nba/2026-01-20/mia-sac",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9vdUNnRVN6RlByd0VsdHBrcHBpaEhsaXBoWmR4YkF5UC8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvc2FjcmFtZW50b2tpbmdzL2luZGV4Lm0zdTg=",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9vdUNnRVN6RlByd0VsdHBrcHBpaEhsaXBoWmR4YkF5UC8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvc2FjcmFtZW50b2tpbmdzL2luZGlhbi1jeWNsaW5nLXN0b3JlLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS90TktwVUNFc0pWY05yTlpGWWppUXZiVHpzQ09zdHd4aC8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvc2FjcmFtZW50b2tpbmdzL2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS90TktwVUNFc0pWY05yTlpGWWppUXZiVHpzQ09zdHd4aC8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvc2FjcmFtZW50b2tpbmdzL2NoaW5lc2Utd2VkZGluZy1zZXJ2aWNlcy5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
       ]
     },
     {
       "id": "ppvto_6",
-      "title": "Boston Bruins vs. Dallas Stars",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-20/bos-dal",
-      "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9Bd2t0UWlnZFJqSUlvYndpYndkY0tZYWJydGNLTnR1Sy8xNzY4OTQ4MjAwLzE3Njg5NzM0MDAvZGFsbGFzc3RhcnMvaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9Bd2t0UWlnZFJqSUlvYndpYndkY0tZYWJydGNLTnR1Sy8xNzY4OTQ4MjAwLzE3Njg5NzM0MDAvZGFsbGFzc3RhcnMvYmlibGUtdmVyc2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
-      ]
-    },
-    {
-      "id": "ppvto_7",
       "title": "Buffalo Sabres vs. Nashville Predators",
       "channel": "",
       "href": "https://ppv.to/live/nhl/2026-01-20/buf-nsh",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9GZnROeVZLREFrYWZYUmZZbFluWkJiQ0VDblpDWlJQci8xNzY4OTUwMDAwLzE3Njg5NzUyMDAvbmFzaHZpbGxlcHJlZGF0b3JzL2luZGV4Lm0zdTg=",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9GZnROeVZLREFrYWZYUmZZbFluWkJiQ0VDblpDWlJQci8xNzY4OTUwMDAwLzE3Njg5NzUyMDAvbmFzaHZpbGxlcHJlZGF0b3JzL2NoaW5lc2Utd2VkZGluZy1zZXJ2aWNlcy5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9QU0VZQ2tTSlRKbGxUdFNWZW9DU01qa3lPY1pUSmtKWi8xNzY4OTUwMDAwLzE3Njg5NzUyMDAvbmFzaHZpbGxlcHJlZGF0b3JzL2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9QU0VZQ2tTSlRKbGxUdFNWZW9DU01qa3lPY1pUSmtKWi8xNzY4OTUwMDAwLzE3Njg5NzUyMDAvbmFzaHZpbGxlcHJlZGF0b3JzL2JpYmxlLXZlcnNlcy5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
       ]
     },
     {
-      "id": "ppvto_8",
+      "id": "ppvto_7",
       "title": "St. Louis Blues vs. Winnipeg Jets",
       "channel": "",
       "href": "https://ppv.to/live/nhl/2026-01-20/stl-wpg",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9HWEF0Um15WXh0U2tkQ3RtZ2pLV2lrdXlNU2x6UFVxTy8xNzY4OTUwMDAwLzE3Njg5NzUyMDAvd2lubmlwZWdqZXRzL2luZGV4Lm0zdTg=",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9HWEF0Um15WXh0U2tkQ3RtZ2pLV2lrdXlNU2x6UFVxTy8xNzY4OTUwMDAwLzE3Njg5NzUyMDAvd2lubmlwZWdqZXRzL2luZGlhbi1jeWNsaW5nLXN0b3JlLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9uTkloeFNwVExxUnhNQXBIVXRDb3prT2hreXFwVFVXcS8xNzY4OTUwMDAwLzE3Njg5NzUyMDAvd2lubmlwZWdqZXRzL2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9uTkloeFNwVExxUnhNQXBIVXRDb3prT2hreXFwVFVXcS8xNzY4OTUwMDAwLzE3Njg5NzUyMDAvd2lubmlwZWdqZXRzL2luZGlhbi1jeWNsaW5nLXN0b3JlLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
       ]
     },
     {
-      "id": "ppvto_9",
+      "id": "ppvto_8",
       "title": "New Jersey Devils vs. Edmonton Oilers",
       "channel": "",
       "href": "https://ppv.to/live/nhl/2026-01-20/nj-edm",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9WWlNlUWNuakNOdXB4b016c3ZSRGFiemdSWm1STUh2ZC8xNzY4OTU3MjAwLzE3Njg5ODI0MDAvZWRtb250b25vaWxlcnMvaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9WWlNlUWNuakNOdXB4b016c3ZSRGFiemdSWm1STUh2ZC8xNzY4OTU3MjAwLzE3Njg5ODI0MDAvZWRtb250b25vaWxlcnMvYmlibGUtdmVyc2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9OREpkSE9QYnlWTUZUQkhMVVJVSldNTGVzaWZPVk9Qdy8xNzY4OTU3MjAwLzE3Njg5ODI0MDAvZWRtb250b25vaWxlcnMvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9OREpkSE9QYnlWTUZUQkhMVVJVSldNTGVzaWZPVk9Qdy8xNzY4OTU3MjAwLzE3Njg5ODI0MDAvZWRtb250b25vaWxlcnMvY2hpbmVzZS13ZWRkaW5nLXNlcnZpY2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
       ]
     },
     {
-      "id": "ppvto_10",
+      "id": "ppvto_9",
       "title": "New York Rangers vs. Los Angeles Kings",
       "channel": "",
       "href": "https://ppv.to/live/nhl/2026-01-20/nyr-la",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9GQ2JUaVlOZmdnWlZYSERER1hqVWNZUURjaHlPTWhCTy8xNzY4OTU3MjAwLzE3Njg5ODI0MDAvbG9zYW5nZWxlc2tpbmdzL2luZGV4Lm0zdTg=",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9GQ2JUaVlOZmdnWlZYSERER1hqVWNZUURjaHlPTWhCTy8xNzY4OTU3MjAwLzE3Njg5ODI0MDAvbG9zYW5nZWxlc2tpbmdzL2NoaW5lc2Utd2VkZGluZy1zZXJ2aWNlcy5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9ubEhrclVxS1VlbFpyVWtzd3hRTE9kSmNkd1JuclJIVS8xNzY4OTU3MjAwLzE3Njg5ODI0MDAvbG9zYW5nZWxlc2tpbmdzL2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9ubEhrclVxS1VlbFpyVWtzd3hRTE9kSmNkd1JuclJIVS8xNzY4OTU3MjAwLzE3Njg5ODI0MDAvbG9zYW5nZWxlc2tpbmdzL2NoaW5lc2Utd2VkZGluZy1zZXJ2aWNlcy5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
       ]
     },
     {
-      "id": "ppvto_11",
+      "id": "ppvto_10",
       "title": "WWE: NXT",
       "channel": "",
       "href": "https://ppv.to/live/wwe/nxt/2026-01-20",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9TRml4dkhSQ3NmSEtabmdIbGVUbVBHclpjbnFIbnd2RC8xNzY4OTUwMDAwLzE3Njg5NzUyMDAvd3Jlc3RsaW5nL2luZGV4Lm0zdTg=",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9TRml4dkhSQ3NmSEtabmdIbGVUbVBHclpjbnFIbnd2RC8xNzY4OTUwMDAwLzE3Njg5NzUyMDAvd3Jlc3RsaW5nL2luZGlhbi1jeWNsaW5nLXN0b3JlLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9acU9SV2l6am9KTVVwdGJLZHdxbk1iR1NGSXhhYXJTdi8xNzY4OTUwMDAwLzE3Njg5NzUyMDAvd3Jlc3RsaW5nL2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9acU9SV2l6am9KTVVwdGJLZHdxbk1iR1NGSXhhYXJTdi8xNzY4OTUwMDAwLzE3Njg5NzUyMDAvd3Jlc3RsaW5nL2luZGlhbi1jeWNsaW5nLXN0b3JlLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
       ]
     }
   ]
