@@ -1,59 +1,8 @@
 {
-  "lastUpdate": "01/20/2026, 09:45:40 PM",
-  "lastUpdateISO": "2026-01-21T05:45:40.743Z",
+  "lastUpdate": "01/20/2026, 10:03:23 PM",
+  "lastUpdateISO": "2026-01-21T06:03:23.002Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 5,
-  "streams": [
-    {
-      "id": "ppvto_0",
-      "title": "Los Angeles Lakers vs. Denver Nuggets",
-      "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-20/lal-den",
-      "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9BRXZNZ0FLeE5IUkN2WmxBb3ZmWG1Rd2laVk5FeFFJRy8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvZGVudmVybnVnZ2V0cy9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9BRXZNZ0FLeE5IUkN2WmxBb3ZmWG1Rd2laVk5FeFFJRy8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvZGVudmVybnVnZ2V0cy9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
-      ]
-    },
-    {
-      "id": "ppvto_1",
-      "title": "Toronto Raptors vs. Golden State Warriors",
-      "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-20/tor-gs",
-      "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9FWkJGZG1ZS2JEdE5FVVdXU0R3a1lrZkxtbVNDZ0R0dC8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvZ29sZGVuc3RhdGV3YXJyaW9ycy9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9FWkJGZG1ZS2JEdE5FVVdXU0R3a1lrZkxtbVNDZ0R0dC8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvZ29sZGVuc3RhdGV3YXJyaW9ycy9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
-      ]
-    },
-    {
-      "id": "ppvto_2",
-      "title": "Miami Heat vs. Sacramento Kings",
-      "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-20/mia-sac",
-      "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9FR052UE9kb2tDQkVBb21PSEZXTmRRTVVDb3lISGRncS8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvc2FjcmFtZW50b2tpbmdzL2luZGV4Lm0zdTg=",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9FR052UE9kb2tDQkVBb21PSEZXTmRRTVVDb3lISGRncS8xNzY4OTU3MjAwLzE3Njg5ODE2ODAvc2FjcmFtZW50b2tpbmdzL2JpYmxlLXZlcnNlcy5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
-      ]
-    },
-    {
-      "id": "ppvto_3",
-      "title": "New Jersey Devils vs. Edmonton Oilers",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-20/nj-edm",
-      "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9KUWZnYURDTVZydnRlZVpETXdoS0VCVEhTY2ZiTlRjYy8xNzY4OTU3MjAwLzE3Njg5ODI0MDAvZWRtb250b25vaWxlcnMvaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9KUWZnYURDTVZydnRlZVpETXdoS0VCVEhTY2ZiTlRjYy8xNzY4OTU3MjAwLzE3Njg5ODI0MDAvZWRtb250b25vaWxlcnMvY2hpbmVzZS13ZWRkaW5nLXNlcnZpY2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
-      ]
-    },
-    {
-      "id": "ppvto_4",
-      "title": "New York Rangers vs. Los Angeles Kings",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-20/nyr-la",
-      "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9wZUJ0cnZ2cFVyWHJnTFlySkFod0xLb3FHenVkeXVqUS8xNzY4OTU3MjAwLzE3Njg5ODI0MDAvbG9zYW5nZWxlc2tpbmdzL2luZGV4Lm0zdTg=",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9wZUJ0cnZ2cFVyWHJnTFlySkFod0xLb3FHenVkeXVqUS8xNzY4OTU3MjAwLzE3Njg5ODI0MDAvbG9zYW5nZWxlc2tpbmdzL2luZGlhbi1jeWNsaW5nLXN0b3JlLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
-      ]
-    }
-  ]
+  "streamCount": 0,
+  "streams": []
 }
