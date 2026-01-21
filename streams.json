@@ -1,29 +1,8 @@
 {
-  "lastUpdate": "01/21/2026, 11:27:41 AM",
-  "lastUpdateISO": "2026-01-21T19:27:41.644Z",
+  "lastUpdate": "01/21/2026, 11:57:19 AM",
+  "lastUpdateISO": "2026-01-21T19:57:19.105Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 2,
-  "streams": [
-    {
-      "id": "ppvto_0",
-      "title": "Galatasaray vs. Atleti",
-      "channel": "",
-      "href": "https://ppv.to/live/ucl/2026-01-21/gal-atm",
-      "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9kcndGaVlSQ1RoaWRzSGx0S253a3F6bEdCcWFURll1RS8xNzY5MDEwMzAwLzE3NjkwMzE5MDAvdWNsX2dhbC9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9kcndGaVlSQ1RoaWRzSGx0S253a3F6bEdCcWFURll1RS8xNzY5MDEwMzAwLzE3NjkwMzE5MDAvdWNsX2dhbC9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
-      ]
-    },
-    {
-      "id": "ppvto_1",
-      "title": "Qarabağ vs. Frankfurt",
-      "channel": "",
-      "href": "https://ppv.to/live/ucl/2026-01-21/qar-fra",
-      "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9rSmVDbWRkdVNEYUJtUVhlbHNoUUpzcm1HbHN5VXF2dS8xNzY5MDEwMzAwLzE3NjkwMzE5MDAvdWNsX3Fhci9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9rSmVDbWRkdVNEYUJtUVhlbHNoUUpzcm1HbHN5VXF2dS8xNzY5MDEwMzAwLzE3NjkwMzE5MDAvdWNsX3Fhci9jaGluZXNlLXdlZGRpbmctc2VydmljZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
-      ]
-    }
-  ]
+  "streamCount": 0,
+  "streams": []
 }
