@@ -1,8 +1,99 @@
 {
-  "lastUpdate": "01/21/2026, 11:59:10 AM",
-  "lastUpdateISO": "2026-01-21T19:59:10.205Z",
+  "lastUpdate": "01/21/2026, 12:02:21 PM",
+  "lastUpdateISO": "2026-01-21T20:02:21.123Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 0,
-  "streams": []
+  "streamCount": 9,
+  "streams": [
+    {
+      "id": "ppvto_0",
+      "title": "CBS Sports Golazo Show",
+      "channel": "",
+      "href": "https://ppv.to/live/golazo",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9WdkJXcW9odlJxckZtUGlpamVsTFBTVU1YVmpnQXZsWC8xNzY5MDE4NDAwLzE3NjkwNDU0MDAvdWNsX2dvbGF6by9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9WdkJXcW9odlJxckZtUGlpamVsTFBTVU1YVmpnQXZsWC8xNzY5MDE4NDAwLzE3NjkwNDU0MDAvdWNsX2dvbGF6by9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+      ]
+    },
+    {
+      "id": "ppvto_1",
+      "title": "TNT Sports Goals Show",
+      "channel": "",
+      "href": "https://ppv.to/live/tnt-goals-show",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9zcnRLVFdFSldWbHFHYk1LTG1qZ1NoSXdGTm1jZk5KZy8xNzY5MDE4NDAwLzE3NjkwNDM2MDAvdWNsX2dvYWxzeHRyYS9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9zcnRLVFdFSldWbHFHYk1LTG1qZ1NoSXdGTm1jZk5KZy8xNzY5MDE4NDAwLzE3NjkwNDM2MDAvdWNsX2dvYWxzeHRyYS9jaGluZXNlLXdlZGRpbmctc2VydmljZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_2",
+      "title": "Chelsea vs. Pafos",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-21/che-paf",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9uSW1vQnRrZU5jZVhzWkxtdnNwbERLeE5tdmhmR3FUVS8xNzY5MDE4NDAwLzE3NjkwNDAwMDAvdWNsX2NoZS9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9uSW1vQnRrZU5jZVhzWkxtdnNwbERLeE5tdmhmR3FUVS8xNzY5MDE4NDAwLzE3NjkwNDAwMDAvdWNsX2NoZS9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+      ]
+    },
+    {
+      "id": "ppvto_3",
+      "title": "Atalanta vs. Athletic Club",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-21/ata-ath",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9KRHVmU0twdlprdVNUdW5UTHpXcERiTGZpQW5qWHpTVy8xNzY5MDE4NDAwLzE3NjkwNDAwMDAvdWNsX2F0YS9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9KRHVmU0twdlprdVNUdW5UTHpXcERiTGZpQW5qWHpTVy8xNzY5MDE4NDAwLzE3NjkwNDAwMDAvdWNsX2F0YS9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_4",
+      "title": "Juventus vs. Benfica",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-21/juv-ben",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9Vd0NPRkl3Yk13anZmVE9kS21SYklTTnNOcWhTaVdObi8xNzY5MDE4NDAwLzE3NjkwNDAwMDAvdWNsX2p1di9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9Vd0NPRkl3Yk13anZmVE9kS21SYklTTnNOcWhTaVdObi8xNzY5MDE4NDAwLzE3NjkwNDAwMDAvdWNsX2p1di9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+      ]
+    },
+    {
+      "id": "ppvto_5",
+      "title": "Slavia Praha vs. Barcelona",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-21/sla-bar",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9lb2pOUmxpTUFic05PSllTUXBSdWFBS0JGRlBLbVRlTS8xNzY5MDE4NDAwLzE3NjkwNDAwMDAvdWNsX3NsYS9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9lb2pOUmxpTUFic05PSllTUXBSdWFBS0JGRlBLbVRlTS8xNzY5MDE4NDAwLzE3NjkwNDAwMDAvdWNsX3NsYS9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_6",
+      "title": "Marseille vs. Liverpool",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-21/mar-liv",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9wZXdadHdIeWRFenJDb2ZUcEhTTG9SeVJMcHNEU2Vvby8xNzY5MDE4NDAwLzE3NjkwNDAwMDAvdWNsX21hci9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9wZXdadHdIeWRFenJDb2ZUcEhTTG9SeVJMcHNEU2Vvby8xNzY5MDE4NDAwLzE3NjkwNDAwMDAvdWNsX21hci9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_7",
+      "title": "Newcastle vs. PSV",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-21/new-psv",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9Iemhkd2FEdGxDUkRyVmRDclZzU1JndWh6WWRzQU9WUS8xNzY5MDE4NDAwLzE3NjkwNDAwMDAvdWNsX25ldy9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9Iemhkd2FEdGxDUkRyVmRDclZzU1JndWh6WWRzQU9WUS8xNzY5MDE4NDAwLzE3NjkwNDAwMDAvdWNsX25ldy9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_8",
+      "title": "Bayern München vs. Union SG",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-21/bay-usg",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9oT1BBSmtwYUJnZVlkYm9yckxNS012bnl1V3pMU2hXRy8xNzY5MDE4NDAwLzE3NjkwNDAwMDAvdWNsX2JheS9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9oT1BBSmtwYUJnZVlkYm9yckxNS012bnl1V3pMU2hXRy8xNzY5MDE4NDAwLzE3NjkwNDAwMDAvdWNsX2JheS9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+      ]
+    }
+  ]
 }
