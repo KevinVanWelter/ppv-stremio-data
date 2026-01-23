@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "01/23/2026, 01:20:33 PM",
-  "lastUpdateISO": "2026-01-23T21:20:33.436Z",
+  "lastUpdate": "01/23/2026, 01:25:26 PM",
+  "lastUpdateISO": "2026-01-23T21:25:26.286Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
   "streamCount": 4,
@@ -11,8 +11,8 @@
       "channel": "",
       "href": "https://ppv.to/live/ligue1/2026-01-23/aux-psg",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9IeVVFYmtxaUFlTktBaGpBbHFzUWVmQ1l4V2pRcXZrVy8xNzY5MTg3NjAwLzE3NjkyMTEwMDAvbDFfYXV4L2luZGV4Lm0zdTg=",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9IeVVFYmtxaUFlTktBaGpBbHFzUWVmQ1l4V2pRcXZrVy8xNzY5MTg3NjAwLzE3NjkyMTEwMDAvbDFfYXV4L2FscGhhL3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9VYVBBQ05Xa2JHWmhudnBsTk55cm9vQnFGaXR1RGtXQi8xNzY5MTg3NjAwLzE3NjkyMTEwMDAvbDFfYXV4L2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9VYVBBQ05Xa2JHWmhudnBsTk55cm9vQnFGaXR1RGtXQi8xNzY5MTg3NjAwLzE3NjkyMTEwMDAvbDFfYXV4L2JyYXZvL3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
       ]
     },
     {
@@ -21,8 +21,8 @@
       "channel": "",
       "href": "https://ppv.to/live/bundesliga/2026-01-23/stp-hsv",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9mZm5sb1BoU3NkenNkTVRvR3JUb25SY1F6b3dZdUJDSy8xNzY5MTg5NDAwLzE3NjkyMTI4MDAvYmxfc3RwL2luZGV4Lm0zdTg=",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9mZm5sb1BoU3NkenNkTVRvR3JUb25SY1F6b3dZdUJDSy8xNzY5MTg5NDAwLzE3NjkyMTI4MDAvYmxfc3RwL2NoYXJsaWUvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9Rd3Fza0ZMeWlPUUt4V09WdE50WGhpaElDQXlTb3hSbS8xNzY5MTg5NDAwLzE3NjkyMTI4MDAvYmxfc3RwL2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9Rd3Fza0ZMeWlPUUt4V09WdE50WGhpaElDQXlTb3hSbS8xNzY5MTg5NDAwLzE3NjkyMTI4MDAvYmxfc3RwL2NoYXJsaWUvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
       ]
     },
     {
@@ -31,8 +31,8 @@
       "channel": "",
       "href": "https://ppv.to/live/seriea/2026-01-23/int-pis",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9WbGFkY2pMc3Bva3hldHJZUWNaTXlkSFJSanNka05hZi8xNzY5MTkwMzAwLzE3NjkyMTM3MDAvc2FfaW50L2luZGV4Lm0zdTg=",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9WbGFkY2pMc3Bva3hldHJZUWNaTXlkSFJSanNka05hZi8xNzY5MTkwMzAwLzE3NjkyMTM3MDAvc2FfaW50L2JyYXZvL3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9QdU5sVU5UaFRBUXh4dGNLUHhJcHRadmNkdFRQckFKYy8xNzY5MTkwMzAwLzE3NjkyMTM3MDAvc2FfaW50L2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9QdU5sVU5UaFRBUXh4dGNLUHhJcHRadmNkdFRQckFKYy8xNzY5MTkwMzAwLzE3NjkyMTM3MDAvc2FfaW50L2FscGhhL3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
       ]
     },
     {
@@ -41,8 +41,8 @@
       "channel": "",
       "href": "https://ppv.to/live/laliga/2026-01-23/lev-elc",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9Fd2NIb3Z4WnBlRUJQa3dFaE9Vd1l5aUxOVUtPZEp1cy8xNzY5MTkxMjAwLzE3NjkyMTQ2MDAvbGFsaWdhdHYvaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9Fd2NIb3Z4WnBlRUJQa3dFaE9Vd1l5aUxOVUtPZEp1cy8xNzY5MTkxMjAwLzE3NjkyMTQ2MDAvbGFsaWdhdHYvYnJhdm8vdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS90emJqVHFlc3JRb05PV3RVV01ZVnRRekxxa1Zsbm5pay8xNzY5MTkxMjAwLzE3NjkyMTQ2MDAvbGFsaWdhdHYvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS90emJqVHFlc3JRb05PV3RVV01ZVnRRekxxa1Zsbm5pay8xNzY5MTkxMjAwLzE3NjkyMTQ2MDAvbGFsaWdhdHYvYWxwaGEvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
       ]
     }
   ]
