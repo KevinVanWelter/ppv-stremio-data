@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "01/22/2026, 08:26:36 PM",
-  "lastUpdateISO": "2026-01-23T04:26:36.032Z",
+  "lastUpdate": "01/22/2026, 08:31:35 PM",
+  "lastUpdateISO": "2026-01-23T04:31:35.686Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
   "streamCount": 5,
@@ -11,8 +11,8 @@
       "channel": "",
       "href": "https://ppv.to/live/nba/2026-01-22/sa-utah",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9DRGh6SlVsRHZYZ3picXFJYnpJa01CSElVWVB1bW10dS8xNzY5MTI2NDAwLzE3NjkxNTA4ODAvdXRhaGphenovaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9DRGh6SlVsRHZYZ3picXFJYnpJa01CSElVWVB1bW10dS8xNzY5MTI2NDAwLzE3NjkxNTA4ODAvdXRhaGphenovYmlibGUtdmVyc2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9ndWNNd0p5TnJBb1VRZEVidUNxcEdldWdaRVhwb0FXRS8xNzY5MTI2NDAwLzE3NjkxNTA4ODAvdXRhaGphenovaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9ndWNNd0p5TnJBb1VRZEVidUNxcEdldWdaRVhwb0FXRS8xNzY5MTI2NDAwLzE3NjkxNTA4ODAvdXRhaGphenovaW5kaWFuLWN5Y2xpbmctc3RvcmUuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
       ]
     },
     {
@@ -21,8 +21,8 @@
       "channel": "",
       "href": "https://ppv.to/live/nba/2026-01-22/lal-lac",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9Qd0VZaVFDUnd6R253bFJ1ZVFxWEtRR2VTQ3FnTkNsZy8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvbGFjbGlwcGVycy9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9Qd0VZaVFDUnd6R253bFJ1ZVFxWEtRR2VTQ3FnTkNsZy8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvbGFjbGlwcGVycy9jaGluZXNlLXdlZGRpbmctc2VydmljZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9UTmJoZWpybHl0amJRYVJ2YVZUanFQdWxKTUN5SU9YTC8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvbGFjbGlwcGVycy9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9UTmJoZWpybHl0amJRYVJ2YVZUanFQdWxKTUN5SU9YTC8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvbGFjbGlwcGVycy9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
       ]
     },
     {
@@ -31,8 +31,8 @@
       "channel": "",
       "href": "https://ppv.to/live/nba/2026-01-22/mia-por",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9BaHVHSG9QY3p5dW5odXVTWEJzRGdLaXhMYmxFS3dxaC8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvcG9ydGxhbmR0cmFpbGJsYXplcnMvaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9BaHVHSG9QY3p5dW5odXVTWEJzRGdLaXhMYmxFS3dxaC8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvcG9ydGxhbmR0cmFpbGJsYXplcnMvaW5kaWFuLWN5Y2xpbmctc3RvcmUuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9PUWpkeGRYdlh4WnF6TWp4TkhjaXRxSUdNeFRYRlhMQS8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvcG9ydGxhbmR0cmFpbGJsYXplcnMvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9PUWpkeGRYdlh4WnF6TWp4TkhjaXRxSUdNeFRYRlhMQS8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvcG9ydGxhbmR0cmFpbGJsYXplcnMvY2hpbmVzZS13ZWRkaW5nLXNlcnZpY2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
       ]
     },
     {
@@ -41,8 +41,8 @@
       "channel": "",
       "href": "https://ppv.to/live/nhl/2026-01-22/pit-edm",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9Gb3R5WkF3SWdteHpsQlV3cE9BWVVSZ05nU1hDdFNVWi8xNzY5MTI2NDAwLzE3NjkxNTE2MDAvZWRtb250b25vaWxlcnMvaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9Gb3R5WkF3SWdteHpsQlV3cE9BWVVSZ05nU1hDdFNVWi8xNzY5MTI2NDAwLzE3NjkxNTE2MDAvZWRtb250b25vaWxlcnMvYmlibGUtdmVyc2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS96R3JvY0ZxdHRabWpCVUdFV1JRZldianZpVExDZFZ1Sy8xNzY5MTI2NDAwLzE3NjkxNTE2MDAvZWRtb250b25vaWxlcnMvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS96R3JvY0ZxdHRabWpCVUdFV1JRZldianZpVExDZFZ1Sy8xNzY5MTI2NDAwLzE3NjkxNTE2MDAvZWRtb250b25vaWxlcnMvaW5kaWFuLWN5Y2xpbmctc3RvcmUuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
       ]
     },
     {
@@ -51,7 +51,7 @@
       "channel": "",
       "href": "https://ppv.to/live/nhl/2026-01-22/det-min",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS95VGtuTktqRm9vZ3NuS1dTVWZtVWRmakVSRktyY2ptSy8xNzY5MTI4MjAwLzE3NjkxNTM0MDAvbWlubmVzb3Rhd2lsZC9pbmRleC5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS95Q0NEV0xoU3BDZHhBZk5XTHF1ZHd1eUtCbGJIRnZ0Vi8xNzY5MTI4MjAwLzE3NjkxNTM0MDAvbWlubmVzb3Rhd2lsZC9pbmRleC5tM3U4"
       ]
     }
   ]
