@@ -1,47 +1,48 @@
 {
-  "lastUpdate": "01/22/2026, 08:56:24 PM",
-  "lastUpdateISO": "2026-01-23T04:56:24.541Z",
+  "lastUpdate": "01/23/2026, 01:20:33 PM",
+  "lastUpdateISO": "2026-01-23T21:20:33.436Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
   "streamCount": 4,
   "streams": [
     {
       "id": "ppvto_0",
-      "title": "Los Angeles Lakers vs. LA Clippers",
+      "title": "AJ Auxerre vs. Paris Saint-Germain",
       "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-22/lal-lac",
+      "href": "https://ppv.to/live/ligue1/2026-01-23/aux-psg",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS94cERieEtYRU5RQU1jZGhUcGt5eU9ZdUtzVnh6V1NBcS8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvbGFjbGlwcGVycy9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS94cERieEtYRU5RQU1jZGhUcGt5eU9ZdUtzVnh6V1NBcS8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvbGFjbGlwcGVycy9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9IeVVFYmtxaUFlTktBaGpBbHFzUWVmQ1l4V2pRcXZrVy8xNzY5MTg3NjAwLzE3NjkyMTEwMDAvbDFfYXV4L2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9IeVVFYmtxaUFlTktBaGpBbHFzUWVmQ1l4V2pRcXZrVy8xNzY5MTg3NjAwLzE3NjkyMTEwMDAvbDFfYXV4L2FscGhhL3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
       ]
     },
     {
       "id": "ppvto_1",
-      "title": "Miami Heat vs. Portland Trail Blazers",
+      "title": "St. Pauli vs. Hamburg SV",
       "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-22/mia-por",
+      "href": "https://ppv.to/live/bundesliga/2026-01-23/stp-hsv",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9WQmpta3BlQmhEaXRiUk5NcGlwU3JUZ0lCdVlJcGJjby8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvcG9ydGxhbmR0cmFpbGJsYXplcnMvaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9WQmpta3BlQmhEaXRiUk5NcGlwU3JUZ0lCdVlJcGJjby8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvcG9ydGxhbmR0cmFpbGJsYXplcnMvY2hpbmVzZS13ZWRkaW5nLXNlcnZpY2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9mZm5sb1BoU3NkenNkTVRvR3JUb25SY1F6b3dZdUJDSy8xNzY5MTg5NDAwLzE3NjkyMTI4MDAvYmxfc3RwL2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9mZm5sb1BoU3NkenNkTVRvR3JUb25SY1F6b3dZdUJDSy8xNzY5MTg5NDAwLzE3NjkyMTI4MDAvYmxfc3RwL2NoYXJsaWUvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
       ]
     },
     {
       "id": "ppvto_2",
-      "title": "Pittsburgh Penguins vs. Edmonton Oilers",
+      "title": "Inter Milan vs. Pisa",
       "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-22/pit-edm",
+      "href": "https://ppv.to/live/seriea/2026-01-23/int-pis",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS92Um5sb1pNSHRlU0FWYlBkaEdiQWVETVVPQlBTUUNVQS8xNzY5MTI2NDAwLzE3NjkxNTE2MDAvZWRtb250b25vaWxlcnMvaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS92Um5sb1pNSHRlU0FWYlBkaEdiQWVETVVPQlBTUUNVQS8xNzY5MTI2NDAwLzE3NjkxNTE2MDAvZWRtb250b25vaWxlcnMvY2hpbmVzZS13ZWRkaW5nLXNlcnZpY2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9WbGFkY2pMc3Bva3hldHJZUWNaTXlkSFJSanNka05hZi8xNzY5MTkwMzAwLzE3NjkyMTM3MDAvc2FfaW50L2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9WbGFkY2pMc3Bva3hldHJZUWNaTXlkSFJSanNka05hZi8xNzY5MTkwMzAwLzE3NjkyMTM3MDAvc2FfaW50L2JyYXZvL3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
       ]
     },
     {
       "id": "ppvto_3",
-      "title": "Detroit Red Wings vs. Minnesota Wild",
+      "title": "Levante vs. Elche",
       "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-22/det-min",
+      "href": "https://ppv.to/live/laliga/2026-01-23/lev-elc",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9LV3NGanpqTHJTVFRKZ1pSR3hoYmdUcmpxUUpxeHhPTC8xNzY5MTI4MjAwLzE3NjkxNTM0MDAvbWlubmVzb3Rhd2lsZC9pbmRleC5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9Fd2NIb3Z4WnBlRUJQa3dFaE9Vd1l5aUxOVUtPZEp1cy8xNzY5MTkxMjAwLzE3NjkyMTQ2MDAvbGFsaWdhdHYvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9Fd2NIb3Z4WnBlRUJQa3dFaE9Vd1l5aUxOVUtPZEp1cy8xNzY5MTkxMjAwLzE3NjkyMTQ2MDAvbGFsaWdhdHYvYnJhdm8vdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
       ]
     }
   ]
