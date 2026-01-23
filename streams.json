@@ -1,57 +1,47 @@
 {
-  "lastUpdate": "01/22/2026, 08:46:35 PM",
-  "lastUpdateISO": "2026-01-23T04:46:35.525Z",
+  "lastUpdate": "01/22/2026, 08:51:24 PM",
+  "lastUpdateISO": "2026-01-23T04:51:24.577Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 5,
+  "streamCount": 4,
   "streams": [
     {
       "id": "ppvto_0",
-      "title": "San Antonio Spurs vs. Utah Jazz",
-      "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-22/sa-utah",
-      "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9BRkRtbFRMRlBjSmJNSVBGdnJPZ0ZCUEdraWZMSUphQS8xNzY5MTI2NDAwLzE3NjkxNTA4ODAvdXRhaGphenovaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9BRkRtbFRMRlBjSmJNSVBGdnJPZ0ZCUEdraWZMSUphQS8xNzY5MTI2NDAwLzE3NjkxNTA4ODAvdXRhaGphenovY2hpbmVzZS13ZWRkaW5nLXNlcnZpY2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
-      ]
-    },
-    {
-      "id": "ppvto_1",
       "title": "Los Angeles Lakers vs. LA Clippers",
       "channel": "",
       "href": "https://ppv.to/live/nba/2026-01-22/lal-lac",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9YVGRDUWphVFlCYmFmWm5Ld0NXUnRDY2ZwdG5Ea1huVS8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvbGFjbGlwcGVycy9pbmRleC5tM3U4",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9YVGRDUWphVFlCYmFmWm5Ld0NXUnRDY2ZwdG5Ea1huVS8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvbGFjbGlwcGVycy9iaWJsZS12ZXJzZXMuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9wdVBXTEdYY2RpVWpaY0FMYWNPQ096S2JWR3ZXREpBZC8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvbGFjbGlwcGVycy9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9wdVBXTEdYY2RpVWpaY0FMYWNPQ096S2JWR3ZXREpBZC8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvbGFjbGlwcGVycy9pbmRpYW4tY3ljbGluZy1zdG9yZS5iZXN0L3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
       ]
     },
     {
-      "id": "ppvto_2",
+      "id": "ppvto_1",
       "title": "Miami Heat vs. Portland Trail Blazers",
       "channel": "",
       "href": "https://ppv.to/live/nba/2026-01-22/mia-por",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9XSldGbkRMeFJsQ2hoVFpPSU5ScWFzVFRBeGdyeVZ3WC8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvcG9ydGxhbmR0cmFpbGJsYXplcnMvaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9XSldGbkRMeFJsQ2hoVFpPSU5ScWFzVFRBeGdyeVZ3WC8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvcG9ydGxhbmR0cmFpbGJsYXplcnMvaW5kaWFuLWN5Y2xpbmctc3RvcmUuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9jbk9hWUlJQUNRTlN6TWtIaVVqbEdxQ0xUc0dWU3phbC8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvcG9ydGxhbmR0cmFpbGJsYXplcnMvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9jbk9hWUlJQUNRTlN6TWtIaVVqbEdxQ0xUc0dWU3phbC8xNzY5MTMwMDAwLzE3NjkxNTQ0ODAvcG9ydGxhbmR0cmFpbGJsYXplcnMvY2hpbmVzZS13ZWRkaW5nLXNlcnZpY2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
       ]
     },
     {
-      "id": "ppvto_3",
+      "id": "ppvto_2",
       "title": "Pittsburgh Penguins vs. Edmonton Oilers",
       "channel": "",
       "href": "https://ppv.to/live/nhl/2026-01-22/pit-edm",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9lelFnaFhoWWlWdVB4TXhyd2d2bExSUHlVdkxlRFhkWC8xNzY5MTI2NDAwLzE3NjkxNTE2MDAvZWRtb250b25vaWxlcnMvaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9lelFnaFhoWWlWdVB4TXhyd2d2bExSUHlVdkxlRFhkWC8xNzY5MTI2NDAwLzE3NjkxNTE2MDAvZWRtb250b25vaWxlcnMvYmlibGUtdmVyc2VzLmJlc3QvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS94eldSbFRMWXRHRk9xT3FMT2VCeUNoS21lSE1YZkhwRi8xNzY5MTI2NDAwLzE3NjkxNTE2MDAvZWRtb250b25vaWxlcnMvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS94eldSbFRMWXRHRk9xT3FMT2VCeUNoS21lSE1YZkhwRi8xNzY5MTI2NDAwLzE3NjkxNTE2MDAvZWRtb250b25vaWxlcnMvaW5kaWFuLWN5Y2xpbmctc3RvcmUuYmVzdC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
       ]
     },
     {
-      "id": "ppvto_4",
+      "id": "ppvto_3",
       "title": "Detroit Red Wings vs. Minnesota Wild",
       "channel": "",
       "href": "https://ppv.to/live/nhl/2026-01-22/det-min",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9kaFhQYk9GQnhMVmhYbldQbWNOSmZLUk5hTVB0bmx2Zy8xNzY5MTI4MjAwLzE3NjkxNTM0MDAvbWlubmVzb3Rhd2lsZC9pbmRleC5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9CU1VaQVRhVVBCdk1HVERhWFJGVHVaQnRYVHVDQklhTi8xNzY5MTI4MjAwLzE3NjkxNTM0MDAvbWlubmVzb3Rhd2lsZC9pbmRleC5tM3U4"
       ]
     }
   ]
