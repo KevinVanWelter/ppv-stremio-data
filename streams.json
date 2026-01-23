@@ -1,38 +1,28 @@
 {
-  "lastUpdate": "01/23/2026, 02:00:15 PM",
-  "lastUpdateISO": "2026-01-23T22:00:15.562Z",
+  "lastUpdate": "01/23/2026, 02:10:03 PM",
+  "lastUpdateISO": "2026-01-23T22:10:03.955Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 3,
+  "streamCount": 2,
   "streams": [
     {
       "id": "ppvto_0",
-      "title": "St. Pauli vs. Hamburg SV",
-      "channel": "",
-      "href": "https://ppv.to/live/bundesliga/2026-01-23/stp-hsv",
-      "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9XV0hXQVZoZHR3S0JUV3NOaElPaG5JcnNWb3VxeENidi8xNzY5MTg5NDAwLzE3NjkyMTI4MDAvYmxfc3RwL2luZGV4Lm0zdTg=",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9XV0hXQVZoZHR3S0JUV3NOaElPaG5JcnNWb3VxeENidi8xNzY5MTg5NDAwLzE3NjkyMTI4MDAvYmxfc3RwL2FscGhhL3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
-      ]
-    },
-    {
-      "id": "ppvto_1",
       "title": "Inter Milan vs. Pisa",
       "channel": "",
       "href": "https://ppv.to/live/seriea/2026-01-23/int-pis",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9qRmVDdGhBUUV1UWhOWHBKamtQZWJ2VmtySEpvQ1lmUS8xNzY5MTkwMzAwLzE3NjkyMTM3MDAvc2FfaW50L2luZGV4Lm0zdTg=",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9qRmVDdGhBUUV1UWhOWHBKamtQZWJ2VmtySEpvQ1lmUS8xNzY5MTkwMzAwLzE3NjkyMTM3MDAvc2FfaW50L2NoYXJsaWUvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9zSG5VSnB4bmh0YUFFVVJKSHhmcFJkVnNPUkFFbkhiSC8xNzY5MTkwMzAwLzE3NjkyMTM3MDAvc2FfaW50L2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9zSG5VSnB4bmh0YUFFVVJKSHhmcFJkVnNPUkFFbkhiSC8xNzY5MTkwMzAwLzE3NjkyMTM3MDAvc2FfaW50L2FscGhhL3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
       ]
     },
     {
-      "id": "ppvto_2",
+      "id": "ppvto_1",
       "title": "Levante vs. Elche",
       "channel": "",
       "href": "https://ppv.to/live/laliga/2026-01-23/lev-elc",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9iUGR6YnhZZFZrWVRQZnVuUndsUlhpdE51WmJtZnhWRi8xNzY5MTkxMjAwLzE3NjkyMTQ2MDAvbGFsaWdhdHYvaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9iUGR6YnhZZFZrWVRQZnVuUndsUlhpdE51WmJtZnhWRi8xNzY5MTkxMjAwLzE3NjkyMTQ2MDAvbGFsaWdhdHYvYWxwaGEvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9mV1pZWFJjS0NIekF4QWhITGl4VkFycVdlS2pDVlpLRy8xNzY5MTkxMjAwLzE3NjkyMTQ2MDAvbGFsaWdhdHYvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9mV1pZWFJjS0NIekF4QWhITGl4VkFycVdlS2pDVlpLRy8xNzY5MTkxMjAwLzE3NjkyMTQ2MDAvbGFsaWdhdHYvY2hhcmxpZS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
       ]
     }
   ]
