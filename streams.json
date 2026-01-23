@@ -1,48 +1,38 @@
 {
-  "lastUpdate": "01/23/2026, 01:30:26 PM",
-  "lastUpdateISO": "2026-01-23T21:30:26.919Z",
+  "lastUpdate": "01/23/2026, 01:35:14 PM",
+  "lastUpdateISO": "2026-01-23T21:35:14.617Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 4,
+  "streamCount": 3,
   "streams": [
     {
       "id": "ppvto_0",
-      "title": "AJ Auxerre vs. Paris Saint-Germain",
-      "channel": "",
-      "href": "https://ppv.to/live/ligue1/2026-01-23/aux-psg",
-      "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS90bXNST3ZtSHhQVFh1Y2hBcXR2V3JpVWl3Sm55TGhTUC8xNzY5MTg3NjAwLzE3NjkyMTEwMDAvbDFfYXV4L2luZGV4Lm0zdTg=",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS90bXNST3ZtSHhQVFh1Y2hBcXR2V3JpVWl3Sm55TGhTUC8xNzY5MTg3NjAwLzE3NjkyMTEwMDAvbDFfYXV4L2FscGhhL3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
-      ]
-    },
-    {
-      "id": "ppvto_1",
       "title": "St. Pauli vs. Hamburg SV",
       "channel": "",
       "href": "https://ppv.to/live/bundesliga/2026-01-23/stp-hsv",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9wcUxEcER5Y0xLUVFaZ1RNdFRoV2dZQ0hHWWlDWU5sRy8xNzY5MTg5NDAwLzE3NjkyMTI4MDAvYmxfc3RwL2luZGV4Lm0zdTg=",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9wcUxEcER5Y0xLUVFaZ1RNdFRoV2dZQ0hHWWlDWU5sRy8xNzY5MTg5NDAwLzE3NjkyMTI4MDAvYmxfc3RwL2JyYXZvL3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS91UE54bXBmVnd3c0xnQ3Z2akVzckNPbFhvYWhleWVnVC8xNzY5MTg5NDAwLzE3NjkyMTI4MDAvYmxfc3RwL2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS91UE54bXBmVnd3c0xnQ3Z2akVzckNPbFhvYWhleWVnVC8xNzY5MTg5NDAwLzE3NjkyMTI4MDAvYmxfc3RwL2JyYXZvL3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
       ]
     },
     {
-      "id": "ppvto_2",
+      "id": "ppvto_1",
       "title": "Inter Milan vs. Pisa",
       "channel": "",
       "href": "https://ppv.to/live/seriea/2026-01-23/int-pis",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9GbkN5RGtKcFh5ZmlucUdFU3JLZ1FJUVV4WkNtbk11ei8xNzY5MTkwMzAwLzE3NjkyMTM3MDAvc2FfaW50L2luZGV4Lm0zdTg=",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9GbkN5RGtKcFh5ZmlucUdFU3JLZ1FJUVV4WkNtbk11ei8xNzY5MTkwMzAwLzE3NjkyMTM3MDAvc2FfaW50L2FscGhhL3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9lU0dOT0JxWndOUktaZWVpVEJ5dVdpbklNV0dCV2pGci8xNzY5MTkwMzAwLzE3NjkyMTM3MDAvc2FfaW50L2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9lU0dOT0JxWndOUktaZWVpVEJ5dVdpbklNV0dCV2pGci8xNzY5MTkwMzAwLzE3NjkyMTM3MDAvc2FfaW50L2NoYXJsaWUvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
       ]
     },
     {
-      "id": "ppvto_3",
+      "id": "ppvto_2",
       "title": "Levante vs. Elche",
       "channel": "",
       "href": "https://ppv.to/live/laliga/2026-01-23/lev-elc",
       "proxyPaths": [
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9xSWt6QkRqemlNcGFzR0hLSHVSWVBiWkpYcUt4SFdZVS8xNzY5MTkxMjAwLzE3NjkyMTQ2MDAvbGFsaWdhdHYvaW5kZXgubTN1OA==",
-        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9xSWt6QkRqemlNcGFzR0hLSHVSWVBiWkpYcUt4SFdZVS8xNzY5MTkxMjAwLzE3NjkyMTQ2MDAvbGFsaWdhdHYvYWxwaGEvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9nbllsZm9GU0pucVlLVGxNSWRHbVJLU3FNendiYVdneS8xNzY5MTkxMjAwLzE3NjkyMTQ2MDAvbGFsaWdhdHYvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9nbllsZm9GU0pucVlLVGxNSWRHbVJLU3FNendiYVdneS8xNzY5MTkxMjAwLzE3NjkyMTQ2MDAvbGFsaWdhdHYvYWxwaGEvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
       ]
     }
   ]
