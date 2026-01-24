@@ -1,8 +1,149 @@
 {
-  "lastUpdate": "01/23/2026, 06:37:36 PM",
-  "lastUpdateISO": "2026-01-24T02:37:36.522Z",
+  "lastUpdate": "01/23/2026, 06:40:23 PM",
+  "lastUpdateISO": "2026-01-24T02:40:23.306Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 0,
-  "streams": []
+  "streamCount": 14,
+  "streams": [
+    {
+      "id": "ppvto_0",
+      "title": "Houston Rockets vs. Detroit Pistons",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-23/hou-det",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9lRmpOVEZCV1hXclhUTU1ZTVdlSmt0dHhxcndvUkNYSi8xNzY5MjA1NjAwLzE3NjkyMzAwODAvZGV0cm9pdHBpc3RvbnMvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9lRmpOVEZCV1hXclhUTU1ZTVdlSmt0dHhxcndvUkNYSi8xNzY5MjA1NjAwLzE3NjkyMzAwODAvZGV0cm9pdHBpc3RvbnMvY2hhcmxpZS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_1",
+      "title": "Phoenix Suns vs. Atlanta Hawks",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-23/phx-atl",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS94cHJDU2RycUZlVVZieGFZZ09hd3R3S3pxZ0hzRkt0eS8xNzY5MjA3NDAwLzE3NjkyMzE4ODAvYXRsYW50YWhhd2tzL2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS94cHJDU2RycUZlVVZieGFZZ09hd3R3S3pxZ0hzRkt0eS8xNzY5MjA3NDAwLzE3NjkyMzE4ODAvYXRsYW50YWhhd2tzL2JyYXZvL3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+      ]
+    },
+    {
+      "id": "ppvto_2",
+      "title": "Boston Celtics vs. Brooklyn Nets",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-23/bos-bkn",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9PanhSamN1Qk1nTGd6S1NxcEl0cEl1VVdtTVNEelJ3Ti8xNzY5MjA3NDAwLzE3NjkyMzE4ODAvYnJvb2tseW5uZXRzL2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9PanhSamN1Qk1nTGd6S1NxcEl0cEl1VVdtTVNEelJ3Ti8xNzY5MjA3NDAwLzE3NjkyMzE4ODAvYnJvb2tseW5uZXRzL2NoYXJsaWUvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+      ]
+    },
+    {
+      "id": "ppvto_3",
+      "title": "Sacramento Kings vs. Cleveland Cavaliers",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-23/sac-cle",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9HeXdRaHlqVE5aSWtBbkhsZFZVcXhzcXBGRHlDdFBCdC8xNzY5MjA3NDAwLzE3NjkyMzE4ODAvY2xldmVsYW5kY2F2YWxpZXJzL2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9HeXdRaHlqVE5aSWtBbkhsZFZVcXhzcXBGRHlDdFBCdC8xNzY5MjA3NDAwLzE3NjkyMzE4ODAvY2xldmVsYW5kY2F2YWxpZXJzL2JyYXZvL3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+      ]
+    },
+    {
+      "id": "ppvto_4",
+      "title": "New Orleans Pelicans vs. Memphis Grizzlies",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-23/no-mem",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS93cGNFTUNjT1VRcGJkbWtLbW5JYU9idlFWaU1TcEd6Si8xNzY5MjA5MjAwLzE3NjkyMzM2ODAvbWVtcGhpc2dyaXp6bGllcy9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS93cGNFTUNjT1VRcGJkbWtLbW5JYU9idlFWaU1TcEd6Si8xNzY5MjA5MjAwLzE3NjkyMzM2ODAvbWVtcGhpc2dyaXp6bGllcy9icmF2by90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_5",
+      "title": "Indiana Pacers vs. Oklahoma City Thunder",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-23/ind-okc",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9BWGJHVUttRUJLQU5QamRRTkxSdVBpUHJZZm5SalFnbi8xNzY5MjA5MjAwLzE3NjkyMzM2ODAvb2tsYWhvbWFjaXR5dGh1bmRlci9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9BWGJHVUttRUJLQU5QamRRTkxSdVBpUHJZZm5SalFnbi8xNzY5MjA5MjAwLzE3NjkyMzM2ODAvb2tsYWhvbWFjaXR5dGh1bmRlci9hbHBoYS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_6",
+      "title": "Denver Nuggets vs. Milwaukee Bucks",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-23/den-mil",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9FcU5rcU9kakxrbXRPYmZ4WWtkSnRVc2JqQUF3bkRIcS8xNzY5MjE0NjAwLzE3NjkyMzkwODAvbWlsd2F1a2VlYnVja3MvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9FcU5rcU9kakxrbXRPYmZ4WWtkSnRVc2JqQUF3bkRIcS8xNzY5MjE0NjAwLzE3NjkyMzkwODAvbWlsd2F1a2VlYnVja3MvYnJhdm8vdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+      ]
+    },
+    {
+      "id": "ppvto_7",
+      "title": "Zuffa Boxing 01",
+      "channel": "",
+      "href": "https://ppv.to/live/zuffa-boxing-01",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9BVVREd2tKY0FHQWJrS1JuTk5YZGpoWE5JWEdRYVhicy8xNzY5MjAwMjAwLzE3NjkyNDM0MDAvenVmZmFib3hpbmcvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9BVVREd2tKY0FHQWJrS1JuTk5YZGpoWE5JWEdRYVhicy8xNzY5MjAwMjAwLzE3NjkyNDM0MDAvenVmZmFib3hpbmcvYnJhdm8vdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+      ]
+    },
+    {
+      "id": "ppvto_8",
+      "title": "Vegas Golden Knights vs. Toronto Maple Leafs",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-23/vgk-tor",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9ycU9idlRNS1JDTk1tWmpscldEdnNKdUdIcGp1V3Bhci8xNzY5MjA1NjAwLzE3NjkyMzA4MDAvdG9yb250b21hcGxlbGVhZnMvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9ycU9idlRNS1JDTk1tWmpscldEdnNKdUdIcGp1V3Bhci8xNzY5MjA1NjAwLzE3NjkyMzA4MDAvdG9yb250b21hcGxlbGVhZnMvYnJhdm8vdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+      ]
+    },
+    {
+      "id": "ppvto_9",
+      "title": "Tampa Bay Lightning vs. Chicago Blackhawks",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-23/tb-chi",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9TYWhIR0lhSkNueG9tRFhKalF1Sll2YnFsb1RvQ1FkcS8xNzY5MjA1NjAwLzE3NjkyMzA4MDAvY2hpY2Fnb2JsYWNraGF3a3MvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9TYWhIR0lhSkNueG9tRFhKalF1Sll2YnFsb1RvQ1FkcS8xNzY5MjA1NjAwLzE3NjkyMzA4MDAvY2hpY2Fnb2JsYWNraGF3a3MvYWxwaGEvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4"
+      ]
+    },
+    {
+      "id": "ppvto_10",
+      "title": "St. Louis Blues vs. Dallas Stars",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-23/stl-dal",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9iQ2pRR0FBWWlmWU14T0t1TnpHZUp3d1V6YVVSd2JlQS8xNzY5MjA5MjAwLzE3NjkyMzQ0MDAvZGFsbGFzc3RhcnMvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9iQ2pRR0FBWWlmWU14T0t1TnpHZUp3d1V6YVVSd2JlQS8xNzY5MjA5MjAwLzE3NjkyMzQ0MDAvZGFsbGFzc3RhcnMvY2hhcmxpZS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_11",
+      "title": "Philadelphia Flyers vs. Colorado Avalanche",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-23/phi-col",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9GaWpHb1JGc1RtdnZJZ0lWQ05XWGNoaWZaRVhFdFFybC8xNzY5MjEyODAwLzE3NjkyMzgwMDAvY29sb3JhZG9hdmFsYW5jaGUvaW5kZXgubTN1OA==",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9GaWpHb1JGc1RtdnZJZ0lWQ05XWGNoaWZaRVhFdFFybC8xNzY5MjEyODAwLzE3NjkyMzgwMDAvY29sb3JhZG9hdmFsYW5jaGUvY2hhcmxpZS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_12",
+      "title": "Washington Capitals vs. Calgary Flames",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-23/wsh-cgy",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9nbnhRWWNCa0ljYmhucmZUcXRwZlNLV0ZKdkFiekxwTC8xNzY5MjEyODAwLzE3NjkyMzgwMDAvY2FsZ2FyeWZsYW1lcy9pbmRleC5tM3U4",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9nbnhRWWNCa0ljYmhucmZUcXRwZlNLV0ZKdkFiekxwTC8xNzY5MjEyODAwLzE3NjkyMzgwMDAvY2FsZ2FyeWZsYW1lcy9icmF2by90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg="
+      ]
+    },
+    {
+      "id": "ppvto_13",
+      "title": "WWE: Friday Night Smackdown",
+      "channel": "",
+      "href": "https://ppv.to/live/wwe/smackdown/2026-01-23",
+      "proxyPaths": [
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9McnhpdkJSR0trbXJRY3dBVllFRkVJeFBmSkFTQ0dRcS8xNzY5MjA5MjAwLzE3NjkyMzQ0MDAvd3Jlc3RsaW5nL2luZGV4Lm0zdTg=",
+        "/proxy/aHR0cHM6Ly9zdHJtLnBvb2Nsb3VkLmluL3NlY3VyZS9McnhpdkJSR0trbXJRY3dBVllFRkVJeFBmSkFTQ0dRcS8xNzY5MjA5MjAwLzE3NjkyMzQ0MDAvd3Jlc3RsaW5nL2FscGhhL3RyYWNrcy12MWExL21vbm8udHMubTN1OA=="
+      ]
+    }
+  ]
 }
