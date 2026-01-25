@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/25/2026, 01:57:14 PM",
-  "lastUpdateISO": "2026-01-25T21:57:14.892Z",
+  "lastUpdate": "01/25/2026, 02:02:13 PM",
+  "lastUpdateISO": "2026-01-25T22:02:13.244Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 6,
+  "streamCount": 7,
   "streams": [
     {
       "id": "nfl-2026-01-25-ne-den",
@@ -57,6 +57,15 @@
       "href": "https://ppv.to/live/nhl/2026-01-25/nj-sea",
       "proxyPaths": [
         "/proxy/game/nhl-2026-01-25-nj-sea"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-25-vgk-ott",
+      "title": "Vegas Golden Knights vs. Ottawa Senators",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-25/vgk-ott",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-25-vgk-ott"
       ]
     }
   ]
