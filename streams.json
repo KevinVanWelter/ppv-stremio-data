@@ -1,27 +1,8 @@
 {
-  "lastUpdate": "01/24/2026, 10:25:01 PM",
-  "lastUpdateISO": "2026-01-25T06:25:01.638Z",
+  "lastUpdate": "01/25/2026, 08:49:26 AM",
+  "lastUpdateISO": "2026-01-25T16:49:26.237Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 2,
-  "streams": [
-    {
-      "id": "ppvto_0",
-      "title": "Raymond Muratalla vs. Andy Cruz",
-      "channel": "",
-      "href": "https://ppv.to/live/raymond-muratalla-vs.-andy-cruz",
-      "proxyPaths": [
-        "/proxy/game/ppvto_0"
-      ]
-    },
-    {
-      "id": "ppvto_1",
-      "title": "Rolex 24 at Daytona",
-      "channel": "",
-      "href": "https://ppv.to/live/rolex-24-at-daytona-2026",
-      "proxyPaths": [
-        "/proxy/game/ppvto_1"
-      ]
-    }
-  ]
+  "streamCount": 0,
+  "streams": []
 }
