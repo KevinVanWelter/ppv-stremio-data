@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/25/2026, 01:31:25 PM",
-  "lastUpdateISO": "2026-01-25T21:31:25.009Z",
+  "lastUpdate": "01/25/2026, 01:35:48 PM",
+  "lastUpdateISO": "2026-01-25T21:35:48.125Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 7,
+  "streamCount": 6,
   "streams": [
     {
       "id": "nfl-2026-01-25-ne-den",
@@ -48,15 +48,6 @@
       "href": "https://ppv.to/live/laliga/2026-01-25/ala-bet",
       "proxyPaths": [
         "/proxy/game/laliga-2026-01-25-ala-bet"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-25-col-tor",
-      "title": "Colorado Avalanche vs. Toronto Maple Leafs",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-25/col-tor",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-25-col-tor"
       ]
     },
     {
