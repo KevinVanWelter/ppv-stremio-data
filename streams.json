@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/25/2026, 02:07:33 PM",
-  "lastUpdateISO": "2026-01-25T22:07:33.275Z",
+  "lastUpdate": "01/25/2026, 02:17:04 PM",
+  "lastUpdateISO": "2026-01-25T22:17:04.969Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 7,
+  "streamCount": 5,
   "streams": [
     {
       "id": "nfl-2026-01-25-ne-den",
@@ -21,24 +21,6 @@
       "href": "https://ppv.to/live/nba/2026-01-25/sac-det",
       "proxyPaths": [
         "/proxy/game/nba-2026-01-25-sac-det"
-      ]
-    },
-    {
-      "id": "seriea-2026-01-25-roma-mil",
-      "title": "AS Roma vs. AC Milan",
-      "channel": "",
-      "href": "https://ppv.to/live/seriea/2026-01-25/roma-mil",
-      "proxyPaths": [
-        "/proxy/game/seriea-2026-01-25-roma-mil"
-      ]
-    },
-    {
-      "id": "ligue1-2026-01-25-lill-str",
-      "title": "Lille vs. Strasbourg",
-      "channel": "",
-      "href": "https://ppv.to/live/ligue1/2026-01-25/lill-str",
-      "proxyPaths": [
-        "/proxy/game/ligue1-2026-01-25-lill-str"
       ]
     },
     {
