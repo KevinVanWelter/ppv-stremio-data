@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/25/2026, 09:30:54 AM",
-  "lastUpdateISO": "2026-01-25T17:30:54.301Z",
+  "lastUpdate": "01/25/2026, 09:46:05 AM",
+  "lastUpdateISO": "2026-01-25T17:46:05.487Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 8,
+  "streamCount": 9,
   "streams": [
     {
       "id": "ppvto_0",
@@ -70,11 +70,20 @@
     },
     {
       "id": "ppvto_7",
+      "title": "Real Sociedad vs. Celta Vigo",
+      "channel": "",
+      "href": "https://ppv.to/live/laliga/2026-01-25/rso-cel",
+      "proxyPaths": [
+        "/proxy/game/ppvto_7"
+      ]
+    },
+    {
+      "id": "ppvto_8",
       "title": "Rolex 24 at Daytona",
       "channel": "",
       "href": "https://ppv.to/live/rolex-24-at-daytona-2026",
       "proxyPaths": [
-        "/proxy/game/ppvto_7"
+        "/proxy/game/ppvto_8"
       ]
     }
   ]
