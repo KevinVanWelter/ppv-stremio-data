@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "01/25/2026, 08:55:19 AM",
-  "lastUpdateISO": "2026-01-25T16:55:19.669Z",
+  "lastUpdate": "01/25/2026, 09:05:08 AM",
+  "lastUpdateISO": "2026-01-25T17:05:08.530Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 6,
+  "streamCount": 8,
   "streams": [
     {
       "id": "ppvto_0",
-      "title": "Borussia Mönchengladbach vs. VfB Stuttgart",
+      "title": "Barcelona vs. Real Oviedo",
       "channel": "",
-      "href": "https://ppv.to/live/bundesliga/2026-01-25/bmg-vfb",
+      "href": "https://ppv.to/live/laliga/2026-01-25/bar-ovi",
       "proxyPaths": [
         "/proxy/game/ppvto_0"
       ]
@@ -52,11 +52,29 @@
     },
     {
       "id": "ppvto_5",
+      "title": "Arsenal vs. Manchester United",
+      "channel": "",
+      "href": "https://ppv.to/live/premierleague/2026-01-25/ars-man",
+      "proxyPaths": [
+        "/proxy/game/ppvto_5"
+      ]
+    },
+    {
+      "id": "ppvto_6",
+      "title": "Juventus vs. Napoli",
+      "channel": "",
+      "href": "https://ppv.to/live/seriea/2026-01-25/juv-nap",
+      "proxyPaths": [
+        "/proxy/game/ppvto_6"
+      ]
+    },
+    {
+      "id": "ppvto_7",
       "title": "Rolex 24 at Daytona",
       "channel": "",
       "href": "https://ppv.to/live/rolex-24-at-daytona-2026",
       "proxyPaths": [
-        "/proxy/game/ppvto_5"
+        "/proxy/game/ppvto_7"
       ]
     }
   ]
