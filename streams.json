@@ -1,89 +1,80 @@
 {
-  "lastUpdate": "01/25/2026, 09:46:05 AM",
-  "lastUpdateISO": "2026-01-25T17:46:05.487Z",
+  "lastUpdate": "01/25/2026, 09:50:54 AM",
+  "lastUpdateISO": "2026-01-25T17:50:54.327Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 9,
+  "streamCount": 8,
   "streams": [
     {
       "id": "ppvto_0",
-      "title": "Barcelona vs. Real Oviedo",
+      "title": "Brest vs. Toulouse",
       "channel": "",
-      "href": "https://ppv.to/live/laliga/2026-01-25/bar-ovi",
+      "href": "https://ppv.to/live/ligue1/2026-01-25/bre-tou",
       "proxyPaths": [
         "/proxy/game/ppvto_0"
       ]
     },
     {
       "id": "ppvto_1",
-      "title": "Brest vs. Toulouse",
+      "title": "Metz vs. Lyon",
       "channel": "",
-      "href": "https://ppv.to/live/ligue1/2026-01-25/bre-tou",
+      "href": "https://ppv.to/live/ligue1/2026-01-25/metz-lyon",
       "proxyPaths": [
         "/proxy/game/ppvto_1"
       ]
     },
     {
       "id": "ppvto_2",
-      "title": "Metz vs. Lyon",
+      "title": "Paris FC vs. Angers",
       "channel": "",
-      "href": "https://ppv.to/live/ligue1/2026-01-25/metz-lyon",
+      "href": "https://ppv.to/live/ligue1/2026-01-25/par-ang",
       "proxyPaths": [
         "/proxy/game/ppvto_2"
       ]
     },
     {
       "id": "ppvto_3",
-      "title": "Paris FC vs. Angers",
+      "title": "SC Freiburg vs. FC Cologne",
       "channel": "",
-      "href": "https://ppv.to/live/ligue1/2026-01-25/par-ang",
+      "href": "https://ppv.to/live/bundesliga/2026-01-25/scf-koe",
       "proxyPaths": [
         "/proxy/game/ppvto_3"
       ]
     },
     {
       "id": "ppvto_4",
-      "title": "SC Freiburg vs. FC Cologne",
+      "title": "Arsenal vs. Manchester United",
       "channel": "",
-      "href": "https://ppv.to/live/bundesliga/2026-01-25/scf-koe",
+      "href": "https://ppv.to/live/premierleague/2026-01-25/ars-man",
       "proxyPaths": [
         "/proxy/game/ppvto_4"
       ]
     },
     {
       "id": "ppvto_5",
-      "title": "Arsenal vs. Manchester United",
+      "title": "Juventus vs. Napoli",
       "channel": "",
-      "href": "https://ppv.to/live/premierleague/2026-01-25/ars-man",
+      "href": "https://ppv.to/live/seriea/2026-01-25/juv-nap",
       "proxyPaths": [
         "/proxy/game/ppvto_5"
       ]
     },
     {
       "id": "ppvto_6",
-      "title": "Juventus vs. Napoli",
+      "title": "Real Sociedad vs. Celta Vigo",
       "channel": "",
-      "href": "https://ppv.to/live/seriea/2026-01-25/juv-nap",
+      "href": "https://ppv.to/live/laliga/2026-01-25/rso-cel",
       "proxyPaths": [
         "/proxy/game/ppvto_6"
       ]
     },
     {
       "id": "ppvto_7",
-      "title": "Real Sociedad vs. Celta Vigo",
-      "channel": "",
-      "href": "https://ppv.to/live/laliga/2026-01-25/rso-cel",
-      "proxyPaths": [
-        "/proxy/game/ppvto_7"
-      ]
-    },
-    {
-      "id": "ppvto_8",
       "title": "Rolex 24 at Daytona",
       "channel": "",
       "href": "https://ppv.to/live/rolex-24-at-daytona-2026",
       "proxyPaths": [
-        "/proxy/game/ppvto_8"
+        "/proxy/game/ppvto_7"
       ]
     }
   ]
