@@ -1,8 +1,63 @@
 {
-  "lastUpdate": "01/25/2026, 08:49:26 AM",
-  "lastUpdateISO": "2026-01-25T16:49:26.237Z",
+  "lastUpdate": "01/25/2026, 08:55:19 AM",
+  "lastUpdateISO": "2026-01-25T16:55:19.669Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 0,
-  "streams": []
+  "streamCount": 6,
+  "streams": [
+    {
+      "id": "ppvto_0",
+      "title": "Borussia Mönchengladbach vs. VfB Stuttgart",
+      "channel": "",
+      "href": "https://ppv.to/live/bundesliga/2026-01-25/bmg-vfb",
+      "proxyPaths": [
+        "/proxy/game/ppvto_0"
+      ]
+    },
+    {
+      "id": "ppvto_1",
+      "title": "Brest vs. Toulouse",
+      "channel": "",
+      "href": "https://ppv.to/live/ligue1/2026-01-25/bre-tou",
+      "proxyPaths": [
+        "/proxy/game/ppvto_1"
+      ]
+    },
+    {
+      "id": "ppvto_2",
+      "title": "Metz vs. Lyon",
+      "channel": "",
+      "href": "https://ppv.to/live/ligue1/2026-01-25/metz-lyon",
+      "proxyPaths": [
+        "/proxy/game/ppvto_2"
+      ]
+    },
+    {
+      "id": "ppvto_3",
+      "title": "Paris FC vs. Angers",
+      "channel": "",
+      "href": "https://ppv.to/live/ligue1/2026-01-25/par-ang",
+      "proxyPaths": [
+        "/proxy/game/ppvto_3"
+      ]
+    },
+    {
+      "id": "ppvto_4",
+      "title": "SC Freiburg vs. FC Cologne",
+      "channel": "",
+      "href": "https://ppv.to/live/bundesliga/2026-01-25/scf-koe",
+      "proxyPaths": [
+        "/proxy/game/ppvto_4"
+      ]
+    },
+    {
+      "id": "ppvto_5",
+      "title": "Rolex 24 at Daytona",
+      "channel": "",
+      "href": "https://ppv.to/live/rolex-24-at-daytona-2026",
+      "proxyPaths": [
+        "/proxy/game/ppvto_5"
+      ]
+    }
+  ]
 }
