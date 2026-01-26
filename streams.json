@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/26/2026, 02:27:21 PM",
-  "lastUpdateISO": "2026-01-26T22:27:21.501Z",
+  "lastUpdate": "01/26/2026, 02:31:59 PM",
+  "lastUpdateISO": "2026-01-26T22:31:59.532Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 3,
+  "streamCount": 1,
   "streams": [
     {
       "id": "nba-2026-01-26-phi-cha",
@@ -13,26 +13,6 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/e1bec80a304f446669c091510cadc600-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nba-2026-01-26-phi-cha"
-      ]
-    },
-    {
-      "id": "laliga-2026-01-26-gir-get",
-      "title": "Girona vs. Getafe",
-      "channel": "",
-      "href": "https://ppv.to/live/laliga/2026-01-26/gir-get",
-      "thumbnail": "https://api.ppv.to/assets/thumb/dd0c717ee97073acb0c210d3834549cf-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/laliga-2026-01-26-gir-get"
-      ]
-    },
-    {
-      "id": "premierleague-2026-01-26-eve-lee",
-      "title": "Everton vs. Leeds United",
-      "channel": "",
-      "href": "https://ppv.to/live/premierleague/2026-01-26/eve-lee",
-      "thumbnail": "https://api.ppv.to/assets/thumb/798b489feb8cdf295a15396379ee5b3e-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/premierleague-2026-01-26-eve-lee"
       ]
     }
   ]
