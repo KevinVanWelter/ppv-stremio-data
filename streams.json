@@ -1,26 +1,53 @@
 {
-  "lastUpdate": "01/25/2026, 07:57:31 PM",
-  "lastUpdateISO": "2026-01-26T03:57:31.548Z",
+  "lastUpdate": "01/26/2026, 12:16:15 PM",
+  "lastUpdateISO": "2026-01-26T20:16:15.374Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 2,
+  "streamCount": 5,
   "streams": [
     {
-      "id": "nba-2026-01-25-bkn-lac",
-      "title": "Brooklyn Nets vs. LA Clippers",
+      "id": "nba-2026-01-26-ind-atl",
+      "title": "Indiana Pacers vs. Atlanta Hawks",
       "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-25/bkn-lac",
+      "href": "https://ppv.to/live/nba/2026-01-26/ind-atl",
       "proxyPaths": [
-        "/proxy/game/nba-2026-01-25-bkn-lac"
+        "/proxy/game/nba-2026-01-26-ind-atl"
       ]
     },
     {
-      "id": "nhl-2026-01-25-ana-cgy",
-      "title": "Anaheim Ducks vs. Calgary Flames",
+      "id": "nba-2026-01-26-phi-cha",
+      "title": "Philadelphia 76ers vs. Charlotte Hornets",
       "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-25/ana-cgy",
+      "href": "https://ppv.to/live/nba/2026-01-26/phi-cha",
       "proxyPaths": [
-        "/proxy/game/nhl-2026-01-25-ana-cgy"
+        "/proxy/game/nba-2026-01-26-phi-cha"
+      ]
+    },
+    {
+      "id": "seriea-2026-01-26-ver-udi",
+      "title": "Hellas Verona vs. Udinese",
+      "channel": "",
+      "href": "https://ppv.to/live/seriea/2026-01-26/ver-udi",
+      "proxyPaths": [
+        "/proxy/game/seriea-2026-01-26-ver-udi"
+      ]
+    },
+    {
+      "id": "laliga-2026-01-26-gir-get",
+      "title": "Girona vs. Getafe",
+      "channel": "",
+      "href": "https://ppv.to/live/laliga/2026-01-26/gir-get",
+      "proxyPaths": [
+        "/proxy/game/laliga-2026-01-26-gir-get"
+      ]
+    },
+    {
+      "id": "premierleague-2026-01-26-eve-lee",
+      "title": "Everton vs. Leeds United",
+      "channel": "",
+      "href": "https://ppv.to/live/premierleague/2026-01-26/eve-lee",
+      "proxyPaths": [
+        "/proxy/game/premierleague-2026-01-26-eve-lee"
       ]
     }
   ]
