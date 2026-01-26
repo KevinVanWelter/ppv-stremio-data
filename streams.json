@@ -1,19 +1,10 @@
 {
-  "lastUpdate": "01/26/2026, 12:16:15 PM",
-  "lastUpdateISO": "2026-01-26T20:16:15.374Z",
+  "lastUpdate": "01/26/2026, 01:47:21 PM",
+  "lastUpdateISO": "2026-01-26T21:47:21.541Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 5,
+  "streamCount": 4,
   "streams": [
-    {
-      "id": "nba-2026-01-26-ind-atl",
-      "title": "Indiana Pacers vs. Atlanta Hawks",
-      "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-26/ind-atl",
-      "proxyPaths": [
-        "/proxy/game/nba-2026-01-26-ind-atl"
-      ]
-    },
     {
       "id": "nba-2026-01-26-phi-cha",
       "title": "Philadelphia 76ers vs. Charlotte Hornets",
