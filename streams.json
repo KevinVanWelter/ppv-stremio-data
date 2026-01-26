@@ -1,53 +1,35 @@
 {
-  "lastUpdate": "01/25/2026, 02:29:51 PM",
-  "lastUpdateISO": "2026-01-25T22:29:51.853Z",
+  "lastUpdate": "01/25/2026, 07:07:43 PM",
+  "lastUpdateISO": "2026-01-26T03:07:43.358Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 5,
+  "streamCount": 3,
   "streams": [
     {
-      "id": "nfl-2026-01-25-ne-den",
-      "title": "New England Patriots vs. Denver Broncos",
+      "id": "nba-2026-01-25-mia-phx",
+      "title": "Miami Heat vs. Phoenix Suns",
       "channel": "",
-      "href": "https://ppv.to/live/nfl/2026-01-25/ne-den",
+      "href": "https://ppv.to/live/nba/2026-01-25/mia-phx",
       "proxyPaths": [
-        "/proxy/game/nfl-2026-01-25-ne-den"
+        "/proxy/game/nba-2026-01-25-mia-phx"
       ]
     },
     {
-      "id": "nba-2026-01-25-sac-det",
-      "title": "Sacramento Kings vs. Detroit Pistons",
+      "id": "nba-2026-01-25-bkn-lac",
+      "title": "Brooklyn Nets vs. LA Clippers",
       "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-25/sac-det",
+      "href": "https://ppv.to/live/nba/2026-01-25/bkn-lac",
       "proxyPaths": [
-        "/proxy/game/nba-2026-01-25-sac-det"
+        "/proxy/game/nba-2026-01-25-bkn-lac"
       ]
     },
     {
-      "id": "laliga-2026-01-25-ala-bet",
-      "title": "Alavés vs. Real Betis",
+      "id": "nhl-2026-01-25-ana-cgy",
+      "title": "Anaheim Ducks vs. Calgary Flames",
       "channel": "",
-      "href": "https://ppv.to/live/laliga/2026-01-25/ala-bet",
+      "href": "https://ppv.to/live/nhl/2026-01-25/ana-cgy",
       "proxyPaths": [
-        "/proxy/game/laliga-2026-01-25-ala-bet"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-25-nj-sea",
-      "title": "New Jersey Devils vs. Seattle Kraken",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-25/nj-sea",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-25-nj-sea"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-25-vgk-ott",
-      "title": "Vegas Golden Knights vs. Ottawa Senators",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-25/vgk-ott",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-25-vgk-ott"
+        "/proxy/game/nhl-2026-01-25-ana-cgy"
       ]
     }
   ]
