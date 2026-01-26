@@ -1,19 +1,10 @@
 {
-  "lastUpdate": "01/25/2026, 07:47:42 PM",
-  "lastUpdateISO": "2026-01-26T03:47:42.870Z",
+  "lastUpdate": "01/25/2026, 07:57:31 PM",
+  "lastUpdateISO": "2026-01-26T03:57:31.548Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 3,
+  "streamCount": 2,
   "streams": [
-    {
-      "id": "nba-2026-01-25-mia-phx",
-      "title": "Miami Heat vs. Phoenix Suns",
-      "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-25/mia-phx",
-      "proxyPaths": [
-        "/proxy/game/nba-2026-01-25-mia-phx"
-      ]
-    },
     {
       "id": "nba-2026-01-25-bkn-lac",
       "title": "Brooklyn Nets vs. LA Clippers",
