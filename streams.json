@@ -1,19 +1,8 @@
 {
-  "lastUpdate": "01/26/2026, 02:46:59 PM",
-  "lastUpdateISO": "2026-01-26T22:46:59.372Z",
+  "lastUpdate": "01/26/2026, 02:56:48 PM",
+  "lastUpdateISO": "2026-01-26T22:56:48.043Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 1,
-  "streams": [
-    {
-      "id": "nba-2026-01-26-phi-cha",
-      "title": "Philadelphia 76ers vs. Charlotte Hornets",
-      "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-26/phi-cha",
-      "thumbnail": "https://api.ppv.to/assets/thumb/e1bec80a304f446669c091510cadc600-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nba-2026-01-26-phi-cha"
-      ]
-    }
-  ]
+  "streamCount": 0,
+  "streams": []
 }
