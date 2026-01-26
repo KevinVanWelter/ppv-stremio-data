@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "01/26/2026, 01:53:43 PM",
-  "lastUpdateISO": "2026-01-26T21:53:43.779Z",
+  "lastUpdate": "01/26/2026, 01:57:33 PM",
+  "lastUpdateISO": "2026-01-26T21:57:33.657Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
   "streamCount": 4,
@@ -10,6 +10,7 @@
       "title": "Philadelphia 76ers vs. Charlotte Hornets",
       "channel": "",
       "href": "https://ppv.to/live/nba/2026-01-26/phi-cha",
+      "thumbnail": "https://api.ppv.to/assets/thumb/e1bec80a304f446669c091510cadc600-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nba-2026-01-26-phi-cha"
       ]
@@ -19,6 +20,7 @@
       "title": "Hellas Verona vs. Udinese",
       "channel": "",
       "href": "https://ppv.to/live/seriea/2026-01-26/ver-udi",
+      "thumbnail": "https://api.ppv.to/assets/thumb/84ceecb137423ab0a8c53fa329e3be6f-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/seriea-2026-01-26-ver-udi"
       ]
@@ -28,6 +30,7 @@
       "title": "Girona vs. Getafe",
       "channel": "",
       "href": "https://ppv.to/live/laliga/2026-01-26/gir-get",
+      "thumbnail": "https://api.ppv.to/assets/thumb/dd0c717ee97073acb0c210d3834549cf-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/laliga-2026-01-26-gir-get"
       ]
@@ -37,6 +40,7 @@
       "title": "Everton vs. Leeds United",
       "channel": "",
       "href": "https://ppv.to/live/premierleague/2026-01-26/eve-lee",
+      "thumbnail": "https://api.ppv.to/assets/thumb/798b489feb8cdf295a15396379ee5b3e-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/premierleague-2026-01-26-eve-lee"
       ]
