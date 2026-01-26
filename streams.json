@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/26/2026, 02:07:33 PM",
-  "lastUpdateISO": "2026-01-26T22:07:33.671Z",
+  "lastUpdate": "01/26/2026, 02:17:21 PM",
+  "lastUpdateISO": "2026-01-26T22:17:21.547Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 4,
+  "streamCount": 3,
   "streams": [
     {
       "id": "nba-2026-01-26-phi-cha",
@@ -13,16 +13,6 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/e1bec80a304f446669c091510cadc600-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nba-2026-01-26-phi-cha"
-      ]
-    },
-    {
-      "id": "seriea-2026-01-26-ver-udi",
-      "title": "Hellas Verona vs. Udinese",
-      "channel": "",
-      "href": "https://ppv.to/live/seriea/2026-01-26/ver-udi",
-      "thumbnail": "https://api.ppv.to/assets/thumb/84ceecb137423ab0a8c53fa329e3be6f-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/seriea-2026-01-26-ver-udi"
       ]
     },
     {
