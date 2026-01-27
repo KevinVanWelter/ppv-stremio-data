@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/26/2026, 04:57:45 PM",
-  "lastUpdateISO": "2026-01-27T00:57:45.417Z",
+  "lastUpdate": "01/26/2026, 06:28:19 PM",
+  "lastUpdateISO": "2026-01-27T02:28:19.026Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 5,
+  "streamCount": 10,
   "streams": [
     {
       "id": "nba-2026-01-26-orl-cle",
@@ -13,6 +13,36 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/5d59e0007b595adca0a1cc222d0c02a1-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nba-2026-01-26-orl-cle"
+      ]
+    },
+    {
+      "id": "nba-2026-01-26-por-bos",
+      "title": "Portland Trail Blazers vs. Boston Celtics",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-26/por-bos",
+      "thumbnail": "https://api.ppv.to/assets/thumb/6cd6d94bb7bd8db6a434d263b640b452-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nba-2026-01-26-por-bos"
+      ]
+    },
+    {
+      "id": "nba-2026-01-26-lal-chi",
+      "title": "Los Angeles Lakers vs. Chicago Bulls",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-26/lal-chi",
+      "thumbnail": "https://api.ppv.to/assets/thumb/3240baba79f6687b2c7d4dc622997494-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nba-2026-01-26-lal-chi"
+      ]
+    },
+    {
+      "id": "nba-2026-01-26-mem-hou",
+      "title": "Memphis Grizzlies vs. Houston Rockets",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-26/mem-hou",
+      "thumbnail": "https://api.ppv.to/assets/thumb/6fd8b222b0f1634bb01cfb5a64a4bef1-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nba-2026-01-26-mem-hou"
       ]
     },
     {
@@ -53,6 +83,26 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/77811adf3ce6e82619492865a6268583-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nhl-2026-01-26-la-cbj"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-26-ana-edm",
+      "title": "Anaheim Ducks vs. Edmonton Oilers",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-26/ana-edm",
+      "thumbnail": "https://api.ppv.to/assets/thumb/fb8ad4352e97aa6bca005bf9fab48344-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-26-ana-edm"
+      ]
+    },
+    {
+      "id": "wwe-raw-2026-01-26",
+      "title": "WWE: Monday Night RAW",
+      "channel": "",
+      "href": "https://ppv.to/live/wwe/raw/2026-01-26",
+      "thumbnail": "https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/wwe-raw-2026-01-26"
       ]
     }
   ]
