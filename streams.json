@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/26/2026, 06:28:19 PM",
-  "lastUpdateISO": "2026-01-27T02:28:19.026Z",
+  "lastUpdate": "01/26/2026, 06:33:30 PM",
+  "lastUpdateISO": "2026-01-27T02:33:30.424Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 10,
+  "streamCount": 11,
   "streams": [
     {
       "id": "nba-2026-01-26-orl-cle",
@@ -43,6 +43,16 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/6fd8b222b0f1634bb01cfb5a64a4bef1-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nba-2026-01-26-mem-hou"
+      ]
+    },
+    {
+      "id": "nba-2026-01-26-gs-min",
+      "title": "Golden State Warriors vs. Minnesota Timberwolves",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-26/gs-min",
+      "thumbnail": "https://api.ppv.to/assets/thumb/83f8ec7dc39d174248b0debd03133382-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nba-2026-01-26-gs-min"
       ]
     },
     {
