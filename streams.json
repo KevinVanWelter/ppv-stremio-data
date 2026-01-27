@@ -1,8 +1,59 @@
 {
-  "lastUpdate": "01/26/2026, 03:56:48 PM",
-  "lastUpdateISO": "2026-01-26T23:56:48.159Z",
+  "lastUpdate": "01/26/2026, 04:02:43 PM",
+  "lastUpdateISO": "2026-01-27T00:02:43.649Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 0,
-  "streams": []
+  "streamCount": 5,
+  "streams": [
+    {
+      "id": "nba-2026-01-26-orl-cle",
+      "title": "Orlando Magic vs. Cleveland Cavaliers",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-26/orl-cle",
+      "thumbnail": "https://api.ppv.to/assets/thumb/5d59e0007b595adca0a1cc222d0c02a1-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nba-2026-01-26-orl-cle"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-26-uta-tb",
+      "title": "Utah Mammoth vs. Tampa Bay Lightning",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-26/uta-tb",
+      "thumbnail": "https://api.ppv.to/assets/thumb/a53d402c51dffef1d58ad63c417f0461-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-26-uta-tb"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-26-bos-nyr",
+      "title": "Boston Bruins vs. New York Rangers",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-26/bos-nyr",
+      "thumbnail": "https://api.ppv.to/assets/thumb/2b5b20c22e1d2537fd68fb9d567b045f-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-26-bos-nyr"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-26-nyi-phi",
+      "title": "New York Islanders vs. Philadelphia Flyers",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-26/nyi-phi",
+      "thumbnail": "https://api.ppv.to/assets/thumb/cc8f903b0c729213379142f9198a5a64-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-26-nyi-phi"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-26-la-cbj",
+      "title": "Los Angeles Kings vs. Columbus Blue Jackets",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-26/la-cbj",
+      "thumbnail": "https://api.ppv.to/assets/thumb/77811adf3ce6e82619492865a6268583-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-26-la-cbj"
+      ]
+    }
+  ]
 }
