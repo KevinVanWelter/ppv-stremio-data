@@ -1,30 +1,10 @@
 {
-  "lastUpdate": "01/27/2026, 08:18:00 PM",
-  "lastUpdateISO": "2026-01-28T04:18:00.728Z",
+  "lastUpdate": "01/27/2026, 08:59:01 PM",
+  "lastUpdateISO": "2026-01-28T04:59:01.001Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 5,
+  "streamCount": 3,
   "streams": [
-    {
-      "id": "nba-2026-01-27-det-den",
-      "title": "Detroit Pistons vs. Denver Nuggets",
-      "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-27/det-den",
-      "thumbnail": "https://api.ppv.to/assets/thumb/5e4e872a5d506ff44f8174da0f2df12a-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nba-2026-01-27-det-den"
-      ]
-    },
-    {
-      "id": "nba-2026-01-27-bkn-phx",
-      "title": "Brooklyn Nets vs. Phoenix Suns",
-      "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-27/bkn-phx",
-      "thumbnail": "https://api.ppv.to/assets/thumb/77e0e667b44689b331ccefeab9d10f59-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nba-2026-01-27-bkn-phx"
-      ]
-    },
     {
       "id": "nba-2026-01-27-lac-utah",
       "title": "LA Clippers vs. Utah Jazz",
