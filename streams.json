@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/28/2026, 01:02:45 PM",
-  "lastUpdateISO": "2026-01-28T21:02:45.525Z",
+  "lastUpdate": "01/28/2026, 01:33:59 PM",
+  "lastUpdateISO": "2026-01-28T21:33:59.163Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 20,
+  "streamCount": 19,
   "streams": [
     {
       "id": "golazo",
@@ -163,16 +163,6 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/f0ce280eafc3bb671e7467b38fc25332-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/ucl-2026-01-28-nap-che"
-      ]
-    },
-    {
-      "id": "ucl-2026-01-28-mon-juv",
-      "title": "Monaco vs. Juventus",
-      "channel": "",
-      "href": "https://ppv.to/live/ucl/2026-01-28/mon-juv",
-      "thumbnail": "https://api.ppv.to/assets/thumb/ecd3b051aa678bbae9a08652f4e48601-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/ucl-2026-01-28-mon-juv"
       ]
     },
     {
