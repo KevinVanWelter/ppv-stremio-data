@@ -1,8 +1,209 @@
 {
-  "lastUpdate": "01/28/2026, 12:50:46 PM",
-  "lastUpdateISO": "2026-01-28T20:50:46.356Z",
+  "lastUpdate": "01/28/2026, 12:53:24 PM",
+  "lastUpdateISO": "2026-01-28T20:53:24.251Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 0,
-  "streams": []
+  "streamCount": 20,
+  "streams": [
+    {
+      "id": "golazo",
+      "title": "CBS Sports Golazo Show",
+      "channel": "",
+      "href": "https://ppv.to/live/golazo",
+      "thumbnail": "https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/golazo"
+      ]
+    },
+    {
+      "id": "tnt-goals-show",
+      "title": "TNT Sports Goals Show",
+      "channel": "",
+      "href": "https://ppv.to/live/tnt-goals-show",
+      "thumbnail": "https://api.ppv.to/assets/thumb/a1ffcb323db604d728eb84a29c7d3df0-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/tnt-goals-show"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-psg-new",
+      "title": "Paris vs. Newcastle",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/psg-new",
+      "thumbnail": "https://api.ppv.to/assets/thumb/77ce234fc941455c6145fa83893a0920-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-psg-new"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-mci-gal",
+      "title": "Man City vs. Galatasaray",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/mci-gal",
+      "thumbnail": "https://api.ppv.to/assets/thumb/2eb715f5fcf3f371ed22a13985b2a01c-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-mci-gal"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-liv-qar",
+      "title": "Liverpool vs. Qarabağ",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/liv-qar",
+      "thumbnail": "https://api.ppv.to/assets/thumb/5c1483da414ba9696d63ab2e87c20d9e-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-liv-qar"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-bvb-int",
+      "title": "B. Dortmund vs. Inter",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/bvb-int",
+      "thumbnail": "https://api.ppv.to/assets/thumb/88e7a7cba670d8d0a2ff3d8a0ed03917-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-bvb-int"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-bar-cph",
+      "title": "Barcelona vs. Copenhagen",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/bar-cph",
+      "thumbnail": "https://api.ppv.to/assets/thumb/1c187b08b7cfb3677d5df991162b554f-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-bar-cph"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-ars-kai",
+      "title": "Arsenal vs. Kairat Almaty",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/ars-kai",
+      "thumbnail": "https://api.ppv.to/assets/thumb/5910ddf6166e7ac128d9cec14584e0f9-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-ars-kai"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-lev-vil",
+      "title": "Leverkusen vs. Villarreal",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/lev-vil",
+      "thumbnail": "https://api.ppv.to/assets/thumb/0433eedf87c7714d13ae3faa51d692d3-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-lev-vil"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-atm-bod",
+      "title": "Atleti vs. Bodø/Glimt",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/atm-bod",
+      "thumbnail": "https://api.ppv.to/assets/thumb/d0e65d92cd63d3f5c7e89c11ead3ffbe-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-atm-bod"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-ben-rma",
+      "title": "Benfica vs. Real Madrid",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/ben-rma",
+      "thumbnail": "https://api.ppv.to/assets/thumb/2b1324d86527129d588b9cd56a4c7117-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-ben-rma"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-fra-tot",
+      "title": "Frankfurt vs. Tottenham",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/fra-tot",
+      "thumbnail": "https://api.ppv.to/assets/thumb/ad4b7de87a175d38463c558acb491f16-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-fra-tot"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-bru-mar",
+      "title": "Club Brugge vs. Marseille",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/bru-mar",
+      "thumbnail": "https://api.ppv.to/assets/thumb/23c579e12e16c43973e4b64439a12f61-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-bru-mar"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-psv-bay",
+      "title": "PSV vs. Bayern München",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/psv-bay",
+      "thumbnail": "https://api.ppv.to/assets/thumb/ec139d344f4e2152264111fe7c58103d-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-psv-bay"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-ajx-oly",
+      "title": "Ajax vs. Olympiacos",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/ajx-oly",
+      "thumbnail": "https://api.ppv.to/assets/thumb/b98782e0c448241006b9a15495201122-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-ajx-oly"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-nap-che",
+      "title": "Napoli vs. Chelsea",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/nap-che",
+      "thumbnail": "https://api.ppv.to/assets/thumb/f0ce280eafc3bb671e7467b38fc25332-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-nap-che"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-mon-juv",
+      "title": "Monaco vs. Juventus",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/mon-juv",
+      "thumbnail": "https://api.ppv.to/assets/thumb/ecd3b051aa678bbae9a08652f4e48601-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-mon-juv"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-usg-ata",
+      "title": "Union SG vs. Atalanta",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/usg-ata",
+      "thumbnail": "https://api.ppv.to/assets/thumb/2953d856036379cc53c81ed36f3b7fb1-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-usg-ata"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-ath-spo",
+      "title": "Athletic Club vs. Sporting CP",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/ath-spo",
+      "thumbnail": "https://api.ppv.to/assets/thumb/7a7ed413f0b0464637af617b5fdccec8-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-ath-spo"
+      ]
+    },
+    {
+      "id": "ucl-2026-01-28-paf-sla",
+      "title": "Pafos vs. Slavia Praha",
+      "channel": "",
+      "href": "https://ppv.to/live/ucl/2026-01-28/paf-sla",
+      "thumbnail": "https://api.ppv.to/assets/thumb/eb7d34a965b4cfeb85a49d044793c397-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ucl-2026-01-28-paf-sla"
+      ]
+    }
+  ]
 }
