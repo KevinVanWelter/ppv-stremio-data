@@ -1,30 +1,10 @@
 {
-  "lastUpdate": "01/27/2026, 06:45:08 PM",
-  "lastUpdateISO": "2026-01-28T02:45:08.104Z",
+  "lastUpdate": "01/27/2026, 07:28:45 PM",
+  "lastUpdateISO": "2026-01-28T03:28:45.777Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 15,
+  "streamCount": 10,
   "streams": [
-    {
-      "id": "nba-2026-01-27-por-wsh",
-      "title": "Portland Trail Blazers vs. Washington Wizards",
-      "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-27/por-wsh",
-      "thumbnail": "https://api.ppv.to/assets/thumb/2a3d5b47344fbd91bc1dce0aee1e87e3-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nba-2026-01-27-por-wsh"
-      ]
-    },
-    {
-      "id": "nba-2026-01-27-sac-ny",
-      "title": "Sacramento Kings vs. New York Knicks",
-      "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-27/sac-ny",
-      "thumbnail": "https://api.ppv.to/assets/thumb/2deac4851c3f7ad78926f6465cd5e826-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nba-2026-01-27-sac-ny"
-      ]
-    },
     {
       "id": "nba-2026-01-27-mil-phi",
       "title": "Milwaukee Bucks vs. Philadelphia 76ers",
@@ -66,63 +46,13 @@
       ]
     },
     {
-      "id": "nhl-2026-01-27-nsh-bos",
-      "title": "Nashville Predators vs. Boston Bruins",
+      "id": "nba-2026-01-27-lac-utah",
+      "title": "LA Clippers vs. Utah Jazz",
       "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-27/nsh-bos",
-      "thumbnail": "https://api.ppv.to/assets/thumb/d0482f474f88918c4b5d060e76a06c58-thumbnail.jpg",
+      "href": "https://ppv.to/live/nba/2026-01-27/lac-utah",
+      "thumbnail": "https://api.ppv.to/assets/thumb/ed732a3ce242eb7c6abb8bdac34f84f1-thumbnail.jpg",
       "proxyPaths": [
-        "/proxy/game/nhl-2026-01-27-nsh-bos"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-27-buf-tor",
-      "title": "Buffalo Sabres vs. Toronto Maple Leafs",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-27/buf-tor",
-      "thumbnail": "https://api.ppv.to/assets/thumb/4fb57d9927297dbde668e30c6ba12fc7-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-27-buf-tor"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-27-vgk-mtl",
-      "title": "Vegas Golden Knights vs. Montreal Canadiens",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-27/vgk-mtl",
-      "thumbnail": "https://api.ppv.to/assets/thumb/4a851f21498d8a1dfcf33e9d92a0395d-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-27-vgk-mtl"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-27-la-det",
-      "title": "Los Angeles Kings vs. Detroit Red Wings",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-27/la-det",
-      "thumbnail": "https://api.ppv.to/assets/thumb/0f182378458f4a221b827e519dee6446-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-27-la-det"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-27-uta-fla",
-      "title": "Utah Mammoth vs. Florida Panthers",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-27/uta-fla",
-      "thumbnail": "https://api.ppv.to/assets/thumb/39f4423d7b7b1a2e85ab9befd3b35cf4-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-27-uta-fla"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-27-wpg-nj",
-      "title": "Winnipeg Jets vs. New Jersey Devils",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-27/wpg-nj",
-      "thumbnail": "https://api.ppv.to/assets/thumb/2bb868a8bb1f9cf48355c1653a9cf5f5-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-27-wpg-nj"
+        "/proxy/game/nba-2026-01-27-lac-utah"
       ]
     },
     {
@@ -143,6 +73,26 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/2dc017ed2c7891a09c8893a3e0280e0a-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nhl-2026-01-27-chi-min"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-27-sj-van",
+      "title": "San Jose Sharks vs. Vancouver Canucks",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-27/sj-van",
+      "thumbnail": "https://api.ppv.to/assets/thumb/ee6b1efc00d7800b05edcdd39aca0207-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-27-sj-van"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-27-wsh-sea",
+      "title": "Washington Capitals vs. Seattle Kraken",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-27/wsh-sea",
+      "thumbnail": "https://api.ppv.to/assets/thumb/7cfa7a74fd80c49491afb6446c1d4e82-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-27-wsh-sea"
       ]
     },
     {
