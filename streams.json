@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/27/2026, 06:32:55 PM",
-  "lastUpdateISO": "2026-01-28T02:32:55.341Z",
+  "lastUpdate": "01/27/2026, 06:45:08 PM",
+  "lastUpdateISO": "2026-01-28T02:45:08.104Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 14,
+  "streamCount": 15,
   "streams": [
     {
       "id": "nba-2026-01-27-por-wsh",
@@ -83,6 +83,16 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/4fb57d9927297dbde668e30c6ba12fc7-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nhl-2026-01-27-buf-tor"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-27-vgk-mtl",
+      "title": "Vegas Golden Knights vs. Montreal Canadiens",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-27/vgk-mtl",
+      "thumbnail": "https://api.ppv.to/assets/thumb/4a851f21498d8a1dfcf33e9d92a0395d-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-27-vgk-mtl"
       ]
     },
     {
