@@ -1,8 +1,149 @@
 {
-  "lastUpdate": "01/26/2026, 09:55:22 PM",
-  "lastUpdateISO": "2026-01-27T05:55:22.158Z",
+  "lastUpdate": "01/27/2026, 06:32:55 PM",
+  "lastUpdateISO": "2026-01-28T02:32:55.341Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 0,
-  "streams": []
+  "streamCount": 14,
+  "streams": [
+    {
+      "id": "nba-2026-01-27-por-wsh",
+      "title": "Portland Trail Blazers vs. Washington Wizards",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-27/por-wsh",
+      "thumbnail": "https://api.ppv.to/assets/thumb/2a3d5b47344fbd91bc1dce0aee1e87e3-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nba-2026-01-27-por-wsh"
+      ]
+    },
+    {
+      "id": "nba-2026-01-27-sac-ny",
+      "title": "Sacramento Kings vs. New York Knicks",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-27/sac-ny",
+      "thumbnail": "https://api.ppv.to/assets/thumb/2deac4851c3f7ad78926f6465cd5e826-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nba-2026-01-27-sac-ny"
+      ]
+    },
+    {
+      "id": "nba-2026-01-27-mil-phi",
+      "title": "Milwaukee Bucks vs. Philadelphia 76ers",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-27/mil-phi",
+      "thumbnail": "https://api.ppv.to/assets/thumb/1381932c9b2b34887e271db8042774b0-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nba-2026-01-27-mil-phi"
+      ]
+    },
+    {
+      "id": "nba-2026-01-27-no-okc",
+      "title": "New Orleans Pelicans vs. Oklahoma City Thunder",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-27/no-okc",
+      "thumbnail": "https://api.ppv.to/assets/thumb/c72bc117b9e3aec2330a3534280082b5-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nba-2026-01-27-no-okc"
+      ]
+    },
+    {
+      "id": "nba-2026-01-27-det-den",
+      "title": "Detroit Pistons vs. Denver Nuggets",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-27/det-den",
+      "thumbnail": "https://api.ppv.to/assets/thumb/5e4e872a5d506ff44f8174da0f2df12a-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nba-2026-01-27-det-den"
+      ]
+    },
+    {
+      "id": "nba-2026-01-27-bkn-phx",
+      "title": "Brooklyn Nets vs. Phoenix Suns",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-27/bkn-phx",
+      "thumbnail": "https://api.ppv.to/assets/thumb/77e0e667b44689b331ccefeab9d10f59-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nba-2026-01-27-bkn-phx"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-27-nsh-bos",
+      "title": "Nashville Predators vs. Boston Bruins",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-27/nsh-bos",
+      "thumbnail": "https://api.ppv.to/assets/thumb/d0482f474f88918c4b5d060e76a06c58-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-27-nsh-bos"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-27-buf-tor",
+      "title": "Buffalo Sabres vs. Toronto Maple Leafs",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-27/buf-tor",
+      "thumbnail": "https://api.ppv.to/assets/thumb/4fb57d9927297dbde668e30c6ba12fc7-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-27-buf-tor"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-27-la-det",
+      "title": "Los Angeles Kings vs. Detroit Red Wings",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-27/la-det",
+      "thumbnail": "https://api.ppv.to/assets/thumb/0f182378458f4a221b827e519dee6446-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-27-la-det"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-27-uta-fla",
+      "title": "Utah Mammoth vs. Florida Panthers",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-27/uta-fla",
+      "thumbnail": "https://api.ppv.to/assets/thumb/39f4423d7b7b1a2e85ab9befd3b35cf4-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-27-uta-fla"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-27-wpg-nj",
+      "title": "Winnipeg Jets vs. New Jersey Devils",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-27/wpg-nj",
+      "thumbnail": "https://api.ppv.to/assets/thumb/2bb868a8bb1f9cf48355c1653a9cf5f5-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-27-wpg-nj"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-27-dal-stl",
+      "title": "Dallas Stars vs. St. Louis Blues",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-27/dal-stl",
+      "thumbnail": "https://api.ppv.to/assets/thumb/e20721102ae9b9fac5a9cbcd08438320-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-27-dal-stl"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-27-chi-min",
+      "title": "Chicago Blackhawks vs. Minnesota Wild",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-27/chi-min",
+      "thumbnail": "https://api.ppv.to/assets/thumb/2dc017ed2c7891a09c8893a3e0280e0a-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-27-chi-min"
+      ]
+    },
+    {
+      "id": "wwe-nxt-2026-01-27",
+      "title": "WWE: NXT",
+      "channel": "",
+      "href": "https://ppv.to/live/wwe/nxt/2026-01-27",
+      "thumbnail": "https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/wwe-nxt-2026-01-27"
+      ]
+    }
+  ]
 }
