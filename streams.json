@@ -1,39 +1,8 @@
 {
-  "lastUpdate": "01/27/2026, 09:38:57 PM",
-  "lastUpdateISO": "2026-01-28T05:38:57.404Z",
+  "lastUpdate": "01/28/2026, 11:35:48 AM",
+  "lastUpdateISO": "2026-01-28T19:35:48.496Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 3,
-  "streams": [
-    {
-      "id": "nba-2026-01-27-lac-utah",
-      "title": "LA Clippers vs. Utah Jazz",
-      "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-27/lac-utah",
-      "thumbnail": "https://api.ppv.to/assets/thumb/ed732a3ce242eb7c6abb8bdac34f84f1-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nba-2026-01-27-lac-utah"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-27-sj-van",
-      "title": "San Jose Sharks vs. Vancouver Canucks",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-27/sj-van",
-      "thumbnail": "https://api.ppv.to/assets/thumb/ee6b1efc00d7800b05edcdd39aca0207-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-27-sj-van"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-27-wsh-sea",
-      "title": "Washington Capitals vs. Seattle Kraken",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-27/wsh-sea",
-      "thumbnail": "https://api.ppv.to/assets/thumb/7cfa7a74fd80c49491afb6446c1d4e82-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-27-wsh-sea"
-      ]
-    }
-  ]
+  "streamCount": 0,
+  "streams": []
 }
