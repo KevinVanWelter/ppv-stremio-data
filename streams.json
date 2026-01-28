@@ -1,30 +1,10 @@
 {
-  "lastUpdate": "01/27/2026, 07:48:45 PM",
-  "lastUpdateISO": "2026-01-28T03:48:45.381Z",
+  "lastUpdate": "01/27/2026, 08:13:01 PM",
+  "lastUpdateISO": "2026-01-28T04:13:01.399Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 10,
+  "streamCount": 5,
   "streams": [
-    {
-      "id": "nba-2026-01-27-mil-phi",
-      "title": "Milwaukee Bucks vs. Philadelphia 76ers",
-      "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-27/mil-phi",
-      "thumbnail": "https://api.ppv.to/assets/thumb/1381932c9b2b34887e271db8042774b0-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nba-2026-01-27-mil-phi"
-      ]
-    },
-    {
-      "id": "nba-2026-01-27-no-okc",
-      "title": "New Orleans Pelicans vs. Oklahoma City Thunder",
-      "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-27/no-okc",
-      "thumbnail": "https://api.ppv.to/assets/thumb/c72bc117b9e3aec2330a3534280082b5-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nba-2026-01-27-no-okc"
-      ]
-    },
     {
       "id": "nba-2026-01-27-det-den",
       "title": "Detroit Pistons vs. Denver Nuggets",
@@ -56,26 +36,6 @@
       ]
     },
     {
-      "id": "nhl-2026-01-27-dal-stl",
-      "title": "Dallas Stars vs. St. Louis Blues",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-27/dal-stl",
-      "thumbnail": "https://api.ppv.to/assets/thumb/e20721102ae9b9fac5a9cbcd08438320-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-27-dal-stl"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-27-chi-min",
-      "title": "Chicago Blackhawks vs. Minnesota Wild",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-27/chi-min",
-      "thumbnail": "https://api.ppv.to/assets/thumb/2dc017ed2c7891a09c8893a3e0280e0a-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-27-chi-min"
-      ]
-    },
-    {
       "id": "nhl-2026-01-27-sj-van",
       "title": "San Jose Sharks vs. Vancouver Canucks",
       "channel": "",
@@ -93,16 +53,6 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/7cfa7a74fd80c49491afb6446c1d4e82-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nhl-2026-01-27-wsh-sea"
-      ]
-    },
-    {
-      "id": "wwe-nxt-2026-01-27",
-      "title": "WWE: NXT",
-      "channel": "",
-      "href": "https://ppv.to/live/wwe/nxt/2026-01-27",
-      "thumbnail": "https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/wwe-nxt-2026-01-27"
       ]
     }
   ]
