@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "01/29/2026, 12:14:48 PM",
-  "lastUpdateISO": "2026-01-29T20:14:48.447Z",
+  "lastUpdate": "01/29/2026, 12:25:05 PM",
+  "lastUpdateISO": "2026-01-29T20:25:05.041Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
   "streamCount": 18,
@@ -166,6 +166,16 @@
       ]
     },
     {
+      "id": "uel-2026-01-29-pan-rom",
+      "title": "Panathinaikos vs. Roma",
+      "channel": "",
+      "href": "https://ppv.to/live/uel/2026-01-29/pan-rom",
+      "thumbnail": "https://api.ppv.to/assets/thumb/ea92bab3229012e1ad79e0ad740d896f-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/uel-2026-01-29-pan-rom"
+      ]
+    },
+    {
       "id": "uel-2026-01-29-gae-bra",
       "title": "Go Ahead Eagles vs. Braga",
       "channel": "",
@@ -173,16 +183,6 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/6b6ee9d3e9ca4d6751eb2b7838061e4c-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/uel-2026-01-29-gae-bra"
-      ]
-    },
-    {
-      "id": "uel-2026-01-29-gen-mal",
-      "title": "Genk vs. Malmö",
-      "channel": "",
-      "href": "https://ppv.to/live/uel/2026-01-29/gen-mal",
-      "thumbnail": "https://api.ppv.to/assets/thumb/93c565ab0b5686d8d9bcf5c8d250ea9f-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/uel-2026-01-29-gen-mal"
       ]
     }
   ]
