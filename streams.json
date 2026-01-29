@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/29/2026, 12:25:05 PM",
-  "lastUpdateISO": "2026-01-29T20:25:05.041Z",
+  "lastUpdate": "01/29/2026, 12:30:27 PM",
+  "lastUpdateISO": "2026-01-29T20:30:27.810Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 18,
+  "streamCount": 17,
   "streams": [
     {
       "id": "golazo",
@@ -136,26 +136,6 @@
       ]
     },
     {
-      "id": "uel-2026-01-29-sgr-brn",
-      "title": "Sturm Graz vs. Brann",
-      "channel": "",
-      "href": "https://ppv.to/live/uel/2026-01-29/sgr-brn",
-      "thumbnail": "https://api.ppv.to/assets/thumb/d4b4a5f54e1e293c7bdc9dce98edc1f1-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/uel-2026-01-29-sgr-brn"
-      ]
-    },
-    {
-      "id": "uel-2026-01-29-fcsb-fen",
-      "title": "FCSB vs. Fenerbahçe",
-      "channel": "",
-      "href": "https://ppv.to/live/uel/2026-01-29/fcsb-fen",
-      "thumbnail": "https://api.ppv.to/assets/thumb/5f2b96541328076f479ef2f60f545036-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/uel-2026-01-29-fcsb-fen"
-      ]
-    },
-    {
       "id": "uel-2026-01-29-stu-yb",
       "title": "Stuttgart vs. Young Boys",
       "channel": "",
@@ -183,6 +163,16 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/6b6ee9d3e9ca4d6751eb2b7838061e4c-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/uel-2026-01-29-gae-bra"
+      ]
+    },
+    {
+      "id": "uel-2026-01-29-gen-mal",
+      "title": "Genk vs. Malmö",
+      "channel": "",
+      "href": "https://ppv.to/live/uel/2026-01-29/gen-mal",
+      "thumbnail": "https://api.ppv.to/assets/thumb/93c565ab0b5686d8d9bcf5c8d250ea9f-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/uel-2026-01-29-gen-mal"
       ]
     }
   ]
