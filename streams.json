@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/29/2026, 12:34:52 PM",
-  "lastUpdateISO": "2026-01-29T20:34:52.519Z",
+  "lastUpdate": "01/29/2026, 12:40:04 PM",
+  "lastUpdateISO": "2026-01-29T20:40:04.654Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 19,
+  "streamCount": 18,
   "streams": [
     {
       "id": "golazo",
@@ -13,16 +13,6 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/golazo"
-      ]
-    },
-    {
-      "id": "uel-2026-01-29-por-ran",
-      "title": "Porto vs. Rangers",
-      "channel": "",
-      "href": "https://ppv.to/live/uel/2026-01-29/por-ran",
-      "thumbnail": "https://api.ppv.to/assets/thumb/f2ad893d31b974320060176c1681dc3e-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/uel-2026-01-29-por-ran"
       ]
     },
     {
