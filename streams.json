@@ -1,108 +1,188 @@
 {
-  "lastUpdate": "01/28/2026, 07:12:47 PM",
-  "lastUpdateISO": "2026-01-29T03:12:47.264Z",
+  "lastUpdate": "01/29/2026, 12:14:48 PM",
+  "lastUpdateISO": "2026-01-29T20:14:48.447Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 10,
+  "streamCount": 18,
   "streams": [
     {
-      "id": "nba-2026-01-28-atl-bos",
-      "title": "Atlanta Hawks vs. Boston Celtics",
+      "id": "golazo",
+      "title": "CBS Sports Golazo Show",
       "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-28/atl-bos",
-      "thumbnail": "https://api.ppv.to/assets/thumb/29027383351bc7d4e314dee1396199d3-thumbnail.jpg",
+      "href": "https://ppv.to/live/golazo",
+      "thumbnail": "https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg",
       "proxyPaths": [
-        "/proxy/game/nba-2026-01-28-atl-bos"
+        "/proxy/game/golazo"
       ]
     },
     {
-      "id": "nba-2026-01-28-orl-mia",
-      "title": "Orlando Magic vs. Miami Heat",
+      "id": "uel-2026-01-29-por-ran",
+      "title": "Porto vs. Rangers",
       "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-28/orl-mia",
-      "thumbnail": "https://api.ppv.to/assets/thumb/cd9b662c93526a8fbe209fc22ee3e393-thumbnail.jpg",
+      "href": "https://ppv.to/live/uel/2026-01-29/por-ran",
+      "thumbnail": "https://api.ppv.to/assets/thumb/f2ad893d31b974320060176c1681dc3e-thumbnail.jpg",
       "proxyPaths": [
-        "/proxy/game/nba-2026-01-28-orl-mia"
+        "/proxy/game/uel-2026-01-29-por-ran"
       ]
     },
     {
-      "id": "nba-2026-01-28-ny-tor",
-      "title": "New York Knicks vs. Toronto Raptors",
+      "id": "uel-2026-01-29-lil-fre",
+      "title": "Lille vs. Freiburg",
       "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-28/ny-tor",
-      "thumbnail": "https://api.ppv.to/assets/thumb/53ff52970023d3441291914b89649878-thumbnail.jpg",
+      "href": "https://ppv.to/live/uel/2026-01-29/lil-fre",
+      "thumbnail": "https://api.ppv.to/assets/thumb/712e3459182bdbacfd77c8866d6736bf-thumbnail.jpg",
       "proxyPaths": [
-        "/proxy/game/nba-2026-01-28-ny-tor"
+        "/proxy/game/uel-2026-01-29-lil-fre"
       ]
     },
     {
-      "id": "nba-2026-01-28-cha-mem",
-      "title": "Charlotte Hornets vs. Memphis Grizzlies",
+      "id": "uel-2026-01-29-bet-fey",
+      "title": "Real Betis vs. Feyenoord",
       "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-28/cha-mem",
-      "thumbnail": "https://api.ppv.to/assets/thumb/2f998973914188825bc3401342b28c69-thumbnail.jpg",
+      "href": "https://ppv.to/live/uel/2026-01-29/bet-fey",
+      "thumbnail": "https://api.ppv.to/assets/thumb/25c2c283e4241582abcef09b1e5f1a7d-thumbnail.jpg",
       "proxyPaths": [
-        "/proxy/game/nba-2026-01-28-cha-mem"
+        "/proxy/game/uel-2026-01-29-bet-fey"
       ]
     },
     {
-      "id": "nba-2026-01-28-min-dal",
-      "title": "Minnesota Timberwolves vs. Dallas Mavericks",
+      "id": "uel-2026-01-29-avl-sal",
+      "title": "Aston Villa vs. Salzburg",
       "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-28/min-dal",
-      "thumbnail": "https://api.ppv.to/assets/thumb/91f97b1fcf59e6b28924292641be6f75-thumbnail.jpg",
+      "href": "https://ppv.to/live/uel/2026-01-29/avl-sal",
+      "thumbnail": "https://api.ppv.to/assets/thumb/aec7544c3bcf608d5264fa851df253d0-thumbnail.jpg",
       "proxyPaths": [
-        "/proxy/game/nba-2026-01-28-min-dal"
+        "/proxy/game/uel-2026-01-29-avl-sal"
       ]
     },
     {
-      "id": "nba-2026-01-28-gs-utah",
-      "title": "Golden State Warriors vs. Utah Jazz",
+      "id": "uel-2026-01-29-zve-clt",
+      "title": "Crvena Zvezda vs. Celta",
       "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-28/gs-utah",
-      "thumbnail": "https://api.ppv.to/assets/thumb/07fa0d4c0a8d23b709406ce4968ae50a-thumbnail.jpg",
+      "href": "https://ppv.to/live/uel/2026-01-29/zve-clt",
+      "thumbnail": "https://api.ppv.to/assets/thumb/25b9cad3badbaac0c2fe4f45c33a31c3-thumbnail.jpg",
       "proxyPaths": [
-        "/proxy/game/nba-2026-01-28-gs-utah"
+        "/proxy/game/uel-2026-01-29-zve-clt"
       ]
     },
     {
-      "id": "nba-2026-01-28-sa-hou",
-      "title": "San Antonio Spurs vs. Houston Rockets",
+      "id": "uel-2026-01-29-lyo-paok",
+      "title": "Lyon vs. PAOK",
       "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-28/sa-hou",
-      "thumbnail": "https://api.ppv.to/assets/thumb/e4575f023cf0cdb76f702562b8fde420-thumbnail.jpg",
+      "href": "https://ppv.to/live/uel/2026-01-29/lyo-paok",
+      "thumbnail": "https://api.ppv.to/assets/thumb/9058ea5dbf3a8f2a3153b4570644808b-thumbnail.jpg",
       "proxyPaths": [
-        "/proxy/game/nba-2026-01-28-sa-hou"
+        "/proxy/game/uel-2026-01-29-lyo-paok"
       ]
     },
     {
-      "id": "nhl-2026-01-28-phi-cbj",
-      "title": "Philadelphia Flyers vs. Columbus Blue Jackets",
+      "id": "uel-2026-01-29-cel-utr",
+      "title": "Celtic vs. Utrecht",
       "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-28/phi-cbj",
-      "thumbnail": "https://api.ppv.to/assets/thumb/7e0cb1322c6de8b97f89544c2685aa99-thumbnail.jpg",
+      "href": "https://ppv.to/live/uel/2026-01-29/cel-utr",
+      "thumbnail": "https://api.ppv.to/assets/thumb/3ada99605efe0b078d7bac878a80eac4-thumbnail.jpg",
       "proxyPaths": [
-        "/proxy/game/nhl-2026-01-28-phi-cbj"
+        "/proxy/game/uel-2026-01-29-cel-utr"
       ]
     },
     {
-      "id": "nhl-2026-01-28-col-ott",
-      "title": "Colorado Avalanche vs. Ottawa Senators",
+      "id": "uel-2026-01-29-mta-bol",
+      "title": "M. Tel-Aviv vs. Bologna",
       "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-28/col-ott",
-      "thumbnail": "https://api.ppv.to/assets/thumb/c820cfd36c3c53f31aaf6fe45a0fb8eb-thumbnail.jpg",
+      "href": "https://ppv.to/live/uel/2026-01-29/mta-bol",
+      "thumbnail": "https://api.ppv.to/assets/thumb/34d8f59a95a058f4a5f8c0fcc236e1b5-thumbnail.jpg",
       "proxyPaths": [
-        "/proxy/game/nhl-2026-01-28-col-ott"
+        "/proxy/game/uel-2026-01-29-mta-bol"
       ]
     },
     {
-      "id": "aew-dynamite-2026-01-28",
-      "title": "AEW: Wednesday Night Dynamite",
+      "id": "uel-2026-01-29-bsl-plz",
+      "title": "Basel vs. Viktoria Plzeň",
       "channel": "",
-      "href": "https://ppv.to/live/aew/dynamite/2026-01-28",
-      "thumbnail": "https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",
+      "href": "https://ppv.to/live/uel/2026-01-29/bsl-plz",
+      "thumbnail": "https://api.ppv.to/assets/thumb/a30af368b6c45f1366190ef40401b707-thumbnail.jpg",
       "proxyPaths": [
-        "/proxy/game/aew-dynamite-2026-01-28"
+        "/proxy/game/uel-2026-01-29-bsl-plz"
+      ]
+    },
+    {
+      "id": "uel-2026-01-29-mid-din",
+      "title": "Midtjylland vs. GNK Dinamo",
+      "channel": "",
+      "href": "https://ppv.to/live/uel/2026-01-29/mid-din",
+      "thumbnail": "https://api.ppv.to/assets/thumb/243ff66b8a3040fbb97b9db131e8f2a9-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/uel-2026-01-29-mid-din"
+      ]
+    },
+    {
+      "id": "uel-2026-01-29-lud-nic",
+      "title": "Ludogorets vs. Nice",
+      "channel": "",
+      "href": "https://ppv.to/live/uel/2026-01-29/lud-nic",
+      "thumbnail": "https://api.ppv.to/assets/thumb/92dae154baef0a922309c76d2595f0ef-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/uel-2026-01-29-lud-nic"
+      ]
+    },
+    {
+      "id": "uel-2026-01-29-nfo-fer",
+      "title": "Nott'm Forest vs. Ferencváros",
+      "channel": "",
+      "href": "https://ppv.to/live/uel/2026-01-29/nfo-fer",
+      "thumbnail": "https://api.ppv.to/assets/thumb/8471129e6fa8665fd360d21ec74a9156-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/uel-2026-01-29-nfo-fer"
+      ]
+    },
+    {
+      "id": "uel-2026-01-29-sgr-brn",
+      "title": "Sturm Graz vs. Brann",
+      "channel": "",
+      "href": "https://ppv.to/live/uel/2026-01-29/sgr-brn",
+      "thumbnail": "https://api.ppv.to/assets/thumb/d4b4a5f54e1e293c7bdc9dce98edc1f1-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/uel-2026-01-29-sgr-brn"
+      ]
+    },
+    {
+      "id": "uel-2026-01-29-fcsb-fen",
+      "title": "FCSB vs. Fenerbahçe",
+      "channel": "",
+      "href": "https://ppv.to/live/uel/2026-01-29/fcsb-fen",
+      "thumbnail": "https://api.ppv.to/assets/thumb/5f2b96541328076f479ef2f60f545036-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/uel-2026-01-29-fcsb-fen"
+      ]
+    },
+    {
+      "id": "uel-2026-01-29-stu-yb",
+      "title": "Stuttgart vs. Young Boys",
+      "channel": "",
+      "href": "https://ppv.to/live/uel/2026-01-29/stu-yb",
+      "thumbnail": "https://api.ppv.to/assets/thumb/7b7e12954b826700abb66160ea6586a0-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/uel-2026-01-29-stu-yb"
+      ]
+    },
+    {
+      "id": "uel-2026-01-29-gae-bra",
+      "title": "Go Ahead Eagles vs. Braga",
+      "channel": "",
+      "href": "https://ppv.to/live/uel/2026-01-29/gae-bra",
+      "thumbnail": "https://api.ppv.to/assets/thumb/6b6ee9d3e9ca4d6751eb2b7838061e4c-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/uel-2026-01-29-gae-bra"
+      ]
+    },
+    {
+      "id": "uel-2026-01-29-gen-mal",
+      "title": "Genk vs. Malmö",
+      "channel": "",
+      "href": "https://ppv.to/live/uel/2026-01-29/gen-mal",
+      "thumbnail": "https://api.ppv.to/assets/thumb/93c565ab0b5686d8d9bcf5c8d250ea9f-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/uel-2026-01-29-gen-mal"
       ]
     }
   ]
