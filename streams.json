@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/29/2026, 12:30:27 PM",
-  "lastUpdateISO": "2026-01-29T20:30:27.810Z",
+  "lastUpdate": "01/29/2026, 12:34:52 PM",
+  "lastUpdateISO": "2026-01-29T20:34:52.519Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 17,
+  "streamCount": 19,
   "streams": [
     {
       "id": "golazo",
@@ -133,6 +133,26 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/8471129e6fa8665fd360d21ec74a9156-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/uel-2026-01-29-nfo-fer"
+      ]
+    },
+    {
+      "id": "uel-2026-01-29-sgr-brn",
+      "title": "Sturm Graz vs. Brann",
+      "channel": "",
+      "href": "https://ppv.to/live/uel/2026-01-29/sgr-brn",
+      "thumbnail": "https://api.ppv.to/assets/thumb/d4b4a5f54e1e293c7bdc9dce98edc1f1-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/uel-2026-01-29-sgr-brn"
+      ]
+    },
+    {
+      "id": "uel-2026-01-29-fcsb-fen",
+      "title": "FCSB vs. Fenerbahçe",
+      "channel": "",
+      "href": "https://ppv.to/live/uel/2026-01-29/fcsb-fen",
+      "thumbnail": "https://api.ppv.to/assets/thumb/5f2b96541328076f479ef2f60f545036-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/uel-2026-01-29-fcsb-fen"
       ]
     },
     {
