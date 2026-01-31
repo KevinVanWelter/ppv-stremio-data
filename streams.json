@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/31/2026, 02:11:57 PM",
-  "lastUpdateISO": "2026-01-31T22:11:57.107Z",
+  "lastUpdate": "01/31/2026, 02:16:54 PM",
+  "lastUpdateISO": "2026-01-31T22:16:54.284Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 15,
+  "streamCount": 14,
   "streams": [
     {
       "id": "murtazaliev-vs-kelly",
@@ -53,16 +53,6 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/49ff6d9c50f12a66e31590661fa2ff8a-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/ufc-325-volkanovski-vs-lopes-2"
-      ]
-    },
-    {
-      "id": "seriea-2026-01-31-cag-ver",
-      "title": "Cagliari vs. Hellas Verona",
-      "channel": "",
-      "href": "https://ppv.to/live/seriea/2026-01-31/cag-ver",
-      "thumbnail": "https://api.ppv.to/assets/thumb/83a2a34a0fe527fa738c0e98cdd93e55-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/seriea-2026-01-31-cag-ver"
       ]
     },
     {
