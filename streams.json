@@ -1,50 +1,10 @@
 {
-  "lastUpdate": "01/31/2026, 02:53:19 PM",
-  "lastUpdateISO": "2026-01-31T22:53:19.363Z",
+  "lastUpdate": "01/31/2026, 03:08:08 PM",
+  "lastUpdateISO": "2026-01-31T23:08:08.627Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 11,
+  "streamCount": 8,
   "streams": [
-    {
-      "id": "murtazaliev-vs-kelly",
-      "title": "Murtazaliev vs. Kelly",
-      "channel": "",
-      "href": "https://ppv.to/live/murtazaliev-vs.-kelly",
-      "thumbnail": "https://api.ppv.to/assets/thumb/5237264ae1c3e3bbcf91030dfa4d2239-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/murtazaliev-vs-kelly"
-      ]
-    },
-    {
-      "id": "oktagon-83-english",
-      "title": "OKTAGON 83 (English)",
-      "channel": "",
-      "href": "https://ppv.to/live/oktagon-83-english",
-      "thumbnail": "https://api.ppv.to/assets/thumb/d99eb7915713cecf281f865e1627f402-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/oktagon-83-english"
-      ]
-    },
-    {
-      "id": "oktagon-83-german",
-      "title": "OKTAGON 83 (German)",
-      "channel": "",
-      "href": "https://ppv.to/live/oktagon-83-german",
-      "thumbnail": "https://api.ppv.to/assets/thumb/d99eb7915713cecf281f865e1627f402-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/oktagon-83-german"
-      ]
-    },
-    {
-      "id": "oktagon-83-czech",
-      "title": "OKTAGON 83 (Czech)",
-      "channel": "",
-      "href": "https://ppv.to/live/oktagon-83-czech",
-      "thumbnail": "https://api.ppv.to/assets/thumb/d99eb7915713cecf281f865e1627f402-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/oktagon-83-czech"
-      ]
-    },
     {
       "id": "ufc-325-volkanovski-vs-lopes-2",
       "title": "UFC 325: Volkanovski vs. Lopes 2",
@@ -53,6 +13,16 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/49ff6d9c50f12a66e31590661fa2ff8a-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/ufc-325-volkanovski-vs-lopes-2"
+      ]
+    },
+    {
+      "id": "ring-6-teofimo-vs-stevenson",
+      "title": "RING 6: Teofimo vs. Stevenson",
+      "channel": "",
+      "href": "https://ppv.to/live/ring-6-teofimo-vs.-stevenson",
+      "thumbnail": "https://api.ppv.to/assets/thumb/67c090f1b8ba28977641444966cb44e3-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ring-6-teofimo-vs-stevenson"
       ]
     },
     {
