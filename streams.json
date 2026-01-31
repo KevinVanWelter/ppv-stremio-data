@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/31/2026, 12:47:06 PM",
-  "lastUpdateISO": "2026-01-31T20:47:06.163Z",
+  "lastUpdate": "01/31/2026, 01:01:46 PM",
+  "lastUpdateISO": "2026-01-31T21:01:46.021Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 12,
+  "streamCount": 13,
   "streams": [
     {
       "id": "murtazaliev-vs-kelly",
@@ -86,16 +86,6 @@
       ]
     },
     {
-      "id": "nhl-2026-01-31-col-det",
-      "title": "Colorado Avalanche vs. Detroit Red Wings",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-31/col-det",
-      "thumbnail": "https://api.ppv.to/assets/thumb/a4472eb2be25b09cb84ada69bffefc8a-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-31-col-det"
-      ]
-    },
-    {
       "id": "nhl-2026-01-31-nyr-pit",
       "title": "New York Rangers vs. Pittsburgh Penguins",
       "channel": "",
@@ -103,6 +93,26 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/5e3637733bef6cec48cdc27d870b29a1-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nhl-2026-01-31-nyr-pit"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-31-wpg-fla",
+      "title": "Winnipeg Jets vs. Florida Panthers",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-31/wpg-fla",
+      "thumbnail": "https://api.ppv.to/assets/thumb/aa340b42894fbbcdb0ea81fae458ef4b-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-31-wpg-fla"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-31-sj-cgy",
+      "title": "San Jose Sharks vs. Calgary Flames",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-31/sj-cgy",
+      "thumbnail": "https://api.ppv.to/assets/thumb/0ed222689c28fa7e5c42e66db2b91f10-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-31-sj-cgy"
       ]
     },
     {
