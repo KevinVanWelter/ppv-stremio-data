@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "01/31/2026, 12:05:52 PM",
-  "lastUpdateISO": "2026-01-31T20:05:52.456Z",
+  "lastUpdate": "01/31/2026, 12:15:58 PM",
+  "lastUpdateISO": "2026-01-31T20:15:58.231Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
   "streamCount": 12,
@@ -86,6 +86,16 @@
       ]
     },
     {
+      "id": "ligue1-2026-01-31-mon-ren",
+      "title": "AS Monaco vs. Stade Rennais",
+      "channel": "",
+      "href": "https://ppv.to/live/ligue1/2026-01-31/mon-ren",
+      "thumbnail": "https://api.ppv.to/assets/thumb/a92595614cf4c711c333e510b37b5820-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ligue1-2026-01-31-mon-ren"
+      ]
+    },
+    {
       "id": "nhl-2026-01-31-la-phi",
       "title": "Los Angeles Kings vs. Philadelphia Flyers",
       "channel": "",
@@ -103,16 +113,6 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/a4472eb2be25b09cb84ada69bffefc8a-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nhl-2026-01-31-col-det"
-      ]
-    },
-    {
-      "id": "smx-wk4",
-      "title": "Supercross: Houston",
-      "channel": "",
-      "href": "https://ppv.to/live/smx-wk4",
-      "thumbnail": "https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/smx-wk4"
       ]
     },
     {
