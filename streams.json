@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/31/2026, 01:32:04 PM",
-  "lastUpdateISO": "2026-01-31T21:32:04.859Z",
+  "lastUpdate": "01/31/2026, 01:37:32 PM",
+  "lastUpdateISO": "2026-01-31T21:37:32.374Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 13,
+  "streamCount": 11,
   "streams": [
     {
       "id": "murtazaliev-vs-kelly",
@@ -16,16 +16,6 @@
       ]
     },
     {
-      "id": "oktagon-83-english",
-      "title": "OKTAGON 83 (English)",
-      "channel": "",
-      "href": "https://ppv.to/live/oktagon-83-english",
-      "thumbnail": "https://api.ppv.to/assets/thumb/d99eb7915713cecf281f865e1627f402-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/oktagon-83-english"
-      ]
-    },
-    {
       "id": "oktagon-83-german",
       "title": "OKTAGON 83 (German)",
       "channel": "",
@@ -33,16 +23,6 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/d99eb7915713cecf281f865e1627f402-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/oktagon-83-german"
-      ]
-    },
-    {
-      "id": "oktagon-83-czech",
-      "title": "OKTAGON 83 (Czech)",
-      "channel": "",
-      "href": "https://ppv.to/live/oktagon-83-czech",
-      "thumbnail": "https://api.ppv.to/assets/thumb/d99eb7915713cecf281f865e1627f402-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/oktagon-83-czech"
       ]
     },
     {
