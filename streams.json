@@ -1,8 +1,89 @@
 {
-  "lastUpdate": "01/30/2026, 10:28:37 PM",
-  "lastUpdateISO": "2026-01-31T06:28:37.120Z",
+  "lastUpdate": "01/31/2026, 09:08:56 AM",
+  "lastUpdateISO": "2026-01-31T17:08:56.314Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 0,
-  "streams": []
+  "streamCount": 8,
+  "streams": [
+    {
+      "id": "nba-2026-01-31-sa-cha",
+      "title": "San Antonio Spurs vs. Charlotte Hornets",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-31/sa-cha",
+      "thumbnail": "https://api.ppv.to/assets/thumb/b0fb0cf389ad74ade6818d4e7ed5bc92-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nba-2026-01-31-sa-cha"
+      ]
+    },
+    {
+      "id": "murtazaliev-vs-kelly",
+      "title": "Murtazaliev vs. Kelly",
+      "channel": "",
+      "href": "https://ppv.to/live/murtazaliev-vs.-kelly",
+      "thumbnail": "https://api.ppv.to/assets/thumb/5237264ae1c3e3bbcf91030dfa4d2239-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/murtazaliev-vs-kelly"
+      ]
+    },
+    {
+      "id": "premierleague-2026-01-31-bha-eve",
+      "title": "Brighton & Hove Albion vs. Everton",
+      "channel": "",
+      "href": "https://ppv.to/live/premierleague/2026-01-31/bha-eve",
+      "thumbnail": "https://api.ppv.to/assets/thumb/deecb15a6bc3c8456b0a0e607f3b64f7-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/premierleague-2026-01-31-bha-eve"
+      ]
+    },
+    {
+      "id": "premierleague-2026-01-31-lee-ars",
+      "title": "Leeds United vs. Arsenal",
+      "channel": "",
+      "href": "https://ppv.to/live/premierleague/2026-01-31/lee-ars",
+      "thumbnail": "https://api.ppv.to/assets/thumb/27e58db66c613f6db9f98d203f467e02-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/premierleague-2026-01-31-lee-ars"
+      ]
+    },
+    {
+      "id": "premierleague-2026-01-31-wol-bou",
+      "title": "Wolverhampton Wanderers vs. AFC Bournemouth",
+      "channel": "",
+      "href": "https://ppv.to/live/premierleague/2026-01-31/wol-bou",
+      "thumbnail": "https://api.ppv.to/assets/thumb/342cd575b91afb1845278e12641d05a8-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/premierleague-2026-01-31-wol-bou"
+      ]
+    },
+    {
+      "id": "laliga-2026-01-31-osa-vil",
+      "title": "Osasuna vs. Villarreal",
+      "channel": "",
+      "href": "https://ppv.to/live/laliga/2026-01-31/osa-vil",
+      "thumbnail": "https://api.ppv.to/assets/thumb/1e86200fd9981032a0ff9705d757bad1-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/laliga-2026-01-31-osa-vil"
+      ]
+    },
+    {
+      "id": "ligue1-2026-01-31-par-olm",
+      "title": "Paris FC vs. Marseille",
+      "channel": "",
+      "href": "https://ppv.to/live/ligue1/2026-01-31/par-olm",
+      "thumbnail": "https://api.ppv.to/assets/thumb/d20be5e53e8aa2176268833180b603c5-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ligue1-2026-01-31-par-olm"
+      ]
+    },
+    {
+      "id": "seriea-2026-01-31-nap-fio",
+      "title": "Napoli vs. Fiorentina",
+      "channel": "",
+      "href": "https://ppv.to/live/seriea/2026-01-31/nap-fio",
+      "thumbnail": "https://api.ppv.to/assets/thumb/b9d6f33d67cb9df7cce769716d3ddfea-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/seriea-2026-01-31-nap-fio"
+      ]
+    }
+  ]
 }
