@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/31/2026, 02:27:03 PM",
-  "lastUpdateISO": "2026-01-31T22:27:03.809Z",
+  "lastUpdate": "01/31/2026, 02:31:44 PM",
+  "lastUpdateISO": "2026-01-31T22:31:44.063Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 14,
+  "streamCount": 12,
   "streams": [
     {
       "id": "murtazaliev-vs-kelly",
@@ -53,26 +53,6 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/49ff6d9c50f12a66e31590661fa2ff8a-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/ufc-325-volkanovski-vs-lopes-2"
-      ]
-    },
-    {
-      "id": "laliga-2026-01-31-elc-bar",
-      "title": "Elche vs. Barcelona",
-      "channel": "",
-      "href": "https://ppv.to/live/laliga/2026-01-31/elc-bar",
-      "thumbnail": "https://api.ppv.to/assets/thumb/4c1be1db97c7b1f9d41dc98aa797ba87-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/laliga-2026-01-31-elc-bar"
-      ]
-    },
-    {
-      "id": "premierleague-2026-01-31-liv-new",
-      "title": "Liverpool vs. Newcastle United",
-      "channel": "",
-      "href": "https://ppv.to/live/premierleague/2026-01-31/liv-new",
-      "thumbnail": "https://api.ppv.to/assets/thumb/620663846c2a8e6d066189958618cedf-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/premierleague-2026-01-31-liv-new"
       ]
     },
     {
