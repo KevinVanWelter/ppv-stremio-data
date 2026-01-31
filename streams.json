@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/31/2026, 02:31:44 PM",
-  "lastUpdateISO": "2026-01-31T22:31:44.063Z",
+  "lastUpdate": "01/31/2026, 02:36:40 PM",
+  "lastUpdateISO": "2026-01-31T22:36:40.918Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 12,
+  "streamCount": 11,
   "streams": [
     {
       "id": "murtazaliev-vs-kelly",
@@ -53,16 +53,6 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/49ff6d9c50f12a66e31590661fa2ff8a-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/ufc-325-volkanovski-vs-lopes-2"
-      ]
-    },
-    {
-      "id": "ligue1-2026-01-31-mon-ren",
-      "title": "AS Monaco vs. Stade Rennais",
-      "channel": "",
-      "href": "https://ppv.to/live/ligue1/2026-01-31/mon-ren",
-      "thumbnail": "https://api.ppv.to/assets/thumb/a92595614cf4c711c333e510b37b5820-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/ligue1-2026-01-31-mon-ren"
       ]
     },
     {
