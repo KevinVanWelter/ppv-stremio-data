@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/31/2026, 12:15:58 PM",
-  "lastUpdateISO": "2026-01-31T20:15:58.231Z",
+  "lastUpdate": "01/31/2026, 12:20:22 PM",
+  "lastUpdateISO": "2026-01-31T20:20:22.194Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 12,
+  "streamCount": 13,
   "streams": [
     {
       "id": "murtazaliev-vs-kelly",
@@ -113,6 +113,16 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/a4472eb2be25b09cb84ada69bffefc8a-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nhl-2026-01-31-col-det"
+      ]
+    },
+    {
+      "id": "smx-wk4",
+      "title": "Supercross: Houston",
+      "channel": "",
+      "href": "https://ppv.to/live/smx-wk4",
+      "thumbnail": "https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/smx-wk4"
       ]
     },
     {
