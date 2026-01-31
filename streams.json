@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "01/31/2026, 12:31:04 PM",
-  "lastUpdateISO": "2026-01-31T20:31:04.228Z",
+  "lastUpdate": "01/31/2026, 12:41:35 PM",
+  "lastUpdateISO": "2026-01-31T20:41:35.871Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
   "streamCount": 12,
@@ -36,13 +36,13 @@
       ]
     },
     {
-      "id": "ligue1-2026-01-31-lor-nan",
-      "title": "Lorient vs. Nantes",
+      "id": "oktagon-83-czech",
+      "title": "OKTAGON 83 (Czech)",
       "channel": "",
-      "href": "https://ppv.to/live/ligue1/2026-01-31/lor-nan",
-      "thumbnail": "https://api.ppv.to/assets/thumb/f0d3fcc79ef70d44d9d48cc588597ef4-thumbnail.jpg",
+      "href": "https://ppv.to/live/oktagon-83-czech",
+      "thumbnail": "https://api.ppv.to/assets/thumb/d99eb7915713cecf281f865e1627f402-thumbnail.jpg",
       "proxyPaths": [
-        "/proxy/game/ligue1-2026-01-31-lor-nan"
+        "/proxy/game/oktagon-83-czech"
       ]
     },
     {
@@ -86,16 +86,6 @@
       ]
     },
     {
-      "id": "nhl-2026-01-31-la-phi",
-      "title": "Los Angeles Kings vs. Philadelphia Flyers",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-31/la-phi",
-      "thumbnail": "https://api.ppv.to/assets/thumb/61c971fcf26677db1a0705e1ab602304-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-31-la-phi"
-      ]
-    },
-    {
       "id": "nhl-2026-01-31-col-det",
       "title": "Colorado Avalanche vs. Detroit Red Wings",
       "channel": "",
@@ -103,6 +93,16 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/a4472eb2be25b09cb84ada69bffefc8a-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nhl-2026-01-31-col-det"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-31-nyr-pit",
+      "title": "New York Rangers vs. Pittsburgh Penguins",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-31/nyr-pit",
+      "thumbnail": "https://api.ppv.to/assets/thumb/5e3637733bef6cec48cdc27d870b29a1-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-31-nyr-pit"
       ]
     },
     {
