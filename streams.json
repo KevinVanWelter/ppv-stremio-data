@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/31/2026, 12:00:19 PM",
-  "lastUpdateISO": "2026-01-31T20:00:19.167Z",
+  "lastUpdate": "01/31/2026, 12:05:52 PM",
+  "lastUpdateISO": "2026-01-31T20:05:52.456Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 13,
+  "streamCount": 12,
   "streams": [
     {
       "id": "murtazaliev-vs-kelly",
@@ -46,36 +46,6 @@
       ]
     },
     {
-      "id": "laliga-2026-01-31-lev-atm",
-      "title": "Levante vs. Atlético Madrid",
-      "channel": "",
-      "href": "https://ppv.to/live/laliga/2026-01-31/lev-atm",
-      "thumbnail": "https://api.ppv.to/assets/thumb/990b1ab7ea616d2324d7ac5c07ee4975-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/laliga-2026-01-31-lev-atm"
-      ]
-    },
-    {
-      "id": "bundesliga-2026-01-31-hsv-mun",
-      "title": "Hamburg SV vs. Bayern Munich",
-      "channel": "",
-      "href": "https://ppv.to/live/bundesliga/2026-01-31/hsv-mun",
-      "thumbnail": "https://api.ppv.to/assets/thumb/58fecc4268ab0a17c0ac57cb1ab31047-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/bundesliga-2026-01-31-hsv-mun"
-      ]
-    },
-    {
-      "id": "premierleague-2026-01-31-che-whu",
-      "title": "Chelsea vs. West Ham United",
-      "channel": "",
-      "href": "https://ppv.to/live/premierleague/2026-01-31/che-whu",
-      "thumbnail": "https://api.ppv.to/assets/thumb/e7ea19e8abc1de93dfd5393b4506cae3-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/premierleague-2026-01-31-che-whu"
-      ]
-    },
-    {
       "id": "ligue1-2026-01-31-lor-nan",
       "title": "Lorient vs. Nantes",
       "channel": "",
@@ -93,6 +63,26 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/83a2a34a0fe527fa738c0e98cdd93e55-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/seriea-2026-01-31-cag-ver"
+      ]
+    },
+    {
+      "id": "laliga-2026-01-31-elc-bar",
+      "title": "Elche vs. Barcelona",
+      "channel": "",
+      "href": "https://ppv.to/live/laliga/2026-01-31/elc-bar",
+      "thumbnail": "https://api.ppv.to/assets/thumb/4c1be1db97c7b1f9d41dc98aa797ba87-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/laliga-2026-01-31-elc-bar"
+      ]
+    },
+    {
+      "id": "premierleague-2026-01-31-liv-new",
+      "title": "Liverpool vs. Newcastle United",
+      "channel": "",
+      "href": "https://ppv.to/live/premierleague/2026-01-31/liv-new",
+      "thumbnail": "https://api.ppv.to/assets/thumb/620663846c2a8e6d066189958618cedf-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/premierleague-2026-01-31-liv-new"
       ]
     },
     {
