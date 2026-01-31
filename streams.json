@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/31/2026, 03:08:08 PM",
-  "lastUpdateISO": "2026-01-31T23:08:08.627Z",
+  "lastUpdate": "01/31/2026, 03:33:07 PM",
+  "lastUpdateISO": "2026-01-31T23:33:07.266Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 8,
+  "streamCount": 7,
   "streams": [
     {
       "id": "ufc-325-volkanovski-vs-lopes-2",
@@ -23,16 +23,6 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/67c090f1b8ba28977641444966cb44e3-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/ring-6-teofimo-vs-stevenson"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-31-nyr-pit",
-      "title": "New York Rangers vs. Pittsburgh Penguins",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-31/nyr-pit",
-      "thumbnail": "https://api.ppv.to/assets/thumb/5e3637733bef6cec48cdc27d870b29a1-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-31-nyr-pit"
       ]
     },
     {
