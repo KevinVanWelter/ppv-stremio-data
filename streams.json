@@ -1,8 +1,79 @@
 {
-  "lastUpdate": "01/31/2026, 08:40:46 PM",
-  "lastUpdateISO": "2026-02-01T04:40:46.811Z",
+  "lastUpdate": "01/31/2026, 08:46:19 PM",
+  "lastUpdateISO": "2026-02-01T04:46:19.381Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 0,
-  "streams": []
+  "streamCount": 7,
+  "streams": [
+    {
+      "id": "ufc-325-volkanovski-vs-lopes-2",
+      "title": "UFC 325: Volkanovski vs. Lopes 2",
+      "channel": "",
+      "href": "https://ppv.to/live/ufc-325-volkanovski-vs.-lopes-2",
+      "thumbnail": "https://api.ppv.to/assets/thumb/49ff6d9c50f12a66e31590661fa2ff8a-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ufc-325-volkanovski-vs-lopes-2"
+      ]
+    },
+    {
+      "id": "ring-6-teofimo-vs-stevenson",
+      "title": "RING 6: Teofimo vs. Stevenson",
+      "channel": "",
+      "href": "https://ppv.to/live/ring-6-teofimo-vs.-stevenson",
+      "thumbnail": "https://api.ppv.to/assets/thumb/67c090f1b8ba28977641444966cb44e3-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ring-6-teofimo-vs-stevenson"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-31-dal-uta",
+      "title": "Dallas Stars vs. Utah Mammoth",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-31/dal-uta",
+      "thumbnail": "https://api.ppv.to/assets/thumb/1278a1757b1b5a645bf46005590c7d71-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-31-dal-uta"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-31-min-edm",
+      "title": "Minnesota Wild vs. Edmonton Oilers",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-31/min-edm",
+      "thumbnail": "https://api.ppv.to/assets/thumb/d051c7f584ac4a4d1f1cf2450f627fdc-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-31-min-edm"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-31-sea-vgk",
+      "title": "Seattle Kraken vs. Vegas Golden Knights",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-31/sea-vgk",
+      "thumbnail": "https://api.ppv.to/assets/thumb/7b3c411d310eb4be70d9d4037865da23-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-31-sea-vgk"
+      ]
+    },
+    {
+      "id": "ye-mexico-city-day-2",
+      "title": "Ye - Mexico City (Day 2)",
+      "channel": "",
+      "href": "https://ppv.to/live/ye---mexico-city-day-2",
+      "thumbnail": "https://api.ppv.to/assets/thumb/8df531039e18f51f57e71ba16e06cd46-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/ye-mexico-city-day-2"
+      ]
+    },
+    {
+      "id": "smx-wk4",
+      "title": "Supercross: Houston",
+      "channel": "",
+      "href": "https://ppv.to/live/smx-wk4",
+      "thumbnail": "https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/smx-wk4"
+      ]
+    }
+  ]
 }
