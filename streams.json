@@ -1,8 +1,19 @@
 {
-  "lastUpdate": "02/01/2026, 03:25:44 AM",
-  "lastUpdateISO": "2026-02-01T11:25:44.538Z",
+  "lastUpdate": "02/01/2026, 03:31:01 AM",
+  "lastUpdateISO": "2026-02-01T11:31:01.623Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 0,
-  "streams": []
+  "streamCount": 1,
+  "streams": [
+    {
+      "id": "seriea-2026-02-01-tor-lec",
+      "title": "Torino vs. Lecce",
+      "channel": "",
+      "href": "https://ppv.to/live/seriea/2026-02-01/tor-lec",
+      "thumbnail": "https://api.ppv.to/assets/thumb/d6ef816a273d29fd3c2410ee3ecfd789-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/seriea-2026-02-01-tor-lec"
+      ]
+    }
+  ]
 }
