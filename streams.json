@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/31/2026, 08:51:20 PM",
-  "lastUpdateISO": "2026-02-01T04:51:20.167Z",
+  "lastUpdate": "01/31/2026, 08:56:53 PM",
+  "lastUpdateISO": "2026-02-01T04:56:53.418Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 7,
+  "streamCount": 6,
   "streams": [
     {
       "id": "ufc-325-volkanovski-vs-lopes-2",
@@ -43,16 +43,6 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/d051c7f584ac4a4d1f1cf2450f627fdc-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nhl-2026-01-31-min-edm"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-31-sea-vgk",
-      "title": "Seattle Kraken vs. Vegas Golden Knights",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-31/sea-vgk",
-      "thumbnail": "https://api.ppv.to/assets/thumb/7b3c411d310eb4be70d9d4037865da23-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-31-sea-vgk"
       ]
     },
     {
