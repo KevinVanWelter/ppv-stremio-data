@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/31/2026, 04:28:17 PM",
-  "lastUpdateISO": "2026-02-01T00:28:17.035Z",
+  "lastUpdate": "01/31/2026, 04:33:18 PM",
+  "lastUpdateISO": "2026-02-01T00:33:18.577Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 11,
+  "streamCount": 12,
   "streams": [
     {
       "id": "nba-2026-01-31-atl-ind",
@@ -13,6 +13,16 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/965b6fc4bb4e86b7e162254867bc8d15-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nba-2026-01-31-atl-ind"
+      ]
+    },
+    {
+      "id": "nba-2026-01-31-no-phi",
+      "title": "New Orleans Pelicans vs. Philadelphia 76ers",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-31/no-phi",
+      "thumbnail": "https://api.ppv.to/assets/thumb/995cbc954e565a147b296a66fd7630a4-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nba-2026-01-31-no-phi"
       ]
     },
     {
