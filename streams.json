@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "02/01/2026, 06:26:16 AM",
-  "lastUpdateISO": "2026-02-01T14:26:16.101Z",
+  "lastUpdate": "02/01/2026, 06:31:17 AM",
+  "lastUpdateISO": "2026-02-01T14:31:17.950Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 6,
+  "streamCount": 7,
   "streams": [
     {
       "id": "laliga-2026-02-01-rma-ray",
@@ -63,6 +63,16 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/d22d968169af05ab884b280dd9bbcc27-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/ligue1-2026-02-01-lyon-lill"
+      ]
+    },
+    {
+      "id": "bundesliga-2026-02-01-vfb-scf",
+      "title": "VfB Stuttgart vs. SC Freiburg",
+      "channel": "",
+      "href": "https://ppv.to/live/bundesliga/2026-02-01/vfb-scf",
+      "thumbnail": "https://api.ppv.to/assets/thumb/6670ad1320cc829f109ccc8bc74e35d7-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/bundesliga-2026-02-01-vfb-scf"
       ]
     }
   ]
