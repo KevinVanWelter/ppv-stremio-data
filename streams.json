@@ -1,20 +1,10 @@
 {
-  "lastUpdate": "02/01/2026, 07:26:25 AM",
-  "lastUpdateISO": "2026-02-01T15:26:25.907Z",
+  "lastUpdate": "02/01/2026, 07:31:35 AM",
+  "lastUpdateISO": "2026-02-01T15:31:35.177Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 8,
+  "streamCount": 7,
   "streams": [
-    {
-      "id": "laliga-2026-02-01-rma-ray",
-      "title": "Real Madrid vs. Rayo Vallecano",
-      "channel": "",
-      "href": "https://ppv.to/live/laliga/2026-02-01/rma-ray",
-      "thumbnail": "https://api.ppv.to/assets/thumb/2d0e2c045f8f2fd7256ca3c2a79f6f9a-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/laliga-2026-02-01-rma-ray"
-      ]
-    },
     {
       "id": "premierleague-2026-02-01-avl-bre",
       "title": "Aston Villa vs. Brentford",
