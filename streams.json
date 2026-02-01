@@ -1,59 +1,8 @@
 {
-  "lastUpdate": "01/31/2026, 09:56:17 PM",
-  "lastUpdateISO": "2026-02-01T05:56:17.440Z",
+  "lastUpdate": "01/31/2026, 10:01:10 PM",
+  "lastUpdateISO": "2026-02-01T06:01:10.222Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 5,
-  "streams": [
-    {
-      "id": "ufc-325-volkanovski-vs-lopes-2",
-      "title": "UFC 325: Volkanovski vs. Lopes 2",
-      "channel": "",
-      "href": "https://ppv.to/live/ufc-325-volkanovski-vs.-lopes-2",
-      "thumbnail": "https://api.ppv.to/assets/thumb/49ff6d9c50f12a66e31590661fa2ff8a-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/ufc-325-volkanovski-vs-lopes-2"
-      ]
-    },
-    {
-      "id": "ring-6-teofimo-vs-stevenson",
-      "title": "RING 6: Teofimo vs. Stevenson",
-      "channel": "",
-      "href": "https://ppv.to/live/ring-6-teofimo-vs.-stevenson",
-      "thumbnail": "https://api.ppv.to/assets/thumb/67c090f1b8ba28977641444966cb44e3-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/ring-6-teofimo-vs-stevenson"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-31-min-edm",
-      "title": "Minnesota Wild vs. Edmonton Oilers",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-31/min-edm",
-      "thumbnail": "https://api.ppv.to/assets/thumb/d051c7f584ac4a4d1f1cf2450f627fdc-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-31-min-edm"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-31-sea-vgk",
-      "title": "Seattle Kraken vs. Vegas Golden Knights",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-31/sea-vgk",
-      "thumbnail": "https://api.ppv.to/assets/thumb/7b3c411d310eb4be70d9d4037865da23-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-31-sea-vgk"
-      ]
-    },
-    {
-      "id": "smx-wk4",
-      "title": "Supercross: Houston",
-      "channel": "",
-      "href": "https://ppv.to/live/smx-wk4",
-      "thumbnail": "https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/smx-wk4"
-      ]
-    }
-  ]
+  "streamCount": 0,
+  "streams": []
 }
