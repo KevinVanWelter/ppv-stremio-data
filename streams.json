@@ -1,20 +1,10 @@
 {
-  "lastUpdate": "02/01/2026, 08:46:20 AM",
-  "lastUpdateISO": "2026-02-01T16:46:20.395Z",
+  "lastUpdate": "02/01/2026, 09:06:39 AM",
+  "lastUpdateISO": "2026-02-01T17:06:39.263Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
   "streamCount": 7,
   "streams": [
-    {
-      "id": "bundesliga-2026-02-01-vfb-scf",
-      "title": "VfB Stuttgart vs. SC Freiburg",
-      "channel": "",
-      "href": "https://ppv.to/live/bundesliga/2026-02-01/vfb-scf",
-      "thumbnail": "https://api.ppv.to/assets/thumb/6670ad1320cc829f109ccc8bc74e35d7-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/bundesliga-2026-02-01-vfb-scf"
-      ]
-    },
     {
       "id": "laliga-2026-02-01-bet-val",
       "title": "Real Betis vs. Valencia",
@@ -73,6 +63,16 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/29932e9ca05c082b770e6cd202ef4ed6-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/premierleague-2026-02-01-tot-mnc"
+      ]
+    },
+    {
+      "id": "seriea-2026-02-01-cre-int",
+      "title": "Cremonese vs. Inter Milan",
+      "channel": "",
+      "href": "https://ppv.to/live/seriea/2026-02-01/cre-int",
+      "thumbnail": "https://api.ppv.to/assets/thumb/f71094c555bccf29879e05ea58a190cd-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/seriea-2026-02-01-cre-int"
       ]
     }
   ]
