@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "02/01/2026, 07:11:22 AM",
-  "lastUpdateISO": "2026-02-01T15:11:22.529Z",
+  "lastUpdate": "02/01/2026, 07:16:23 AM",
+  "lastUpdateISO": "2026-02-01T15:16:23.652Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 7,
+  "streamCount": 8,
   "streams": [
     {
       "id": "laliga-2026-02-01-rma-ray",
@@ -73,6 +73,16 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/6670ad1320cc829f109ccc8bc74e35d7-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/bundesliga-2026-02-01-vfb-scf"
+      ]
+    },
+    {
+      "id": "laliga-2026-02-01-bet-val",
+      "title": "Real Betis vs. Valencia",
+      "channel": "",
+      "href": "https://ppv.to/live/laliga/2026-02-01/bet-val",
+      "thumbnail": "https://api.ppv.to/assets/thumb/e5bf2a0afb64b13199da9ef020d0b609-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/laliga-2026-02-01-bet-val"
       ]
     }
   ]
