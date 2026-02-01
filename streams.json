@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/31/2026, 08:56:53 PM",
-  "lastUpdateISO": "2026-02-01T04:56:53.418Z",
+  "lastUpdate": "01/31/2026, 09:01:13 PM",
+  "lastUpdateISO": "2026-02-01T05:01:13.119Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 6,
+  "streamCount": 5,
   "streams": [
     {
       "id": "ufc-325-volkanovski-vs-lopes-2",
@@ -26,16 +26,6 @@
       ]
     },
     {
-      "id": "nhl-2026-01-31-dal-uta",
-      "title": "Dallas Stars vs. Utah Mammoth",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-31/dal-uta",
-      "thumbnail": "https://api.ppv.to/assets/thumb/1278a1757b1b5a645bf46005590c7d71-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-31-dal-uta"
-      ]
-    },
-    {
       "id": "nhl-2026-01-31-min-edm",
       "title": "Minnesota Wild vs. Edmonton Oilers",
       "channel": "",
@@ -46,13 +36,13 @@
       ]
     },
     {
-      "id": "ye-mexico-city-day-2",
-      "title": "Ye - Mexico City (Day 2)",
+      "id": "nhl-2026-01-31-sea-vgk",
+      "title": "Seattle Kraken vs. Vegas Golden Knights",
       "channel": "",
-      "href": "https://ppv.to/live/ye---mexico-city-day-2",
-      "thumbnail": "https://api.ppv.to/assets/thumb/8df531039e18f51f57e71ba16e06cd46-thumbnail.jpg",
+      "href": "https://ppv.to/live/nhl/2026-01-31/sea-vgk",
+      "thumbnail": "https://api.ppv.to/assets/thumb/7b3c411d310eb4be70d9d4037865da23-thumbnail.jpg",
       "proxyPaths": [
-        "/proxy/game/ye-mexico-city-day-2"
+        "/proxy/game/nhl-2026-01-31-sea-vgk"
       ]
     },
     {
