@@ -1,60 +1,10 @@
 {
-  "lastUpdate": "02/01/2026, 08:26:29 AM",
-  "lastUpdateISO": "2026-02-01T16:26:29.649Z",
+  "lastUpdate": "02/01/2026, 08:31:22 AM",
+  "lastUpdateISO": "2026-02-01T16:31:22.635Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 10,
+  "streamCount": 7,
   "streams": [
-    {
-      "id": "premierleague-2026-02-01-avl-bre",
-      "title": "Aston Villa vs. Brentford",
-      "channel": "",
-      "href": "https://ppv.to/live/premierleague/2026-02-01/avl-bre",
-      "thumbnail": "https://api.ppv.to/assets/thumb/e171e5528b322a277c3dec2b7d37aff9-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/premierleague-2026-02-01-avl-bre"
-      ]
-    },
-    {
-      "id": "premierleague-2026-02-01-man-ful",
-      "title": "Manchester United vs. Fulham",
-      "channel": "",
-      "href": "https://ppv.to/live/premierleague/2026-02-01/man-ful",
-      "thumbnail": "https://api.ppv.to/assets/thumb/3dab2670810bca5acc1b55f333df2c47-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/premierleague-2026-02-01-man-ful"
-      ]
-    },
-    {
-      "id": "premierleague-2026-02-01-nfo-cry",
-      "title": "Nottingham Forest vs. Crystal Palace",
-      "channel": "",
-      "href": "https://ppv.to/live/premierleague/2026-02-01/nfo-cry",
-      "thumbnail": "https://api.ppv.to/assets/thumb/80b77672f198e3779b20dbbf4374aa99-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/premierleague-2026-02-01-nfo-cry"
-      ]
-    },
-    {
-      "id": "seriea-2026-02-01-como-ata",
-      "title": "Como vs. Atalanta",
-      "channel": "",
-      "href": "https://ppv.to/live/seriea/2026-02-01/como-ata",
-      "thumbnail": "https://api.ppv.to/assets/thumb/5ca61e5b1d7d1dd12e9d5fee0d325b6f-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/seriea-2026-02-01-como-ata"
-      ]
-    },
-    {
-      "id": "ligue1-2026-02-01-lyon-lill",
-      "title": "Lyon vs. Lille",
-      "channel": "",
-      "href": "https://ppv.to/live/ligue1/2026-02-01/lyon-lill",
-      "thumbnail": "https://api.ppv.to/assets/thumb/d22d968169af05ab884b280dd9bbcc27-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/ligue1-2026-02-01-lyon-lill"
-      ]
-    },
     {
       "id": "bundesliga-2026-02-01-vfb-scf",
       "title": "VfB Stuttgart vs. SC Freiburg",
@@ -103,6 +53,26 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/d597e4795f8c45b26ad6921fc60d4749-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/ligue1-2026-02-01-tou-aux"
+      ]
+    },
+    {
+      "id": "bundesliga-2026-02-01-dor-hdh",
+      "title": "Borussia Dortmund vs. 1. FC Heidenheim 1846",
+      "channel": "",
+      "href": "https://ppv.to/live/bundesliga/2026-02-01/dor-hdh",
+      "thumbnail": "https://api.ppv.to/assets/thumb/9bf2aa80f6079da71b44552e0fdae7b5-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/bundesliga-2026-02-01-dor-hdh"
+      ]
+    },
+    {
+      "id": "premierleague-2026-02-01-tot-mnc",
+      "title": "Tottenham Hotspur vs. Manchester City",
+      "channel": "",
+      "href": "https://ppv.to/live/premierleague/2026-02-01/tot-mnc",
+      "thumbnail": "https://api.ppv.to/assets/thumb/29932e9ca05c082b770e6cd202ef4ed6-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/premierleague-2026-02-01-tot-mnc"
       ]
     }
   ]
