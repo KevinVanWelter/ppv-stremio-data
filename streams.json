@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/31/2026, 08:06:38 PM",
-  "lastUpdateISO": "2026-02-01T04:06:38.696Z",
+  "lastUpdate": "01/31/2026, 08:12:01 PM",
+  "lastUpdateISO": "2026-02-01T04:12:01.725Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 8,
+  "streamCount": 5,
   "streams": [
     {
       "id": "nba-2026-01-31-dal-hou",
@@ -46,26 +46,6 @@
       ]
     },
     {
-      "id": "nhl-2026-01-31-min-edm",
-      "title": "Minnesota Wild vs. Edmonton Oilers",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-31/min-edm",
-      "thumbnail": "https://api.ppv.to/assets/thumb/d051c7f584ac4a4d1f1cf2450f627fdc-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-31-min-edm"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-31-sea-vgk",
-      "title": "Seattle Kraken vs. Vegas Golden Knights",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-31/sea-vgk",
-      "thumbnail": "https://api.ppv.to/assets/thumb/7b3c411d310eb4be70d9d4037865da23-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-31-sea-vgk"
-      ]
-    },
-    {
       "id": "ye-mexico-city-day-2",
       "title": "Ye - Mexico City (Day 2)",
       "channel": "",
@@ -73,16 +53,6 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/8df531039e18f51f57e71ba16e06cd46-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/ye-mexico-city-day-2"
-      ]
-    },
-    {
-      "id": "smx-wk4",
-      "title": "Supercross: Houston",
-      "channel": "",
-      "href": "https://ppv.to/live/smx-wk4",
-      "thumbnail": "https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/smx-wk4"
       ]
     }
   ]
