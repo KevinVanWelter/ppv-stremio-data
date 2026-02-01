@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/31/2026, 05:28:25 PM",
-  "lastUpdateISO": "2026-02-01T01:28:25.645Z",
+  "lastUpdate": "01/31/2026, 05:43:42 PM",
+  "lastUpdateISO": "2026-02-01T01:43:42.285Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 13,
+  "streamCount": 14,
   "streams": [
     {
       "id": "nba-2026-01-31-atl-ind",
@@ -43,6 +43,16 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/b5241ce802611302e42852add0bf6f80-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nba-2026-01-31-min-mem"
+      ]
+    },
+    {
+      "id": "nba-2026-01-31-dal-hou",
+      "title": "Dallas Mavericks vs. Houston Rockets",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-31/dal-hou",
+      "thumbnail": "https://api.ppv.to/assets/thumb/2eff3d641f65102abd0615a9cf5cdc39-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nba-2026-01-31-dal-hou"
       ]
     },
     {
