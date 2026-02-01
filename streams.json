@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/31/2026, 07:56:38 PM",
-  "lastUpdateISO": "2026-02-01T03:56:38.336Z",
+  "lastUpdate": "01/31/2026, 08:01:35 PM",
+  "lastUpdateISO": "2026-02-01T04:01:35.864Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 9,
+  "streamCount": 8,
   "streams": [
     {
       "id": "nba-2026-01-31-dal-hou",
@@ -83,16 +83,6 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/smx-wk4"
-      ]
-    },
-    {
-      "id": "aew-collision-2026-01-31",
-      "title": "AEW: Saturday Night Collision",
-      "channel": "",
-      "href": "https://ppv.to/live/aew/collision/2026-01-31",
-      "thumbnail": "https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/aew-collision-2026-01-31"
       ]
     }
   ]
