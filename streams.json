@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "02/01/2026, 04:56:01 AM",
-  "lastUpdateISO": "2026-02-01T12:56:01.739Z",
+  "lastUpdate": "02/01/2026, 05:01:04 AM",
+  "lastUpdateISO": "2026-02-01T13:01:04.528Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 1,
+  "streamCount": 2,
   "streams": [
     {
       "id": "seriea-2026-02-01-tor-lec",
@@ -13,6 +13,16 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/d6ef816a273d29fd3c2410ee3ecfd789-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/seriea-2026-02-01-tor-lec"
+      ]
+    },
+    {
+      "id": "laliga-2026-02-01-rma-ray",
+      "title": "Real Madrid vs. Rayo Vallecano",
+      "channel": "",
+      "href": "https://ppv.to/live/laliga/2026-02-01/rma-ray",
+      "thumbnail": "https://api.ppv.to/assets/thumb/2d0e2c045f8f2fd7256ca3c2a79f6f9a-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/laliga-2026-02-01-rma-ray"
       ]
     }
   ]
