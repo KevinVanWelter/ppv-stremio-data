@@ -1,19 +1,8 @@
 {
-  "lastUpdate": "01/31/2026, 11:56:01 PM",
-  "lastUpdateISO": "2026-02-01T07:56:01.263Z",
+  "lastUpdate": "02/01/2026, 12:00:44 AM",
+  "lastUpdateISO": "2026-02-01T08:00:44.305Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 1,
-  "streams": [
-    {
-      "id": "ufc-325-volkanovski-vs-lopes-2",
-      "title": "UFC 325: Volkanovski vs. Lopes 2",
-      "channel": "",
-      "href": "https://ppv.to/live/ufc-325-volkanovski-vs.-lopes-2",
-      "thumbnail": "https://api.ppv.to/assets/thumb/49ff6d9c50f12a66e31590661fa2ff8a-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/ufc-325-volkanovski-vs-lopes-2"
-      ]
-    }
-  ]
+  "streamCount": 0,
+  "streams": []
 }
