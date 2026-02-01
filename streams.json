@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "02/01/2026, 06:51:47 AM",
-  "lastUpdateISO": "2026-02-01T14:51:47.539Z",
+  "lastUpdate": "02/01/2026, 06:56:37 AM",
+  "lastUpdateISO": "2026-02-01T14:56:37.954Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 6,
+  "streamCount": 7,
   "streams": [
     {
       "id": "laliga-2026-02-01-rma-ray",
@@ -33,6 +33,16 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/3dab2670810bca5acc1b55f333df2c47-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/premierleague-2026-02-01-man-ful"
+      ]
+    },
+    {
+      "id": "premierleague-2026-02-01-nfo-cry",
+      "title": "Nottingham Forest vs. Crystal Palace",
+      "channel": "",
+      "href": "https://ppv.to/live/premierleague/2026-02-01/nfo-cry",
+      "thumbnail": "https://api.ppv.to/assets/thumb/80b77672f198e3779b20dbbf4374aa99-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/premierleague-2026-02-01-nfo-cry"
       ]
     },
     {
