@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "01/31/2026, 10:46:04 PM",
-  "lastUpdateISO": "2026-02-01T06:46:04.020Z",
+  "lastUpdate": "01/31/2026, 11:01:01 PM",
+  "lastUpdateISO": "2026-02-01T07:01:01.184Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 2,
+  "streamCount": 1,
   "streams": [
     {
       "id": "ufc-325-volkanovski-vs-lopes-2",
@@ -13,16 +13,6 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/49ff6d9c50f12a66e31590661fa2ff8a-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/ufc-325-volkanovski-vs-lopes-2"
-      ]
-    },
-    {
-      "id": "ring-6-teofimo-vs-stevenson",
-      "title": "RING 6: Teofimo vs. Stevenson",
-      "channel": "",
-      "href": "https://ppv.to/live/ring-6-teofimo-vs.-stevenson",
-      "thumbnail": "https://api.ppv.to/assets/thumb/67c090f1b8ba28977641444966cb44e3-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/ring-6-teofimo-vs-stevenson"
       ]
     }
   ]
