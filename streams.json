@@ -1,60 +1,10 @@
 {
-  "lastUpdate": "02/01/2026, 09:22:11 AM",
-  "lastUpdateISO": "2026-02-01T17:22:11.172Z",
+  "lastUpdate": "02/01/2026, 09:28:17 AM",
+  "lastUpdateISO": "2026-02-01T17:28:17.021Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 7,
+  "streamCount": 2,
   "streams": [
-    {
-      "id": "laliga-2026-02-01-bet-val",
-      "title": "Real Betis vs. Valencia",
-      "channel": "",
-      "href": "https://ppv.to/live/laliga/2026-02-01/bet-val",
-      "thumbnail": "https://api.ppv.to/assets/thumb/e5bf2a0afb64b13199da9ef020d0b609-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/laliga-2026-02-01-bet-val"
-      ]
-    },
-    {
-      "id": "ligue1-2026-02-01-ang-metz",
-      "title": "Angers vs. Metz",
-      "channel": "",
-      "href": "https://ppv.to/live/ligue1/2026-02-01/ang-metz",
-      "thumbnail": "https://api.ppv.to/assets/thumb/80794bf99a04ae8cc8d48c4b64a25979-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/ligue1-2026-02-01-ang-metz"
-      ]
-    },
-    {
-      "id": "ligue1-2026-02-01-nice-bre",
-      "title": "Nice vs. Brest",
-      "channel": "",
-      "href": "https://ppv.to/live/ligue1/2026-02-01/nice-bre",
-      "thumbnail": "https://api.ppv.to/assets/thumb/e6f48500e758893d5a16993ca46ab15c-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/ligue1-2026-02-01-nice-bre"
-      ]
-    },
-    {
-      "id": "ligue1-2026-02-01-tou-aux",
-      "title": "Toulouse vs. AJ Auxerre",
-      "channel": "",
-      "href": "https://ppv.to/live/ligue1/2026-02-01/tou-aux",
-      "thumbnail": "https://api.ppv.to/assets/thumb/d597e4795f8c45b26ad6921fc60d4749-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/ligue1-2026-02-01-tou-aux"
-      ]
-    },
-    {
-      "id": "bundesliga-2026-02-01-dor-hdh",
-      "title": "Borussia Dortmund vs. 1. FC Heidenheim 1846",
-      "channel": "",
-      "href": "https://ppv.to/live/bundesliga/2026-02-01/dor-hdh",
-      "thumbnail": "https://api.ppv.to/assets/thumb/9bf2aa80f6079da71b44552e0fdae7b5-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/bundesliga-2026-02-01-dor-hdh"
-      ]
-    },
     {
       "id": "premierleague-2026-02-01-tot-mnc",
       "title": "Tottenham Hotspur vs. Manchester City",
