@@ -1,30 +1,10 @@
 {
-  "lastUpdate": "01/31/2026, 07:46:47 PM",
-  "lastUpdateISO": "2026-02-01T03:46:47.173Z",
+  "lastUpdate": "01/31/2026, 07:51:34 PM",
+  "lastUpdateISO": "2026-02-01T03:51:34.141Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 11,
+  "streamCount": 9,
   "streams": [
-    {
-      "id": "nba-2026-01-31-chi-mia",
-      "title": "Chicago Bulls vs. Miami Heat",
-      "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-31/chi-mia",
-      "thumbnail": "https://api.ppv.to/assets/thumb/b6da79b4e8c2df76056dcb05044a5450-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nba-2026-01-31-chi-mia"
-      ]
-    },
-    {
-      "id": "nba-2026-01-31-min-mem",
-      "title": "Minnesota Timberwolves vs. Memphis Grizzlies",
-      "channel": "",
-      "href": "https://ppv.to/live/nba/2026-01-31/min-mem",
-      "thumbnail": "https://api.ppv.to/assets/thumb/b5241ce802611302e42852add0bf6f80-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nba-2026-01-31-min-mem"
-      ]
-    },
     {
       "id": "nba-2026-01-31-dal-hou",
       "title": "Dallas Mavericks vs. Houston Rockets",
