@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "01/31/2026, 03:58:18 PM",
-  "lastUpdateISO": "2026-01-31T23:58:18.791Z",
+  "lastUpdate": "01/31/2026, 04:03:17 PM",
+  "lastUpdateISO": "2026-02-01T00:03:17.765Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 7,
+  "streamCount": 11,
   "streams": [
+    {
+      "id": "nba-2026-01-31-atl-ind",
+      "title": "Atlanta Hawks vs. Indiana Pacers",
+      "channel": "",
+      "href": "https://ppv.to/live/nba/2026-01-31/atl-ind",
+      "thumbnail": "https://api.ppv.to/assets/thumb/965b6fc4bb4e86b7e162254867bc8d15-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nba-2026-01-31-atl-ind"
+      ]
+    },
     {
       "id": "ufc-325-volkanovski-vs-lopes-2",
       "title": "UFC 325: Volkanovski vs. Lopes 2",
@@ -26,26 +36,6 @@
       ]
     },
     {
-      "id": "nhl-2026-01-31-wpg-fla",
-      "title": "Winnipeg Jets vs. Florida Panthers",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-31/wpg-fla",
-      "thumbnail": "https://api.ppv.to/assets/thumb/aa340b42894fbbcdb0ea81fae458ef4b-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-31-wpg-fla"
-      ]
-    },
-    {
-      "id": "nhl-2026-01-31-sj-cgy",
-      "title": "San Jose Sharks vs. Calgary Flames",
-      "channel": "",
-      "href": "https://ppv.to/live/nhl/2026-01-31/sj-cgy",
-      "thumbnail": "https://api.ppv.to/assets/thumb/0ed222689c28fa7e5c42e66db2b91f10-thumbnail.jpg",
-      "proxyPaths": [
-        "/proxy/game/nhl-2026-01-31-sj-cgy"
-      ]
-    },
-    {
       "id": "nhl-2026-01-31-car-wsh",
       "title": "Carolina Hurricanes vs. Washington Capitals",
       "channel": "",
@@ -53,6 +43,56 @@
       "thumbnail": "https://api.ppv.to/assets/thumb/faca8d320fdb24a9280066f5803320dc-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nhl-2026-01-31-car-wsh"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-31-mtl-buf",
+      "title": "Montreal Canadiens vs. Buffalo Sabres",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-31/mtl-buf",
+      "thumbnail": "https://api.ppv.to/assets/thumb/d2c5e6ad0ff4c17bb1402bc4ef26c003-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-31-mtl-buf"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-31-nj-ott",
+      "title": "New Jersey Devils vs. Ottawa Senators",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-31/nj-ott",
+      "thumbnail": "https://api.ppv.to/assets/thumb/f2943bfeb4f5f3375c7f0cd0d1569ec1-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-31-nj-ott"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-31-nsh-nyi",
+      "title": "Nashville Predators vs. New York Islanders",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-31/nsh-nyi",
+      "thumbnail": "https://api.ppv.to/assets/thumb/2c2da1ddd417b6609c81242600d05f1d-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-31-nsh-nyi"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-31-cbj-stl",
+      "title": "Columbus Blue Jackets vs. St. Louis Blues",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-31/cbj-stl",
+      "thumbnail": "https://api.ppv.to/assets/thumb/055b6c7da031a3dd89c98f2f18cfe638-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-31-cbj-stl"
+      ]
+    },
+    {
+      "id": "nhl-2026-01-31-tor-van",
+      "title": "Toronto Maple Leafs vs. Vancouver Canucks",
+      "channel": "",
+      "href": "https://ppv.to/live/nhl/2026-01-31/tor-van",
+      "thumbnail": "https://api.ppv.to/assets/thumb/1a23a80d09c0b8de690ed3666279d163-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/nhl-2026-01-31-tor-van"
       ]
     },
     {
