@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "02/01/2026, 07:27:05 PM",
-  "lastUpdateISO": "2026-02-02T03:27:05.261Z",
+  "lastUpdate": "02/01/2026, 07:33:30 PM",
+  "lastUpdateISO": "2026-02-02T03:33:30.423Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
   "streamCount": 6,
@@ -10,7 +10,6 @@
       "title": "LA Clippers vs. Phoenix Suns",
       "channel": "",
       "href": "https://ppv.to/live/nba/2026-02-01/lac-phx",
-      "thumbnail": "https://api.ppv.to/assets/thumb/197c975289ad184047d0edd304a142af-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nba-2026-02-01-lac-phx"
       ]
@@ -20,7 +19,6 @@
       "title": "Cleveland Cavaliers vs. Portland Trail Blazers",
       "channel": "",
       "href": "https://ppv.to/live/nba/2026-02-01/cle-por",
-      "thumbnail": "https://api.ppv.to/assets/thumb/a6af5ced48b0b968c8b2c6e5410e1ed4-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nba-2026-02-01-cle-por"
       ]
@@ -30,7 +28,6 @@
       "title": "Oklahoma City Thunder vs. Denver Nuggets",
       "channel": "",
       "href": "https://ppv.to/live/nba/2026-02-01/okc-den",
-      "thumbnail": "https://api.ppv.to/assets/thumb/df7c88c88ef489be45812da0fb14d42c-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nba-2026-02-01-okc-den"
       ]
@@ -40,7 +37,6 @@
       "title": "Zuffa Boxing 02",
       "channel": "",
       "href": "https://ppv.to/live/zuffa-boxing-02",
-      "thumbnail": "https://api.ppv.to/assets/thumb/2648490806f1849768a886b4cf21df80-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/zuffa-boxing-02"
       ]
@@ -50,7 +46,6 @@
       "title": "Vegas Golden Knights vs. Anaheim Ducks",
       "channel": "",
       "href": "https://ppv.to/live/nhl/2026-02-01/vgk-ana",
-      "thumbnail": "https://api.ppv.to/assets/thumb/1270a7e9ee5190c56d9a23cf5fa30ffb-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/nhl-2026-02-01-vgk-ana"
       ]
@@ -60,7 +55,6 @@
       "title": "The 68th Annual Grammy Awards",
       "channel": "",
       "href": "https://ppv.to/live/the-68th-annual-grammy-awards",
-      "thumbnail": "https://api.ppv.to/assets/thumb/93e0158d9a8e47c06888a286c32a6916-thumbnail.jpg",
       "proxyPaths": [
         "/proxy/game/the-68th-annual-grammy-awards"
       ]
