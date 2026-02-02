@@ -1,8 +1,19 @@
 {
-  "lastUpdate": "02/02/2026, 11:41:50 AM",
-  "lastUpdateISO": "2026-02-02T19:41:50.872Z",
+  "lastUpdate": "02/02/2026, 11:47:08 AM",
+  "lastUpdateISO": "2026-02-02T19:47:08.005Z",
   "proxyBaseUrl": "http://192.168.1.173:3000",
   "localIP": "192.168.1.173",
-  "streamCount": 0,
-  "streams": []
+  "streamCount": 1,
+  "streams": [
+    {
+      "id": "seriea-2026-02-02-udi-roma",
+      "title": "Udinese vs. AS Roma",
+      "channel": "",
+      "href": "https://ppv.to/live/seriea/2026-02-02/udi-roma",
+      "thumbnail": "https://api.ppv.to/assets/thumb/a7c4b2d2356f5281fe7b1c20564b8ce0-thumbnail.jpg",
+      "proxyPaths": [
+        "/proxy/game/seriea-2026-02-02-udi-roma"
+      ]
+    }
+  ]
 }
